@@ -1,0 +1,30 @@
+name: (manual) make README.md
+on: 
+  workflow_dispatch:
+jobs:
+  deploy:
+    name: First job
+    runs-on: ubuntu-latest
+    permissions: write-all
+    env:
+      CUR_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: install libs
+        run: |
+          python3 -m pip install Pillow
+      - name: Make README.md
+        run: python res/src/makemd.py
+      - name: Commit file
+        run: |
+          git config user.name "Nova" 
+          git config user.email "235682468+Nova1422@users.noreply.github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "README.md updated"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true

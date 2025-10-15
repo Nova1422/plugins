@@ -1,0 +1,56 @@
+name: (manual) create release
+on: 
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: 'which plugin?'
+        required: true
+        type: string
+jobs:
+  deploy:
+    name: First job
+    runs-on: ubuntu-latest
+    permissions: write-all
+    env:
+      INPUT_STORE: ${{ github.event.inputs.tags }}
+      CUR_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: install libs
+        run: |
+          python3 -m pip install Pillow
+      - name: plugin release
+        run: python3 res/src/release.py
+      - name: Upload plugins to release (versioning)
+        uses: ncipollo/release-action@v1.11.1
+        with:
+          name: ${{ env.UPDATE_TAG2 }}
+          tag: ${{ env.UPDATE_TAG }}
+          allowUpdates: true
+          replacesArtifacts: true
+          updateOnlyUnreleased: false
+          artifacts: "versioning/*.zip"
+      - name: Upload plugins to release
+        uses: ncipollo/release-action@v1.11.1
+        with:
+          name: Downloads
+          tag: Latest
+          allowUpdates: true
+          replacesArtifacts: true
+          updateOnlyUnreleased: false
+          artifacts: "*.zip"
+      - name: Make README.md
+        run: python res/src/makemd.py
+      - name: Commit file
+        run: |
+          git config user.name "Nova" 
+          git config user.email "235682468+Nova1422@users.noreply.github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "README.md updated"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
