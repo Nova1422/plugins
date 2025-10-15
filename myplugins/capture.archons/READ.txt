@@ -1,0 +1,3 @@
+To allow your fleet to use augmented weapons, make sure ammo usage is set to always, and the ship has a jump drive equipped
+
+

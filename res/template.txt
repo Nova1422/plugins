@@ -1,0 +1,31 @@
+# **my endless-sky-plugins**
+
+Instruction how to setup the repo can be found <a href="instructions.md">here</a>.
+
+<br>
+
+<br>
+
+%news%
+
+## Plugin List:<br>
+%pluginlist%
+
+
+%plugin template below this line%
+
+---
+
+### %name%
+
+%icon%
+
+[%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
+<br>
+%description%
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>%readme%</blockquote>
+</details>
+%screenshots%
+<br>

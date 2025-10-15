@@ -1,0 +1,2 @@
+capture.archons|1.0.0
+example.plugin|1.0.0
