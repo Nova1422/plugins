@@ -10,8 +10,8 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-16 | update: capture.archons<br>
 2025-10-15 | update: capture.archons<br>
-2025-04-10 | initial template repository setup<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -36,7 +36,7 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 
 <img src="myplugins/capture.archons/icon.png" height="100">
 
-[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capture.archons/capture.archons.zip) | 49.26 kb | 2025-10-15 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
+[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-capture.archons/capture.archons.zip) | 49.26 kb | 2025-10-16 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
 >spawns captureable archon ships in the system "Persitar"
 >
