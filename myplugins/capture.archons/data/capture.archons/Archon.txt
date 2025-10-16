@@ -1,7 +1,6 @@
 government "Drak (C)"
 	"display name" "Drak"
 	swizzle 0
-	color "governments: Drak"
 
 
 system "Persitar"
