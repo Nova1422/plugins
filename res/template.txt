@@ -1,11 +1,3 @@
-# **my endless-sky-plugins**
-
-Instruction how to setup the repo can be found <a href="instructions.md">here</a>.
-
-<br>
-
-<br>
-
 %news%
 
 ## Plugin List:<br>
