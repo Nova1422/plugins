@@ -1,1 +1,2 @@
 capture.archons|1.0.2
+jumpdrive.extended|1.0.0

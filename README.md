@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-17 | update: jumpdrive.extended<br>
 2025-10-16 | update: capture.archons<br>
 2025-10-15 | update: capture.archons<br>
 <img width="882" height="1"><br>
@@ -54,7 +55,7 @@
 
 <img src="myplugins/jumpdrive.extended/icon.png" height="100">
 
-[jumpdrive.extended.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-jumpdrive.extended/jumpdrive.extended.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/jumpdrive.extended/) <a href="res/imagemd/jumpdrive.extended.md">view images</a> [6]<br>
+[jumpdrive.extended.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-jumpdrive.extended/jumpdrive.extended.zip) | 719.54 kb | 2025-10-17 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/jumpdrive.extended/) <a href="res/imagemd/jumpdrive.extended.md">view images</a> [6]<br>
 <br>
 >sells the jump drive and some custom variants at the planet Caeliana
 >
