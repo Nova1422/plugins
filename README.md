@@ -16,6 +16,8 @@
 <td><img width="294" height="1"><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -39,6 +41,44 @@
 <blockquote>spawns captureable Archon ships in the system "Persitar" every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
 
 
+
+</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### jumpdrive.extended
+
+<img src="myplugins/jumpdrive.extended/icon.png" height="100">
+
+[jumpdrive.extended.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-jumpdrive.extended/jumpdrive.extended.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/jumpdrive.extended/) <a href="res/imagemd/jumpdrive.extended.md">view images</a> [6]<br>
+<br>
+>sells the jump drive and some custom variants at the planet Caeliana
+>
+>
+>
+>
+>Author: Nova.
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>Sells the jump drive and a couple upgraded variants at planet Caeliana
+
+
+
+Variants-
+
+Point drive: "A strange, ominous, blue-tinted version of the jump drive. More mysterious, more potent, and unlike anything known before. Origin  unknown, Behaviour erratic, Performance unmatched"
+
+Range- 5x
+
+
+
+Point drive(Unleashed): "Legends say this thing willed itself into existence."
+
+Range- Enough
 
 </blockquote>
 </details>
