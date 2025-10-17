@@ -1,0 +1,7 @@
+outfitter "JDE"
+	"Jump Drive"
+	"Point Drive"
+	"Point Drive(Unleashed)"
+
+planet Caelian
+	outfitter "JDE"

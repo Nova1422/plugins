@@ -1,0 +1,28 @@
+outfit "Point Drive"
+	category "Systems"
+	series "Drives"
+	index 30
+	cost 5000000
+	thumbnail "outfit/point drive"
+	"mass" 40
+	"outfit space" -20
+	"jump speed" .3
+	"jump fuel" 200
+	"jump drive" 1
+	"jump range" 500
+	description "A strange, ominous, blue-tinted version of the jump drive. More mysterious, more potent, and unlike anything known before. Origin  unknown, Behaviour erratic, Performance unmatched"
+
+
+outfit "Point Drive(Unleashed)"
+	category "Systems"
+	series "Drives"
+	index 30
+	cost 10000000
+	thumbnail "outfit/point drive(unleashed)"
+	"mass" 1
+	"outfit space" -1
+	"jump speed" 20000
+	"jump fuel" 2
+	"jump drive" 1
+	"jump range" 3000
+	description "Legends say this thing willed itself into existence."
