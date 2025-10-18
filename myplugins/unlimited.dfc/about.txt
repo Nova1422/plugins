@@ -1,4 +1,4 @@
-Lets you fire DragonflameCannon indefinitely by reducing firing fuel and heat to 0
+Lets you fire Dragonflame Cannon indefinitely by reducing firing fuel and heat to 0
 
 
 Author: Nova.
