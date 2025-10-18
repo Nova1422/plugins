@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-18 | update: unlimited.dfc<br>
 2025-10-17 | update: jumpdrive.extended<br>
 2025-10-16 | update: capture.archons<br>
 2025-10-15 | update: capture.archons<br>
@@ -19,6 +20,7 @@
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -98,6 +100,35 @@ screenshots(click to enlarge):<br>
 <table>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/jumpdrive.extended01.jpg" width="200"></td>
+	</tr>
+</table>
+<br>
+
+<br>
+
+
+---
+
+### unlimited.dfc
+
+<img src="myplugins/unlimited.dfc/icon.png" height="100">
+
+[unlimited.dfc.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlimited.dfc/unlimited.dfc.zip) | 100.79 kb | 2025-10-18 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlimited.dfc/) <a href="res/imagemd/unlimited.dfc.md">view images</a> [2]<br>
+<br>
+>Lets you fire DFC indefinitely by reducing firing fuel and heat to 0
+>
+>
+>Author: Nova.
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>reduces firing energy, fuel, heat, and force to 0, while increasing fire rate sixfold
+</blockquote>
+</details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/unlimited.dfc01.jpg" width="200"></td>
 	</tr>
 </table>
 <br>
