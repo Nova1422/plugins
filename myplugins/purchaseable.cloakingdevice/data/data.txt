@@ -1,0 +1,5 @@
+outfitter "CD"
+	"Cloaking Device"
+
+planet Hephaestus
+	outfitter "CD"
