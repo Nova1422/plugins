@@ -45,6 +45,16 @@
 
 </blockquote>
 </details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons01.JPG" width="200"></td>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons02.JPG" width="200"></td>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons03.JPG" width="200"></td>
+	</tr>
+</table>
+<br>
 
 <br>
 
