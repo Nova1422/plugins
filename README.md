@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-18 | update: purchaseable.cloakingdevice<br>
 2025-10-18 | update: unlimited.dfc<br>
 2025-10-17 | update: jumpdrive.extended<br>
 2025-10-16 | update: capture.archons<br>
@@ -17,8 +18,9 @@
 <tr valign="top">
 <td><img width="294" height="1"><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <img width="294" height="1"><br></td></tr></table>
@@ -109,6 +111,35 @@ screenshots(click to enlarge):<br>
 
 ---
 
+### purchaseable.cloakingdevice
+
+<img src="myplugins/purchaseable.cloakingdevice/icon.png" height="100">
+
+[purchaseable.cloakingdevice.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.cloakingdevice/purchaseable.cloakingdevice.zip) | 4.66 kb | 2025-10-18 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchaseable.cloakingdevice/) <a href="res/imagemd/purchaseable.cloakingdevice.md">view images</a> [1]<br>
+<br>
+>Sells Cloaking Devices on the syndicate planet "Hephaestus"
+>
+>
+>Author: Nova.
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/purchaseable.cloakingdevice01.JPG" width="200"></td>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/purchaseable.cloakingdevice02.JPG" width="200"></td>
+	</tr>
+</table>
+<br>
+
+<br>
+
+
+---
+
 ### unlimited.dfc
 
 <img src="myplugins/unlimited.dfc/icon.png" height="100">
@@ -122,7 +153,7 @@ screenshots(click to enlarge):<br>
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>reduces firing energy, fuel, heat, and force to 0, while increasing fire rate sixfold
+<blockquote>reduces its firing energy, fuel, heat, and force to 0, while increasing fire rate sixfold
 </blockquote>
 </details>
 <br>
