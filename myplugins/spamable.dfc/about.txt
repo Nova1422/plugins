@@ -1,0 +1,4 @@
+Lets you fire DFC indefinitely by reducing firing fuel and heat to 0
+
+
+Author: Nova.

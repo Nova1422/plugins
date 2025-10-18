@@ -1,0 +1,7 @@
+outfit "Dragonflame Cannon"
+	weapon
+		"reload" 30
+		"firing energy" 0
+		"firing fuel" 0
+		"firing heat" 0
+		"firing force" 0
