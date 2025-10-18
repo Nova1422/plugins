@@ -1,0 +1,1 @@
+reduces firing energy, fuel, heat, and force to 0, while increasing fire rate sixfold
