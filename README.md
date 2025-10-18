@@ -115,10 +115,11 @@ screenshots(click to enlarge):<br>
 
 [unlimited.dfc.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlimited.dfc/unlimited.dfc.zip) | 100.79 kb | 2025-10-18 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlimited.dfc/) <a href="res/imagemd/unlimited.dfc.md">view images</a> [2]<br>
 <br>
->Lets you fire DFC indefinitely by reducing firing fuel and heat to 0
+>Lets you fire Dragonflame Cannon indefinitely by reducing firing fuel and heat to 0
 >
 >
 >Author: Nova.
+
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>reduces firing energy, fuel, heat, and force to 0, while increasing fire rate sixfold
