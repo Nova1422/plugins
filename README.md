@@ -1,3 +1,5 @@
+For any suggestions, mistakes, or so mention me in the games official discord server^
+
 ## Latest News:
 <table>
 <tr>
