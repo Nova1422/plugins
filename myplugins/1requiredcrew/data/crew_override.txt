@@ -1,0 +1,850 @@
+# Plugin to override "required crew" to 1 for all valid ships, i.e, excluding automatons, hmu if something is missing
+
+ship "'nra'ret"
+	attributes
+		"required crew" 1
+
+ship "Aaulqra"
+	attributes
+		"required crew" 1
+
+ship "Aerie"
+	attributes
+		"required crew" 1
+
+ship "Albatross"
+	attributes
+		"required crew" 1
+
+ship "Anomalocaris"
+	attributes
+		"required crew" 1
+
+ship "Arach Freighter"
+	attributes
+		"required crew" 1
+
+ship "Arach Hulk"
+	attributes
+		"required crew" 1
+
+ship "Arach Spindle"
+	attributes
+		"required crew" 1
+
+ship "Arach Transport"
+	attributes
+		"required crew" 1
+
+ship "Ararebo"
+	attributes
+		"required crew" 1
+
+ship "Arch-Carrack"
+	attributes
+		"required crew" 1
+
+ship "Argosy"
+	attributes
+		"required crew" 1
+
+ship "Astral Cetacean"
+	attributes
+		"required crew" 1
+
+ship "Atenuatia"
+	attributes
+		"required crew" 1
+
+ship "Augen"
+	attributes
+		"required crew" 1
+
+ship "Autumn Leaf"
+	attributes
+		"required crew" 1
+
+ship "Auxiliary"
+	attributes
+		"required crew" 1
+
+ship "Avlaki"
+	attributes
+		"required crew" 1
+
+ship "Ayym"
+	attributes
+		"required crew" 1
+
+ship "Bactrian"
+	attributes
+		"required crew" 1
+
+ship "Bastion"
+	attributes
+		"required crew" 1
+
+ship "Behemoth"
+	attributes
+		"required crew" 1
+
+ship "Blackbird"
+	attributes
+		"required crew" 1
+
+ship "Bulk Freighter"
+	attributes
+		"required crew" 1
+
+ship "Bulwark"
+	attributes
+		"required crew" 1
+
+ship "Carrier"
+	attributes
+		"required crew" 1
+
+ship "Centipede"
+	attributes
+		"required crew" 1
+
+ship "Charm-Shallop"
+	attributes
+		"required crew" 1
+
+ship "Chigiriki"
+	attributes
+		"required crew" 1
+
+ship "Cicada"
+	attributes
+		"required crew" 1
+
+ship "Class C Freighter"
+	attributes
+		"required crew" 1
+
+ship "Clipper"
+	attributes
+		"required crew" 1
+
+ship "Coesite"
+	attributes
+		"required crew" 1
+
+ship "Conglomerate"
+	attributes
+		"required crew" 1
+
+ship "Container Transport"
+	attributes
+		"required crew" 1
+
+ship "Corundum"
+	attributes
+		"required crew" 1
+
+ship "Corvette"
+	attributes
+		"required crew" 1
+
+ship "Cruiser"
+	attributes
+		"required crew" 1
+
+ship "Cutthroat"
+	attributes
+		"required crew" 1
+
+ship "Deep River"
+	attributes
+		"required crew" 1
+
+ship "Deep River Transport"
+	attributes
+		"required crew" 1
+
+ship "Derecho"
+	attributes
+		"required crew" 1
+
+ship "Diaspersi"
+	attributes
+		"required crew" 1
+
+ship "Difraktos"
+	attributes
+		"required crew" 1
+
+ship "Diorite"
+	attributes
+		"required crew" 1
+
+ship "Dolomite"
+	attributes
+		"required crew" 1
+
+ship "Dreadnought"
+	attributes
+		"required crew" 1
+
+ship "Echo-Galleon"
+	attributes
+		"required crew" 1
+
+ship "Eclogite"
+	attributes
+		"required crew" 1
+
+ship "Ejniisde"
+	attributes
+		"required crew" 1
+
+ship "Ember Waste Node"
+	attributes
+		"required crew" 1
+
+ship "Emerald Sword"
+	attributes
+		"required crew" 1
+
+ship "Emperor Beetle"
+	attributes
+		"required crew" 1
+
+ship "Enforcer"
+	attributes
+		"required crew" 1
+
+ship "Entasi"
+	attributes
+		"required crew" 1
+
+ship "Epidote"
+	attributes
+		"required crew" 1
+
+ship "Falcon"
+	attributes
+		"required crew" 1
+
+ship "Feldspar"
+	attributes
+		"required crew" 1
+
+ship "Felsic"
+	attributes
+		"required crew" 1
+
+ship "Firebird"
+	attributes
+		"required crew" 1
+
+ship "Freighter"
+	attributes
+		"required crew" 1
+
+ship "Frequentia"
+	attributes
+		"required crew" 1
+
+ship "Frigate"
+	attributes
+		"required crew" 1
+
+ship "Geocoris"
+	attributes
+		"required crew" 1
+
+ship "Geodesic Geocoris"
+	attributes
+		"required crew" 1
+
+ship "Gero"
+	attributes
+		"required crew" 1
+
+ship "Gneiss"
+	attributes
+		"required crew" 1
+
+ship "Granofel"
+	attributes
+		"required crew" 1
+
+ship "Granulite"
+	attributes
+		"required crew" 1
+
+ship "Gull"
+	attributes
+		"required crew" 1
+
+ship "Gunboat"
+	attributes
+		"required crew" 1
+
+ship "Gypsum"
+	attributes
+		"required crew" 1
+
+ship "Harmonikos"
+	attributes
+		"required crew" 1
+
+ship "Hauler"
+	attributes
+		"required crew" 1
+
+ship "Hauler II"
+	attributes
+		"required crew" 1
+
+ship "Hauler III"
+	attributes
+		"required crew" 1
+
+ship "Headhunter"
+	attributes
+		"required crew" 1
+
+ship "Heavy Gust"
+	attributes
+		"required crew" 1
+
+ship "Heliarch Breacher"
+	attributes
+		"required crew" 1
+
+ship "Heliarch Hunter"
+	attributes
+		"required crew" 1
+
+ship "Heliarch Interdictor"
+	attributes
+		"required crew" 1
+
+ship "Heliarch Judicator"
+	attributes
+		"required crew" 1
+
+ship "Heliarch Neutralizer"
+	attributes
+		"required crew" 1
+
+ship "Heliarch Punisher"
+	attributes
+		"required crew" 1
+
+ship "Heron"
+	attributes
+		"required crew" 1
+
+ship "Hogshead"
+	attributes
+		"required crew" 1
+
+ship "Hornfel"
+	attributes
+		"required crew" 1
+
+ship "Hurricane"
+	attributes
+		"required crew" 1
+
+ship "Ibis"
+	attributes
+		"required crew" 1
+
+ship "Ikatila'ej"
+	attributes
+		"required crew" 1
+
+ship "Jje"
+	attributes
+		"required crew" 1
+
+ship "Kama"
+	attributes
+		"required crew" 1
+
+ship "Kas'lor Ik 582"
+	attributes
+		"required crew" 1
+
+ship "Kasichara A'awoj"
+	attributes
+		"required crew" 1
+
+ship "Kaskhorade"
+	attributes
+		"required crew" 1
+
+ship "Kestrel"
+	attributes
+		"required crew" 1
+
+ship "Kimek Briar"
+	attributes
+		"required crew" 1
+
+ship "Kimek Spire"
+	attributes
+		"required crew" 1
+
+ship "Kimek Thistle"
+	attributes
+		"required crew" 1
+
+ship "Korath Dredger"
+	attributes
+		"required crew" 1
+
+ship "Korath Raider"
+	attributes
+		"required crew" 1
+
+ship "Korath World-Ship"
+	attributes
+		"required crew" 1
+
+ship "Korsmanath A'awoj"
+	attributes
+		"required crew" 1
+
+ship "Koryfi"
+	attributes
+		"required crew" 1
+
+ship "Kunai"
+	attributes
+		"required crew" 1
+
+ship "Kyanite"
+	attributes
+		"required crew" 1
+
+ship "Ladybug"
+	attributes
+		"required crew" 1
+
+ship "Lampyrid-Class Transport"
+	attributes
+		"required crew" 1
+
+ship "Leviathan"
+	attributes
+		"required crew" 1
+
+ship "Lightning Bug"
+	attributes
+		"required crew" 1
+
+ship "Lor'kas Ik 577"
+	attributes
+		"required crew" 1
+
+ship "Lor'nag Ik 590"
+	attributes
+		"required crew" 1
+
+ship "Mammoth"
+	attributes
+		"required crew" 1
+
+ship "Manta"
+	attributes
+		"required crew" 1
+
+ship "Marauder Arrow"
+	attributes
+		"required crew" 1
+
+ship "Marauder Bactrian"
+	attributes
+		"required crew" 1
+
+ship "Marauder Bounder"
+	attributes
+		"required crew" 1
+
+ship "Marauder Falcon"
+	attributes
+		"required crew" 1
+
+ship "Marauder Firebird"
+	attributes
+		"required crew" 1
+
+ship "Marauder Leviathan"
+	attributes
+		"required crew" 1
+
+ship "Marauder Manta"
+	attributes
+		"required crew" 1
+
+ship "Marauder Quicksilver"
+	attributes
+		"required crew" 1
+
+ship "Marauder Raven"
+	attributes
+		"required crew" 1
+
+ship "Marauder Splinter"
+	attributes
+		"required crew" 1
+
+ship "Melodikos"
+	attributes
+		"required crew" 1
+
+ship "Modified Argosy"
+	attributes
+		"required crew" 1
+
+ship "Modified Battleship"
+	attributes
+		"required crew" 1
+
+ship "Modified Dromedary"
+	attributes
+		"required crew" 1
+
+ship "Modified Hauler VI"
+	attributes
+		"required crew" 1
+
+ship "Modified Ladybug"
+	attributes
+		"required crew" 1
+
+ship "Modified Osprey"
+	attributes
+		"required crew" 1
+
+ship "Modified Tachytia"
+	attributes
+		"required crew" 1
+
+ship "Monitor"
+	attributes
+		"required crew" 1
+
+ship "Mule"
+	attributes
+		"required crew" 1
+
+ship "Myaede"
+	attributes
+		"required crew" 1
+
+ship "Nest"
+	attributes
+		"required crew" 1
+
+ship "Nighthawk"
+	attributes
+		"required crew" 1
+
+ship "Nimbo Cirrus"
+	attributes
+		"required crew" 1
+
+ship "Nimbo Stratus"
+	attributes
+		"required crew" 1
+
+ship "Nimbus"
+	attributes
+		"required crew" 1
+
+ship "Nnaatej"
+	attributes
+		"required crew" 1
+
+ship "Ojde"
+	attributes
+		"required crew" 1
+
+ship "Osprey"
+	attributes
+		"required crew" 1
+
+ship "Palavret"
+	attributes
+		"required crew" 1
+
+ship "Pelican"
+	attributes
+		"required crew" 1
+
+ship "Peregrine"
+	attributes
+		"required crew" 1
+
+ship "Petrel"
+	attributes
+		"required crew" 1
+
+ship "Polari"
+	attributes
+		"required crew" 1
+
+ship "Pond Strider"
+	attributes
+		"required crew" 1
+
+ship "Prismaios"
+	attributes
+		"required crew" 1
+
+ship "Protector"
+	attributes
+		"required crew" 1
+
+ship "Protolith"
+	attributes
+		"required crew" 1
+
+ship "Pug Arfecta"
+	attributes
+		"required crew" 1
+
+ship "Pug Enfolta"
+	attributes
+		"required crew" 1
+
+ship "Pug Maboro"
+	attributes
+		"required crew" 1
+
+ship "Pug Zibruka"
+	attributes
+		"required crew" 1
+
+ship "Quarg Drake"
+	attributes
+		"required crew" 1
+
+ship "Quarg Guivre"
+	attributes
+		"required crew" 1
+
+ship "Quarg Hydra"
+	attributes
+		"required crew" 1
+
+ship "Quarg Lindwyrm"
+	attributes
+		"required crew" 1
+
+ship "Quarg Skylark"
+	attributes
+		"required crew" 1
+
+ship "Quarg Wardragon"
+	attributes
+		"required crew" 1
+
+ship "Quarg Wyvern"
+	attributes
+		"required crew" 1
+
+ship "Quicksilver"
+	attributes
+		"required crew" 1
+
+ship "Ra'at Ik 621"
+	attributes
+		"required crew" 1
+
+ship "Ra'gru Ik 618"
+	attributes
+		"required crew" 1
+
+ship "Rai'alorej"
+	attributes
+		"required crew" 1
+
+ship "Rainmaker"
+	attributes
+		"required crew" 1
+
+ship "Rano'erek"
+	attributes
+		"required crew" 1
+
+ship "Raven"
+	attributes
+		"required crew" 1
+
+ship "Refraktos"
+	attributes
+		"required crew" 1
+
+ship "Rhyolite"
+	attributes
+		"required crew" 1
+
+ship "Riptide"
+	attributes
+		"required crew" 1
+
+ship "Roost"
+	attributes
+		"required crew" 1
+
+ship "Saber"
+	attributes
+		"required crew" 1
+
+ship "Saryd Runabout"
+	attributes
+		"required crew" 1
+
+ship "Saryd Sojourner"
+	attributes
+		"required crew" 1
+
+ship "Saryd Traveler"
+	attributes
+		"required crew" 1
+
+ship "Saryd Visitor"
+	attributes
+		"required crew" 1
+
+ship "Sasumata"
+	attributes
+		"required crew" 1
+
+ship "Scarab"
+	attributes
+		"required crew" 1
+
+ship "Schist"
+	attributes
+		"required crew" 1
+
+ship "Sea Scorpion"
+	attributes
+		"required crew" 1
+
+ship "Seiitej"
+	attributes
+		"required crew" 1
+
+ship "Shield Beetle"
+	attributes
+		"required crew" 1
+
+ship "Skein"
+	attributes
+		"required crew" 1
+
+ship "Solifuge"
+	attributes
+		"required crew" 1
+
+ship "Splinter"
+	attributes
+		"required crew" 1
+
+ship "Star Queen"
+	attributes
+		"required crew" 1
+
+ship "Starling"
+	attributes
+		"required crew" 1
+
+ship "Strong Wind"
+	attributes
+		"required crew" 1
+
+ship "Summer Leaf"
+	attributes
+		"required crew" 1
+
+ship "Sunder"
+	attributes
+		"required crew" 1
+
+ship "Tanto"
+	attributes
+		"required crew" 1
+
+ship "Tekkan"
+	attributes
+		"required crew" 1
+
+ship "Tempest"
+	attributes
+		"required crew" 1
+
+ship "Tridymite"
+	attributes
+		"required crew" 1
+
+ship "Tubfalet"
+	attributes
+		"required crew" 1
+
+ship "Undsyni"
+	attributes
+		"required crew" 1
+
+ship "Unknown Ship Type"
+	attributes
+		"required crew" 1
+
+ship "Ursa Polaris"
+	attributes
+		"required crew" 1
+
+ship "Valkyrie"
+	attributes
+		"required crew" 1
+
+ship "Vanguard"
+	attributes
+		"required crew" 1
+
+ship "Venta"
+	attributes
+		"required crew" 1
+
+ship "Veusade"
+	attributes
+		"required crew" 1
+
+ship "Void Sprite"
+	attributes
+		"required crew" 1
+
+ship "Vujlet"
+	attributes
+		"required crew" 1
+
+ship "Vyrmeid"
+	attributes
+		"required crew" 1
+
+ship "Wardragon"
+	attributes
+		"required crew" 1
+
+ship "Water Bug"
+	attributes
+		"required crew" 1
+
+ship "Waverider"
+	attributes
+		"required crew" 1
+
+ship "Winter Gale"
+	attributes
+		"required crew" 1
+

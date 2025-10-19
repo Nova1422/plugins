@@ -1,0 +1,27 @@
+planet "Haven"
+	shipyard "pirated"
+	
+shipyard "pirated"
+	"Bactrian (Pirated)"
+
+
+
+ship "Bactrian" "Bactrian (Pirated)"
+	"variant map name" "Pirated"
+	sprite "ship/bactrian"
+	thumbnail "thumbnail/bactrian"
+	attributes
+		category "Utility"
+		"cost" 17600000
+		"shields" 17500
+		"hull" 8600
+		"required crew" 70
+		"bunks" 245
+		"mass" 2450
+		"drag" 30.6
+		"heat dissipation" .22
+		"fuel capacity" 700
+		"cargo space" 530
+		"outfit space" 740
+		"weapon capacity" 300
+		"engine capacity" 180

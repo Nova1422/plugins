@@ -1,0 +1,3 @@
+Reduces required crew of non pre existing ships to one. PS- Due to limitations, the ships you already own, will still have their original crew req, and ships you acquire with this plugin enabled, with retain the low crew requirement, ever after the plugin is disabled, best recommended for new saves or for specific captures
+
+Author: Nova.

@@ -1,0 +1,4 @@
+adds two purchasable h2h with 100k attack and defense each, on the planet "Pugglemug"
+
+
+author: Nova.

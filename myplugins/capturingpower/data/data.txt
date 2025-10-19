@@ -1,0 +1,24 @@
+outfit "Capture Attack"
+	category "Hand to Hand"
+	series "Fortifications"
+	cost 2000000
+	thumbnail "h2ha"
+	"capture attack" 100000
+	"unplunderable" 1
+	description "You will be dead where you stand"
+
+outfit "Capture Defense"
+	category "Hand to Hand"
+	series "Fortifications"
+	cost 2000000
+	thumbnail "h2hd"
+	"capture defense" 100000
+	"unplunderable" 1
+	description "No further, else"
+
+outfitter "100k"
+	"Capture Attack"
+	"Capture Defense"
+
+planet "Pugglemug"
+	outfitter "100k"

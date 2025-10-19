@@ -1,0 +1,1 @@
+The H2H outfit cost 2million a piece, And can be used without sufficient crew to wield them, Like pug bio defense
