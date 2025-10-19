@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-19 | update: capturingpower<br>
 2025-10-18 | update: purchaseable.cloakingdevice<br>
 2025-10-18 | update: unlimited.dfc<br>
 2025-10-17 | update: jumpdrive.extended<br>
@@ -17,16 +18,38 @@
 <table>
 <tr valign="top">
 <td><img width="294" height="1"><br>
+<a href="README.md#1requiredcrew">1requiredcrew</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
+<a href="README.md#capturingpower">capturingpower</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<a href="README.md#purchasebactrian">purchase.bactrian</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
 
+
+
+---
+
+### 1requiredcrew
+
+<img src="myplugins/1requiredcrew/icon.png" height="100">
+
+[1requiredcrew.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-1requiredcrew/1requiredcrew.zip) | 48.45 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/1requiredcrew/) <a href="res/imagemd/1requiredcrew.md">view images</a> [1]<br>
+<br>
+>Reduces required crew of non pre existing ships to one. PS- Due to limitations, the ships you already own, will still have their original crew req, and ships you acquire with this plugin enabled, with retain the low crew requirement, ever after the plugin is disabled, best recommended for new saves or for specific captures
+>
+>Author: Nova.
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
 
 
 ---
@@ -56,6 +79,36 @@ screenshots(click to enlarge):<br>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons01.JPG" width="200"></td>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons02.JPG" width="200"></td>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons03.JPG" width="200"></td>
+	</tr>
+</table>
+<br>
+
+<br>
+
+
+---
+
+### capturingpower
+
+<img src="myplugins/capturingpower/icon.png" height="100">
+
+[capturingpower.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capturingpower/capturingpower.zip) | 86.6 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capturingpower/) <a href="res/imagemd/capturingpower.md">view images</a> [5]<br>
+<br>
+>adds two purchasable h2h with 100k attack and defense each, on the planet "Pugglemug"
+>
+>
+>author: Nova.
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>The H2H outfit cost 2million a piece, And can be used without sufficient crew to wield them, Like pug bio defense
+</blockquote>
+</details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capturingpower01.png" width="200"></td>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capturingpower02.JPG" width="200"></td>
 	</tr>
 </table>
 <br>
@@ -102,6 +155,31 @@ screenshots(click to enlarge):<br>
 <table>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/jumpdrive.extended01.jpg" width="200"></td>
+	</tr>
+</table>
+<br>
+
+<br>
+
+
+---
+
+### purchase.bactrian
+
+<img src="myplugins/purchase.bactrian/icon.png" height="100">
+
+[purchase.bactrian.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-purchase.bactrian/purchase.bactrian.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchase.bactrian/) <a href="res/imagemd/purchase.bactrian.md">view images</a> [1]<br>
+<br>
+>Sells a license-free bactrian in the northern pirate planet "Haven"
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/purchase.bactrian01.JPG" width="200"></td>
 	</tr>
 </table>
 <br>

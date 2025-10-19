@@ -1,4 +1,5 @@
 capture.archons|1.0.2
+capturingpower|1.0.0
 jumpdrive.extended|1.0.0
 purchaseable.cloakingdevice|1.0.0
 unlimited.dfc|1.0.0
