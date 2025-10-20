@@ -13,6 +13,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 ### %name%
 
 %icon%
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/%name%.png">
 
 [%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>
