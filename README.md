@@ -40,6 +40,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 ### 1requiredcrew
 
 <img src="myplugins/1requiredcrew/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/1requiredcrew.png">
 
 [1requiredcrew.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-1requiredcrew/1requiredcrew.zip) | 48.45 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/1requiredcrew/) <a href="res/imagemd/1requiredcrew.md">view images</a> [1]<br>
 <br>
@@ -59,6 +60,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 ### capture.archons
 
 <img src="myplugins/capture.archons/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png">
 
 [capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-capture.archons/capture.archons.zip) | 49.25 kb | 2025-10-16 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
@@ -93,6 +95,7 @@ screenshots(click to enlarge):<br>
 ### capturingpower
 
 <img src="myplugins/capturingpower/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capturingpower.png">
 
 [capturingpower.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capturingpower/capturingpower.zip) | 86.6 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capturingpower/) <a href="res/imagemd/capturingpower.md">view images</a> [5]<br>
 <br>
@@ -123,6 +126,7 @@ screenshots(click to enlarge):<br>
 ### jumpdrive.extended
 
 <img src="myplugins/jumpdrive.extended/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/jumpdrive.extended.png">
 
 [jumpdrive.extended.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-jumpdrive.extended/jumpdrive.extended.zip) | 719.54 kb | 2025-10-17 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/jumpdrive.extended/) <a href="res/imagemd/jumpdrive.extended.md">view images</a> [6]<br>
 <br>
@@ -169,6 +173,7 @@ screenshots(click to enlarge):<br>
 ### purchase.bactrian
 
 <img src="myplugins/purchase.bactrian/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchase.bactrian.png">
 
 [purchase.bactrian.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchase.bactrian/purchase.bactrian.zip) | 95.66 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchase.bactrian/) <a href="res/imagemd/purchase.bactrian.md">view images</a> [1]<br>
 <br>
@@ -194,6 +199,7 @@ screenshots(click to enlarge):<br>
 ### purchaseable.cloakingdevice
 
 <img src="myplugins/purchaseable.cloakingdevice/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchaseable.cloakingdevice.png">
 
 [purchaseable.cloakingdevice.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.cloakingdevice/purchaseable.cloakingdevice.zip) | 4.66 kb | 2025-10-18 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchaseable.cloakingdevice/) <a href="res/imagemd/purchaseable.cloakingdevice.md">view images</a> [1]<br>
 <br>
@@ -223,6 +229,7 @@ screenshots(click to enlarge):<br>
 ### unlimited.dfc
 
 <img src="myplugins/unlimited.dfc/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlimited.dfc.png">
 
 [unlimited.dfc.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlimited.dfc/unlimited.dfc.zip) | 100.79 kb | 2025-10-18 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlimited.dfc/) <a href="res/imagemd/unlimited.dfc.md">view images</a> [2]<br>
 <br>
