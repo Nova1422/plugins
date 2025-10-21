@@ -97,7 +97,7 @@ fleet "Quarg DefenseH"
 		"Quarg Hydra" 40
 
 fleet "Quarg DefenseK"
-	government "Quarg (Kor Efert)"
+	government "Quarg (Kor Efret)"
 	names "quarg"
 	cargo 1
 	personality
@@ -135,7 +135,7 @@ fleet "Quarg DefenseG"
 		"Quarg Hydra" 40
 
 fleet "Quarg DefenseI"
-	government "Quarg (Incipas)"
+	government "Quarg (Incipias)"
 	names "quarg"
 	cargo 1
 	personality
