@@ -4,8 +4,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
-2025-10-19 | update: 1requiredcrew<br>
-2025-10-19 | update: capturingpower<br>		
 2025-10-19 | update: purchase.bactrian<br>
 2025-10-18 | update: purchaseable.cloakingdevice<br>
 2025-10-18 | update: unlimited.dfc<br>
@@ -107,7 +105,8 @@ screenshots(click to enlarge):<br>
 >author: Nova.
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>The H2H outfit cost 2million a piece, And can be used without sufficient crew to wield them, Like pug bio defense
+<blockquote>
+
 </blockquote>
 </details>
 <br>
