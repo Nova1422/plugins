@@ -236,9 +236,10 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/tributequarg/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/tributequarg.png">
 
-[tributequarg.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-tributequarg/tributequarg.zip) | 42.63 kb | 2025-10-21 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/tributequarg/) <a href="res/imagemd/tributequarg.md">view images</a> [2]<br>
+[tributequarg.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-tributequarg/tributequarg.zip) | 42.89 kb | 2025-10-21 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/tributequarg/) <a href="res/imagemd/tributequarg.md">view images</a> [2]<br>
 <br>
 >Lets you tribute Quarg planets and ringworlds
+
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>^Rightful credits to Zuckung for their major help in this plugin
