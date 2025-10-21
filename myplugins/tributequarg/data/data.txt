@@ -1,26 +1,26 @@
 planet "Alta Hai"
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseH"
 		threshold 2700
 
 planet Ruelogakk
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseG"
 		threshold 2700
 
 planet "Giaru Gegno"
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseG"
 		threshold 2700
 
 planet Arroharg
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseG"
 		threshold 2700
 
 planet Truklar
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseG"
 		threshold 2700
 
 planet Echo
@@ -45,21 +45,97 @@ planet Lagrange
 
 planet "Spec Inci"
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseI"
 		threshold 2700
 
 planet "Ut Divitas"
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseI"
 		threshold 2700
 
 planet "Kuwaru Efreti"
 	tribute 10000
-		fleet "Quarg Defense"
+		fleet "Quarg DefenseK"
 		threshold 2700
 
 fleet "Quarg Defense"
-	government "insert"
+	government "Quarg"
+	names "quarg"
+	cargo 1
+	personality
+		forbearing opportunistic
+	variant 98
+		"Quarg Hydra" 10
+		"Quarg Wyvern" 20
+		"Quarg Drake" 20
+		"Quarg Wardragon" 15
+		"Quarg Guivre" 10
+		"Quarg Lindwyrm" 15
+		"Wardragon" 1
+	variant 1
+		"Quarg Wardragon" 5
+	variant 1 
+		"Quarg Hydra" 40
+
+fleet "Quarg DefenseH"
+	government "Quarg (Hai)"
+	names "quarg"
+	cargo 1
+	personality
+		forbearing opportunistic
+	variant 98
+		"Quarg Hydra" 10
+		"Quarg Wyvern" 20
+		"Quarg Drake" 20
+		"Quarg Wardragon" 15
+		"Quarg Guivre" 10
+		"Quarg Lindwyrm" 15
+		"Wardragon" 1
+	variant 1
+		"Quarg Wardragon" 5
+	variant 1 
+		"Quarg Hydra" 40
+
+fleet "Quarg DefenseK"
+	government "Quarg (Kor Efert)"
+	names "quarg"
+	cargo 1
+	personality
+		forbearing opportunistic
+	variant 98
+		"Quarg Hydra" 10
+		"Quarg Wyvern" 20
+		"Quarg Drake" 20
+		"Quarg Wardragon" 15
+		"Quarg Guivre" 10
+		"Quarg Lindwyrm" 15
+		"Wardragon" 1
+	variant 1
+		"Quarg Wardragon" 5
+	variant 1 
+		"Quarg Hydra" 40
+
+fleet "Quarg DefenseG"
+	government "Quarg (Gegno)"
+	names "quarg"
+	cargo 1
+	personality
+		forbearing opportunistic
+	variant 98
+		"Quarg Hydra" 10
+		"Quarg Wyvern" 20
+		"Quarg Drake" 20
+		"Quarg Wardragon" 15
+		"Quarg Guivre" 10
+		"Quarg Lindwyrm" 15
+		"Wardragon" 1
+	variant 1
+		"Quarg Wardragon" 5
+	variant 1 
+		"Quarg Hydra" 40
+
+fleet "Quarg DefenseI"
+	government "Quarg (Incipas)"
 	names "quarg"
 	cargo 1
 	personality
@@ -113,7 +189,7 @@ mission "Quarg Rep"
 				"reputation: Quarg" = 100
 				"reputation: Quarg (Hai)" = 100
 				"reputation: Quarg (Kor Efret)" = 100
-				"reputation: Quarg (Kor Efret)" = 100
+				"reputation: Quarg (Gegno)" = 100
 				"reputation: Quarg (Incipias)" = 100
 
 			"The quargs immediately accept your decision."
@@ -126,7 +202,7 @@ mission "Quarg Rep"
 				"reputation: Quarg" = 100
 				"reputation: Quarg (Hai)" = 100
 				"reputation: Quarg (Kor Efret)" = 100
-				"reputation: Quarg (Kor Efret)" = 100
+				"reputation: Quarg (Gegno)" = 100
 				"reputation: Quarg (Incipias)" = 100
 				payment 10000000
 			"The quargs immediately accept your decision."
