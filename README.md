@@ -5,8 +5,8 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <tr>
 <td><img width="882" height="1"><br>
 2025-10-21 | update: tributequarg<br>
-2025-10-19 | update: 1requiredcrew<br><br>
-2025-10-19 | update: capturingpower<br>	<br>
+2025-10-19 | update: 1requiredcrew<br>
+2025-10-19 | update: capturingpower<br>
 2025-10-19 | update: purchase.bactrian<br>
 2025-10-18 | update: purchaseable.cloakingdevice<br>
 2025-10-18 | update: unlimited.dfc<br>
