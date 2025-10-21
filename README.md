@@ -4,6 +4,9 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-21 | update: tributequarg<br>
+2025-10-19 | update: 1requiredcrew<br><br>
+2025-10-19 | update: capturingpower<br>	<br>
 2025-10-19 | update: purchase.bactrian<br>
 2025-10-18 | update: purchaseable.cloakingdevice<br>
 2025-10-18 | update: unlimited.dfc<br>
@@ -26,8 +29,9 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
@@ -221,6 +225,25 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### tributequarg
+
+<img src="myplugins/tributequarg/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/tributequarg.png">
+
+[tributequarg.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-tributequarg/tributequarg.zip) | 42.63 kb | 2025-10-21 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/tributequarg/) <a href="res/imagemd/tributequarg.md">view images</a> [2]<br>
+<br>
+>Lets you tribute Quarg planets and ringworlds
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>^Rightful credits to Zuckung for their major help in this plugin
+</blockquote>
+</details>
 
 <br>
 
