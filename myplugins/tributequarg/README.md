@@ -1,0 +1,1 @@
+^Rightful credits to Zuckung for their major help in this plugin

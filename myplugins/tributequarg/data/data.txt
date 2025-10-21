@@ -1,0 +1,183 @@
+planet "Alta Hai"
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet Ruelogakk
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet "Giaru Gegno"
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet Arroharg
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet Truklar
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet Echo
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet Grakhord
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet Forpelog
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet Lagrange
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet "Spec Inci"
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet "Ut Divitas"
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+planet "Kuwaru Efreti"
+	tribute 10000
+		fleet "Quarg Defense"
+		threshold 2700
+
+fleet "Quarg Defense"
+	government "insert"
+	names "quarg"
+	cargo 1
+	personality
+		forbearing opportunistic
+	variant 98
+		"Quarg Hydra" 10
+		"Quarg Wyvern" 20
+		"Quarg Drake" 20
+		"Quarg Wardragon" 15
+		"Quarg Guivre" 10
+		"Quarg Lindwyrm" 15
+		"Wardragon" 1
+	variant 1
+		"Quarg Wardragon" 5
+	variant 1 
+		"Quarg Hydra" 40
+
+
+#Big credits to zuckung for providing the framework for the thing below
+
+mission "Quarg Rep"
+	invisible
+	landing
+	to offer
+		has "tribute: Alta Hai"
+		"tribute: Ruelogakk"
+		"tribute: Giaru Gegno"
+		"tribute: Arroharg"
+		"tribute: Truklar"
+		"tribute: Echo"
+		"tribute: Grakhord"
+		"tribute: Forpelog"
+		"tribute: Lagrange"
+		"tribute: Spec Inci"
+		"tribute: Ut Divitas"
+		"tribute: Kuwaru Efreti"
+
+	on offer
+		conversation 
+			"After your extreme show of dominance, The quarg contact you to let you know that they don't want to fight you anymore."
+			choice
+				`send "Yes, lets have peace!"`
+					goto peace
+				`send "There can be no peace between us!"`
+					goto war
+				`send "If you pay me 10 million credits maybe then we can have peace"`
+					goto pay
+
+			label peace
+			action
+				"reputation: Quarg" = 100
+				"reputation: Quarg (Hai)" = 100
+				"reputation: Quarg (Kor Efret)" = 100
+				"reputation: Quarg (Kor Efret)" = 100
+				"reputation: Quarg (Incipias)" = 100
+
+			"The quargs immediately accept your decision."
+				decline
+			label war
+			"The quargs have labeled you as their sworn enemy."
+				decline
+			label pay
+			action
+				"reputation: Quarg" = 100
+				"reputation: Quarg (Hai)" = 100
+				"reputation: Quarg (Kor Efret)" = 100
+				"reputation: Quarg (Kor Efret)" = 100
+				"reputation: Quarg (Incipias)" = 100
+				payment 10000000
+			"The quargs immediately accept your decision."
+				decline
+
+
+#Stolen from quarg.farm
+
+government "Quarg"
+	atrocities
+		"Stub"
+
+
+government "Quarg (Hai)"
+	atrocities
+		"Stub"
+
+
+government "Quarg (Kor Efret)"
+	atrocities
+		"Stub"
+
+
+government "Quarg (Kor Efret)"
+	atrocities
+		"Stub"
+
+
+government "Quarg (Incipias)"
+	atrocities
+		"Stub"
+
+outfit "Stub"
+	category "Power"
+	cost 100000000
+	thumbnail "outfit/quarg antimatter core"
+	"mass" 80
+	"outfit space" -80
+	"energy generation" 80
+	"heat generation" 20
+	"unplunderable" 1
+	description "Woot?"
+
+
+
+
+
+
+
+
+
+
+
+
