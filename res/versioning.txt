@@ -1,5 +1,5 @@
 capture.archons|1.0.2
-jumpdrive.extended|1.0.0
+jumpdrive.extended|1.0.1
 purchase.bactrian|1.0.0
 purchaseable.cloakingdevice|1.0.0
 tributequarg|1.0.1

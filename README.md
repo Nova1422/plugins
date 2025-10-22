@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-22 | update: jumpdrive.extended<br>
 2025-10-21 | update: tributequarg<br>
 2025-10-19 | update: 1requiredcrew<br>
 2025-10-19 | update: capturingpower<br>
@@ -133,14 +134,10 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/jumpdrive.extended/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/jumpdrive.extended.png">
 
-[jumpdrive.extended.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-jumpdrive.extended/jumpdrive.extended.zip) | 719.54 kb | 2025-10-17 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/jumpdrive.extended/) <a href="res/imagemd/jumpdrive.extended.md">view images</a> [6]<br>
+[jumpdrive.extended.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-jumpdrive.extended/jumpdrive.extended.zip) | 719.9 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/jumpdrive.extended/) <a href="res/imagemd/jumpdrive.extended.md">view images</a> [6]<br>
 <br>
->sells the jump drive and some custom variants at the planet Caeliana
->
->
->
->
->Author: Nova.
+>Sells the jump drive and some custom variants at the planet Caeliana
+
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>Sells the jump drive and a couple upgraded variants at planet Caeliana
@@ -149,15 +146,25 @@ screenshots(click to enlarge):<br>
 
 Variants-
 
-Point drive: "A strange, ominous, blue-tinted version of the jump drive. More mysterious, more potent, and unlike anything known before. Origin  unknown, Behaviour erratic, Performance unmatched"
+Vortex Drive: "A strange, ominous, blue-tinted version of the jump drive. More mysterious, more potent, and unlike anything known before. Origin  unknown, Behaviour erratic, Performance unmatched"
 
 Range- 5x
 
 
 
-Point drive(Unleashed): "Legends say this thing willed itself into existence."
+Carrion Drive: "Legends say this thing willed itself into existence."
 
 Range- Enough
+
+
+
+Changelog
+
+
+
+v1.0.1
+
+Added plugin.txt and renamed point drives to vortex and carrion drive, also buffed the red drive tenfold
 
 </blockquote>
 </details>
