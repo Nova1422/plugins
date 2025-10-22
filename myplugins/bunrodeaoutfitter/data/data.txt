@@ -1,0 +1,7 @@
+planet Kalbai
+	attributes bunrodea uninhabited
+	landscape land/forest4
+	description `For some reason, this apparently fruitful world has been left largely unsettled by the Bunrodea. Kalbai is teeming with life of all kinds, from varieties of plants across the various forests and plains of the planet's surface to the critters of varying sizes that scurry through the underbrush.`
+	description `	There are only minimal signs that anyone has ever set foot on this world; there are a number of ancient ruins scattered across the largest continent. A few appear to have been abandoned and reclaimed by nature, but most look as though they were destroyed, creating strikingly lifeless circles in the landscape around the center of the ruins.`
+	description `	Is that an abandoned outfitter?`
+	outfitter ""

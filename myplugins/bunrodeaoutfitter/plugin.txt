@@ -1,0 +1,5 @@
+name "Bunrodea Outfitter"
+about `Adds an outfitter on the Bunrodea planet "Kalbai"`
+authors 
+	"Nova."
+version "v1.0.0"
