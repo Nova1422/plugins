@@ -1,0 +1,5 @@
+name "JumpDrive Extended"
+about "Sells the jump drive and some custom variants at the planet Caeliana"
+version "1.0.1"
+authors
+	"Nova."

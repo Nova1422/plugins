@@ -1,7 +1,7 @@
 outfitter "JDE"
 	"Jump Drive"
-	"Point Drive"
-	"Point Drive(Unleashed)"
+	"Vortex Drive"
+	"Carrion Drive"
 
 planet Caelian
 	outfitter "JDE"
