@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-22 | update: bunrodeaoutfitter<br>
 2025-10-22 | update: tributequarg<br>
 2025-10-22 | update: capture.archons<br>
 2025-10-22 | update: jumpdrive.extended<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-19 | update: purchase.bactrian<br>
 2025-10-18 | update: purchaseable.cloakingdevice<br>
 2025-10-18 | update: unlimited.dfc<br>
-2025-10-17 | update: jumpdrive.extended<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -68,7 +68,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <img src="myplugins/bunrodeaoutfitter/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/bunrodeaoutfitter.png">
 
-[bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
+[bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | 236.59 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
 <br>
 
 <details>
