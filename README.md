@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-22 | update: capture.archons<br>
 2025-10-22 | update: jumpdrive.extended<br>
 2025-10-21 | update: tributequarg<br>
 2025-10-19 | update: 1requiredcrew<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-18 | update: unlimited.dfc<br>
 2025-10-17 | update: jumpdrive.extended<br>
 2025-10-16 | update: capture.archons<br>
-2025-10-15 | update: capture.archons<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -67,18 +67,21 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <img src="myplugins/capture.archons/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png">
 
-[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-capture.archons/capture.archons.zip) | 49.25 kb | 2025-10-16 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
+[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
->spawns captureable archon ships in the system "Persitar"
->
->
->author: Nova.
+>spawns capturable archon ships in the system 
+
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>spawns captureable Archon ships in the system "Persitar" every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
+<blockquote>spawns capturable Archon ships in the system "Persitar" every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
 
 
 
+Changelog
+
+v 1.0.3
+
+Apprantly its Capturable not captureable, added plugin.txt and removed some bloat
 </blockquote>
 </details>
 <br>

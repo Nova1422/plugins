@@ -1,4 +1,4 @@
-capture.archons|1.0.2
+capture.archons|1.0.3
 jumpdrive.extended|1.0.1
 purchase.bactrian|1.0.0
 purchaseable.cloakingdevice|1.0.0
