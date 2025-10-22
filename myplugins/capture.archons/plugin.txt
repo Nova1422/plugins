@@ -1,5 +1,5 @@
 name "Capturable Archons"
-about "spawns capturable archon ships in the system "Persitar""
-version "1.0.3"
+about `spawns capturable archon ships in the system "Persitar"`
+version "1.0.4"
 authors
 	"Nova."
