@@ -68,7 +68,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <img src="myplugins/bunrodeaoutfitter/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/bunrodeaoutfitter.png">
 
-[bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [1]<br>
+[bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
 <br>
 
 <details>
@@ -283,6 +283,14 @@ v1.0.2
 fixed the mission
 </blockquote>
 </details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/tributequarg01.JPG" width="200"></td>
+	</tr>
+</table>
+<br>
 
 <br>
 
