@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-22 | update: tributequarg<br>
 2025-10-22 | update: capture.archons<br>
 2025-10-22 | update: jumpdrive.extended<br>
 2025-10-21 | update: tributequarg<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-18 | update: purchaseable.cloakingdevice<br>
 2025-10-18 | update: unlimited.dfc<br>
 2025-10-17 | update: jumpdrive.extended<br>
-2025-10-16 | update: capture.archons<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -25,13 +25,14 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <tr valign="top">
 <td><img width="294" height="1"><br>
 <a href="README.md#1requiredcrew">1requiredcrew</a><br>
+<a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
-<a href="README.md#capturingpower">capturingpower</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#capturingpower">capturingpower</a><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
-<a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <img width="294" height="1"><br></td></tr></table>
@@ -62,6 +63,24 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 
 ---
 
+### bunrodeaoutfitter
+
+<img src="myplugins/bunrodeaoutfitter/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/bunrodeaoutfitter.png">
+
+[bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [1]<br>
+<br>
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
 ### capture.archons
 
 <img src="myplugins/capture.archons/icon.png" height="100">
@@ -69,7 +88,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 
 [capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
->spawns capturable archon ships in the system 
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -246,13 +264,23 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/tributequarg/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/tributequarg.png">
 
-[tributequarg.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-tributequarg/tributequarg.zip) | 42.89 kb | 2025-10-21 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/tributequarg/) <a href="res/imagemd/tributequarg.md">view images</a> [2]<br>
+[tributequarg.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-tributequarg/tributequarg.zip) | 42.92 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/tributequarg/) <a href="res/imagemd/tributequarg.md">view images</a> [2]<br>
 <br>
 >Lets you tribute Quarg planets and ringworlds
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>^Rightful credits to Zuckung for their major help in this plugin
+
+
+
+changelog
+
+
+
+v1.0.2
+
+fixed the mission
 </blockquote>
 </details>
 
