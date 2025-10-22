@@ -1,5 +1,5 @@
 name "Tribute Quargs"
 about "Lets you tribute Quarg planets and ringworlds"
-version "1.0.1"
+version "1.0.2"
 authors
 	"Nova."

@@ -161,17 +161,17 @@ mission "Quarg Rep"
 	landing
 	to offer
 		has "tribute: Alta Hai"
-		"tribute: Ruelogakk"
-		"tribute: Giaru Gegno"
-		"tribute: Arroharg"
-		"tribute: Truklar"
-		"tribute: Echo"
-		"tribute: Grakhord"
-		"tribute: Forpelog"
-		"tribute: Lagrange"
-		"tribute: Spec Inci"
-		"tribute: Ut Divitas"
-		"tribute: Kuwaru Efreti"
+		has "tribute: Ruelogakk"
+		has "tribute: Giaru Gegno"
+		has "tribute: Arroharg"
+		has "tribute: Truklar"
+		has "tribute: Echo"
+		has "tribute: Grakhord"
+		has "tribute: Forpelog"
+		has "tribute: Lagrange"
+		has "tribute: Spec Inci"
+		has "tribute: Ut Divitas"
+		has "tribute: Kuwaru Efreti"
 
 	on offer
 		conversation 
