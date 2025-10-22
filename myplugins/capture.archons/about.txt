@@ -1,4 +1,4 @@
-spawns captureable archon ships in the system "Persitar"
+Spawns capturable archon ships in the system "Persitar"
 
 
-author: Nova.
+Author: Nova.
