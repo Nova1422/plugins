@@ -1,0 +1,5 @@
+name "Caputureable Archons"
+about "spawns captureable archon ships in the system "Persitar""
+version "1.0.2"
+authors
+	"Nova."
