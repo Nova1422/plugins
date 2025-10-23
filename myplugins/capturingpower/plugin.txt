@@ -1,0 +1,5 @@
+name "Capturing Power"
+version "1.0.1"
+about `adds two purchasable h2h with 100k attack and defense each, on the planet "Pugglemug"`
+authors
+	"Nova."
