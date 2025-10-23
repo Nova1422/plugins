@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       tags:
-        description: 'which plugin?'
+        description: 'say my name'
         required: true
         type: string
 jobs:
