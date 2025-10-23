@@ -1,6 +1,5 @@
 aberrant.kahet.outfitter|1.0.1
 bunrodeaoutfitter|1.0.0
-caberrant.kahet.outfitter|1.0.0
 capture.archons|1.0.3
 jumpdrive.extended|1.0.1
 purchase.bactrian|1.0.0
