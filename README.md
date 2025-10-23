@@ -212,9 +212,7 @@ screenshots(click to enlarge):<br>
 >author: Nova.
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>
-
-</blockquote>
+<blockquote>N/A</blockquote>
 </details>
 <br>
 screenshots(click to enlarge):<br>
