@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-23 | update: caberrant kahet outfitter<br>
 2025-10-22 | update: bunrodeaoutfitter<br>
 2025-10-22 | update: tributequarg<br>
 2025-10-22 | update: capture.archons<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-19 | update: capturingpower<br>
 2025-10-19 | update: purchase.bactrian<br>
 2025-10-18 | update: purchaseable.cloakingdevice<br>
-2025-10-18 | update: unlimited.dfc<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -26,6 +26,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <td><img width="294" height="1"><br>
 <a href="README.md#1requiredcrew">1requiredcrew</a><br>
 <a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
+<a href="README.md#caberrant kahet outfitter">caberrant kahet outfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
@@ -74,6 +75,86 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### caberrant kahet outfitter
+
+<img src="myplugins/caberrant kahet outfitter/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/caberrant kahet outfitter.png">
+
+[caberrant.kahet.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-caberrant.kahet.outfitter/caberrant.kahet.outfitter.zip) | 96.84 kb | 2025-10-23 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/caberrant%20kahet%20outfitter/) <a href="res/imagemd/caberrant kahet outfitter.md">view images</a> [2]<br>
+<br>
+>Sells Kahet and Aberrant Outfits at Remnants and Avgi planets respectively.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>The outfits sold are
+
+
+
+Aberrant
+
+"Aberrant Spiker"
+
+"Nucleolysis Beam"
+
+"Telescopic Antimissile"
+
+"Anomalous Shield Restorer"
+
+"Antimatter Power Cell"
+
+"Anomalous Mass"
+
+
+
+Kahet
+
+"Ka'het Nullifier"
+
+"Ka'het Ravager Beam"
+
+"Ka'het Ravager Turret"
+
+"Ka'het Annihilator"
+
+"Ka'het Annihilator Turret"
+
+"Annihilator Projectile"
+
+"Ka'het EMP Deployer"
+
+"Ka'het Emergency Deployer"
+
+"Ka'het Support Cooling"
+
+"Ka'het Primary Cooling"
+
+"Ka'het Shield Restorer"
+
+"Ka'het Grand Restorer"
+
+"Ka'het MHD Generator"
+
+"Ka'het Reserve Accumulator"
+
+"Maeri Engine Nacelles"
+
+"Ka'het Sustainer Nacelles"
+
+"Telis Engine Nacelles"
+
+"Vareti Engine Block"
+
+"Ka'het Compact Engine"
+
+"Ka'het Electric Stunner"
+</blockquote>
 </details>
 
 <br>
