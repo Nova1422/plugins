@@ -151,6 +151,7 @@ Kahet
 
 [bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | 236.59 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
 <br>
+>Adds an outfitter on the Bunrodea planet "Kalbai"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -169,6 +170,7 @@ Kahet
 
 [capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
+>spawns capturable archon ships in the system "Persitar"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
