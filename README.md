@@ -69,7 +69,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <img src="myplugins/aberrant.kahet.outfitter/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/aberrant.kahet.outfitter.png">
 
-[aberrant.kahet.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-aberrant.kahet.outfitter/aberrant.kahet.outfitter.zip) | 96.82 kb | 2025-10-23 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/aberrant.kahet.outfitter/) <a href="res/imagemd/aberrant.kahet.outfitter.md">view images</a> [2]<br>
+[aberrant.kahet.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-aberrant.kahet.outfitter/aberrant.kahet.outfitter.zip) | 96.86 kb | 2025-10-23 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/aberrant.kahet.outfitter/) <a href="res/imagemd/aberrant.kahet.outfitter.md">view images</a> [2]<br>
 <br>
 >Sells Kahet and Aberrant Outfits at Remnants and Avgi planets respectively.
 
@@ -136,6 +136,18 @@ Kahet
 "Ka'het Compact Engine"
 
 "Ka'het Electric Stunner"
+
+
+
+changelog
+
+
+
+1.0.2 and 1.0.1
+
+
+
+nothing, simple repo tweaks
 </blockquote>
 </details>
 
@@ -151,7 +163,6 @@ Kahet
 
 [bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | 236.59 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
 <br>
->Adds an outfitter on the Bunrodea planet "Kalbai"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -170,7 +181,6 @@ Kahet
 
 [capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
->spawns capturable archon ships in the system "Persitar"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -208,13 +218,17 @@ screenshots(click to enlarge):<br>
 
 [capturingpower.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capturingpower/capturingpower.zip) | 86.6 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capturingpower/) <a href="res/imagemd/capturingpower.md">view images</a> [5]<br>
 <br>
->adds two purchasable h2h with 100k attack and defense each, on the planet "Pugglemug"
->
->
->author: Nova.
+
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
+<blockquote>changelog
+
+
+
+1.0.1
+
+ironically was made because readme.md was removed, added plugin.txt
+</blockquote>
 </details>
 <br>
 screenshots(click to enlarge):<br>
