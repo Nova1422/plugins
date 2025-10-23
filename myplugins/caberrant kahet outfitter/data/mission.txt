@@ -1,0 +1,22 @@
+mission "Kahet Outfit Addition"
+	landing
+	invisible
+	source 
+		government "Remnant"
+	on offer 
+		conversation
+			`Upon disembarking from <ship>, a Remnant engineer greets you.`
+			`"Greetings, Captain <last>. As a small token of gratitude, we have decided to grant you access to a new selection of our salvaged equipment. I hope you appreciate the addition."`
+				decline
+
+mission "Aberrant Outfit Addition"
+	landing
+	invisible
+	source 
+		government "Avgi" "Avgi (Consonance)" "Avgi (Twilight Guard)"
+	on offer 
+		conversation
+			`Upon disembarking from <ship>, an Avgi engineer greets you.`
+			`"Captain <first>! As a small token of gratitude, you are now free to purchase our recovered outfits from aberrant ships at select outfitters."`
+				decline
+				

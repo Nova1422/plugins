@@ -1,0 +1,47 @@
+outfitter "Aberrant"
+	"Aberrant Spiker"
+	"Nucleolysis Beam"
+	"Telescopic Antimissile"
+	"Anomalous Shield Restorer"
+	"Antimatter Power Cell"
+	"Anomalous Mass"
+	
+
+outfitter "Kahet"
+	"Ka'het Nullifier"
+	"Ka'het Ravager Beam"
+	"Ka'het Ravager Turret"
+	"Ka'het Annihilator"
+	"Ka'het Annihilator Turret"
+	"Annihilator Projectile"
+	"Ka'het EMP Deployer"
+	"Ka'het Emergency Deployer"
+	"Ka'het Support Cooling"
+	"Ka'het Primary Cooling"
+	"Ka'het Shield Restorer"
+	"Ka'het Grand Restorer"
+	"Ka'het MHD Generator"
+	"Ka'het Reserve Accumulator"
+	"Maeri Engine Nacelles"
+	"Ka'het Sustainer Nacelles"
+	"Telis Engine Nacelles"
+	"Vareti Engine Block"
+	"Ka'het Compact Engine"
+	"Ka'het Electric Stunner"
+
+
+planet "Viminal"
+	outfitter "Kahet"
+planet "Caelian"
+	outfitter "Kahet"
+planet "Aventine"
+	outfitter "Kahet"
+
+
+planet "Feo Platform"
+	outfitter "Aberrant"
+planet "Ergastirio Station"
+	outfitter "Aberrant"
+	
+	
+	
