@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-23 | update: aberrant kahet outfitter<br>
 2025-10-23 | update: caberrant kahet outfitter<br>
 2025-10-22 | update: bunrodeaoutfitter<br>
 2025-10-22 | update: tributequarg<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-19 | update: 1requiredcrew<br>
 2025-10-19 | update: capturingpower<br>
 2025-10-19 | update: purchase.bactrian<br>
-2025-10-18 | update: purchaseable.cloakingdevice<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -25,8 +25,8 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <tr valign="top">
 <td><img width="294" height="1"><br>
 <a href="README.md#1requiredcrew">1requiredcrew</a><br>
+<a href="README.md#aberrant kahet outfitter">aberrant kahet outfitter</a><br>
 <a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
-<a href="README.md#caberrant kahet outfitter">caberrant kahet outfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
@@ -64,30 +64,12 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 
 ---
 
-### bunrodeaoutfitter
+### aberrant kahet outfitter
 
-<img src="myplugins/bunrodeaoutfitter/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/bunrodeaoutfitter.png">
+<img src="myplugins/aberrant kahet outfitter/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/aberrant kahet outfitter.png">
 
-[bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | 236.59 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
-<br>
-
-<details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
-</details>
-
-<br>
-
-
----
-
-### caberrant kahet outfitter
-
-<img src="myplugins/caberrant kahet outfitter/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/caberrant kahet outfitter.png">
-
-[caberrant.kahet.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-caberrant.kahet.outfitter/caberrant.kahet.outfitter.zip) | 96.84 kb | 2025-10-23 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/caberrant%20kahet%20outfitter/) <a href="res/imagemd/caberrant kahet outfitter.md">view images</a> [2]<br>
+[aberrant.kahet.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-aberrant.kahet.outfitter/aberrant.kahet.outfitter.zip) | 96.82 kb | 2025-10-23 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/aberrant%20kahet%20outfitter/) <a href="res/imagemd/aberrant kahet outfitter.md">view images</a> [2]<br>
 <br>
 >Sells Kahet and Aberrant Outfits at Remnants and Avgi planets respectively.
 
@@ -155,6 +137,24 @@ Kahet
 
 "Ka'het Electric Stunner"
 </blockquote>
+</details>
+
+<br>
+
+
+---
+
+### bunrodeaoutfitter
+
+<img src="myplugins/bunrodeaoutfitter/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/bunrodeaoutfitter.png">
+
+[bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | 236.59 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
+<br>
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
 </details>
 
 <br>
