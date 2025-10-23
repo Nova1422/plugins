@@ -1,0 +1,3 @@
+makemd is the original script zuckung made, which didnt support backticks in about meta data,
+
+sasa is just a script I used for local testing
