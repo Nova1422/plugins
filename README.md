@@ -5,7 +5,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <tr>
 <td><img width="882" height="1"><br>
 2025-10-23 | update: aberrant kahet outfitter<br>
-2025-10-23 | update: caberrant kahet outfitter<br>
 2025-10-22 | update: bunrodeaoutfitter<br>
 2025-10-22 | update: tributequarg<br>
 2025-10-22 | update: capture.archons<br>
@@ -14,6 +13,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-19 | update: 1requiredcrew<br>
 2025-10-19 | update: capturingpower<br>
 2025-10-19 | update: purchase.bactrian<br>
+2025-10-18 | update: purchaseable.cloakingdevice<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
