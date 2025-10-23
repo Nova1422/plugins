@@ -29,3 +29,9 @@ Kahet
 "Vareti Engine Block"
 "Ka'het Compact Engine"
 "Ka'het Electric Stunner"
+
+changelog
+
+1.0.2 and 1.0.1
+
+nothing, simple repo tweaks

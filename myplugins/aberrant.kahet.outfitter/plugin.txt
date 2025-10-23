@@ -1,5 +1,5 @@
 name "Kahet Aberrants Outfitter"
 about "Sells Kahet and Aberrant Outfits at Remnants and Avgi planets respectively."
-version "1.0.0"
+version "1.0.2"
 authors
 	"Nova."
