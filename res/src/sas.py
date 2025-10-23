@@ -7,17 +7,9 @@ from PIL import Image
 
 
 def check_local():
-	# for local testing
-	# get the path to the plugins, this is the %pluginurl% (pluginurl) variable, useable in the template.txt
-	if os.getcwd() == '/storage/emulated/0/Download/mgit/endless-sky-plugins/res/src':
-		os.chdir('../../')
-		current_repo = 'zuckung/endless-sky-plugins'
-		pluginurl = 'https://github.com/Nova1422/plugins/tree/main/myplugins'
-	else:
-		current_repo = os.environ['CUR_REPO']
-		pluginurl = 'https://github.com/' + current_repo + '/tree/main/myplugins/'
-	return pluginurl, current_repo
-
+    current_repo = 'Nova1422/plugins'  # put your GitHub repo here
+    pluginurl = 'https://github.com/' + current_repo + '/tree/main/myplugins/'
+    return pluginurl, current_repo
 
 def make_imagemd(name, current_repo):
 	# get images
