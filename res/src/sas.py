@@ -185,13 +185,22 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 		# gets the %description% (description) variable out of about.txt
 		description = ''
 		if os.path.isfile(pathtoplugins + entry + '/plugin.txt'):
-			with open(pathtoplugins + entry + '/plugin.txt' , 'r') as file1:
+			with open(pathtoplugins + entry + '/plugin.txt', 'r') as file1:
 				description_list = file1.readlines()
 			for line in description_list:
-				if line.startswith('about "'):
-					pos1 = line.find('"')
-					pos2 = line.find('"', pos1+1)
-					line = line[pos1+1:pos2]
+				line = line.strip()
+				if line.startswith('about '):
+					start_bt = line.find('`')
+					end_bt = line.find('`', start_bt + 1) if start_bt != -1 else -1
+					if start_bt != -1 and end_bt != -1:
+						line = line[start_bt + 1:end_bt]
+					else:
+						start_q = line.find('"')
+						end_q = line.find('"', start_q + 1) if start_q != -1 else -1
+						if start_q != -1 and end_q != -1:
+							line = line[start_q + 1:end_q]
+						else:
+							line = line[len('about '):].strip()
 					description = description + '>' + line + '\n'
 		elif os.path.isfile(pathtoplugins + entry + '/about.txt'):
 			with open(pathtoplugins + entry + '/about.txt' , 'r') as file1:
