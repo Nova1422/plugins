@@ -1,4 +1,4 @@
-aberrant.kahet.outfitter|1.0.0
+aberrant.kahet.outfitter|1.0.1
 bunrodeaoutfitter|1.0.0
 caberrant.kahet.outfitter|1.0.0
 capture.archons|1.0.3
