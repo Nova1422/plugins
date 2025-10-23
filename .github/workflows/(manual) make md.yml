@@ -16,7 +16,7 @@ jobs:
         run: |
           python3 -m pip install Pillow
       - name: Make README.md
-        run: python res/src/makemd.py
+        run: python res/src/makeme.py
       - name: Commit file
         run: |
           git config user.name "Nova" 
