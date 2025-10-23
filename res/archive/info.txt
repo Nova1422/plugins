@@ -1,3 +1,10 @@
 makemd is the original script zuckung made, which didnt support backticks in about meta data,
 
 sasa is just a script I used for local testing
+
+
+
+
+how to local test, copy the entire plugin repo, paste it on desktop or somewhere, cd <desktop/plugin>
+have a readme.md on desktop
+python sasa.py
