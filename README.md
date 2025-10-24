@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-24 | update: quargoutfitter<br>
 2025-10-23 | update: aberrant.kahet.outfitter<br>
 2025-10-23 | update: aberrant kahet outfitter<br>
 2025-10-22 | update: bunrodeaoutfitter<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-21 | update: tributequarg<br>
 2025-10-19 | update: 1requiredcrew<br>
 2025-10-19 | update: capturingpower<br>
-2025-10-19 | update: purchase.bactrian<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -32,8 +32,9 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <a href="README.md#capturingpower">capturingpower</a><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#quargoutfitter">quargoutfitter</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <img width="294" height="1"><br></td></tr></table>
@@ -345,6 +346,32 @@ screenshots(click to enlarge):<br>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/purchaseable.cloakingdevice01.JPG" width="200"></td>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/purchaseable.cloakingdevice02.JPG" width="200"></td>
+	</tr>
+</table>
+<br>
+
+<br>
+
+
+---
+
+### quargoutfitter
+
+<img src="myplugins/quargoutfitter/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/quargoutfitter.png">
+
+[quargoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-quargoutfitter/quargoutfitter.zip) | 105.86 kb | 2025-10-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/quargoutfitter/) <a href="res/imagemd/quargoutfitter.md">view images</a> [2]<br>
+<br>
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/quargoutfitter01.JPG" width="200"></td>
 	</tr>
 </table>
 <br>
