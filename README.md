@@ -164,6 +164,7 @@ nothing, simple repo tweaks
 
 [bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | 236.59 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
 <br>
+>Adds an outfitter on the Bunrodea planet "Kalbai"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -182,6 +183,7 @@ nothing, simple repo tweaks
 
 [capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
+>spawns capturable archon ships in the system "Persitar"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -219,6 +221,7 @@ screenshots(click to enlarge):<br>
 
 [capturingpower.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capturingpower/capturingpower.zip) | 86.6 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capturingpower/) <a href="res/imagemd/capturingpower.md">view images</a> [5]<br>
 <br>
+>adds two purchasable h2h with 100k attack and defense each, on the planet "Pugglemug"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -362,6 +365,9 @@ screenshots(click to enlarge):<br>
 
 [quargoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-quargoutfitter/quargoutfitter.zip) | 105.86 kb | 2025-10-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/quargoutfitter/) <a href="res/imagemd/quargoutfitter.md">view images</a> [2]<br>
 <br>
+>Allows Purchase of Quarg Outfits on specific planets.
+>The Planets are, "Smuggler's Den", and  "Ring of Power"/"Remote Blue", Depending on which side you chose in coalition space
+>Also removes Quarg Death Sentence.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
