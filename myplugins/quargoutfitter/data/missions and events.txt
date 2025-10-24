@@ -1,0 +1,38 @@
+mission "Lunarium Quarg"
+	landing
+	invisible
+	to offer 
+		has "joined the lunarium"
+	source
+		government "Coalition"
+	on offer
+		event "Lunarium quarg"
+		conversation
+			`A Lunarium member approaches you "Captain <last>, On the northernmost planet of Coalition space, an ongoing black market for technology of an advanced species there is. Something worthwhile, you may find, if seek it you do."`
+			`Saying this, They vanish into the crowd`
+				decline
+
+mission "Heliarch Quarg"
+	landing
+	invisible
+	to offer 
+		has "joined the heliarch"
+	source
+		government "Heliarch"
+	on offer
+		event "Heliarch quarg"
+		conversation
+			`A Heliarch inspector approaches you, "Captain <last>, exceptional, your service has been. Grant you access to certain outfitters, we shall. Reserved for only a few, they are. Make good use of this opportunity, you must."`
+				decline
+
+event "Lunarium quarg"
+	planet "Remote Blue"
+		outfitter "quarh"
+
+event "Heliarch quarg"
+	planet "Ring of Power"
+		outfitter "quarh"
+
+planet "Smuggler's Den"
+	outfitter "quarh"
+

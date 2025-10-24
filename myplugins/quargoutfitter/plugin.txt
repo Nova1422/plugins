@@ -1,0 +1,7 @@
+name "Quarg Outfitter"
+version "1.0.0"
+about `Allows Purchase of Quarg Outfits on specific planets.`
+about `The Planets are, "Smuggler's Den", and  "Ring of Power"/"Remote Blue", Depending on which side you chose in coalition space`
+about `Also removes Quarg Death Sentence.`
+authors
+	"Nova."

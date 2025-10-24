@@ -1,0 +1,65 @@
+outfitter "quarh"
+	"Small Graviton Thruster"
+	"Small Graviton Steering"
+	"Medium Graviton Thruster"
+	"Medium Graviton Steering"
+	"Large Graviton Thruster"
+	"Large Graviton Steering"
+	"Quantum Vacuum Battery"
+	"Antimatter Core"
+	"Singularity Core"
+	"Quasar Core"
+	"Aspis Shield Generator"
+	"Ancile Shield Generator"
+	"Aegis Shield Generator"
+	"Peripheral Repair Hub"
+	"Central Repair Hub"
+	"Skydagger"
+	"Skylance"
+	"Stratospear"
+	"Elysian Ranseur"
+	"Celestial Culverin"
+	"Astral Ribault"
+	"ribault unguided"
+	"ribault guided"
+	"Slipstream Projector"
+	"Phalanx System"
+
+
+
+#Stolen from quarg.farm
+
+government "Quarg"
+	atrocities
+		"Atrocity"
+
+
+government "Quarg (Hai)"
+	atrocities
+		"Atrocity"
+
+
+government "Quarg (Kor Efret)"
+	atrocities
+		"Atrocity"
+
+
+government "Quarg (Kor Efret)"
+	atrocities
+		"Atrocity"
+
+
+government "Quarg (Incipias)"
+	atrocities
+		"Atrocity"
+
+outfit "Atrocity"
+	category "Power"
+	cost 100000000
+	thumbnail "outfit/quarg antimatter core"
+	"mass" 800000
+	"outfit space" -80
+	"energy generation" 80
+	"heat generation" 20
+	"unplunderable" 1
+	description "An outfit quarg dislike I guess, exists purely to bypass the quarg death sentence scene by replacing all quarg outfit with this, do not cheat in"
