@@ -42,7 +42,7 @@ jobs:
           updateOnlyUnreleased: false
           artifacts: "*.zip"
       - name: Make README.md
-        run: python res/src/makemd.py
+        run: python res/src/makeme.py
       - name: Commit file
         run: |
           git config user.name "Nova" 
