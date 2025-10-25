@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-25 | update: pugoutfitter<br>
 2025-10-25 | update: purchase.bactrian<br>
 2025-10-24 | update: quargoutfitter<br>
 2025-10-23 | update: aberrant.kahet.outfitter<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-22 | update: capture.archons<br>
 2025-10-22 | update: jumpdrive.extended<br>
 2025-10-21 | update: tributequarg<br>
-2025-10-19 | update: 1requiredcrew<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -31,9 +31,10 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
-<a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <a href="README.md#quargoutfitter">quargoutfitter</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
@@ -296,6 +297,25 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### pugoutfitter
+
+<img src="myplugins/pugoutfitter/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/pugoutfitter.png">
+
+[pugoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-pugoutfitter/pugoutfitter.zip) | 148.26 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
+<br>
+>Adds T1 and T3 Pug Outfits at planet Pugglemug
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
 
 <br>
 
