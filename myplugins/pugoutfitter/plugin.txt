@@ -1,0 +1,5 @@
+name "Pug Outfitter"
+version "1.0.0"
+about "Adds T1 and T3 Pug Outfits at planet Pugglemug"
+authors
+	"Nova."

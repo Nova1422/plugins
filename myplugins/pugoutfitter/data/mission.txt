@@ -1,0 +1,57 @@
+mission "T1 pug outfits available"
+	landing
+	invisible
+	source
+		planet "Pugglemug"
+	on offer
+		conversation
+			`As you disembark on the former Pug capital, someone whom you assume to be in charge of the spaceport approaches you.`
+			`	“Captain <first>, due to your help in the war, We have decided to grant you access to the newly built outfitter, along with some scraps of Pug technology that may interest you.”`
+
+
+mission "Pug Warship"
+	name "Invading Pug Warships"
+	description "A fleet of Pug Warships have been spotted in Arneb system, Immediately get rid of them. Payment is <payment>"
+	job
+	source
+		planet "Pugglemug"
+	npc kill
+		government "PugB"
+		system "Arneb"
+		fleet "PugA"
+		dialog "Return to <planet> to collect your payment."
+	on complete
+		conversation
+			`"Captain, Thanks to the info retrieved from the ships you destroyed, There has been a new addition in the outfitter, Do check it out."`
+		payment 7000000
+		event "New Pug Outfits"
+
+
+government "PugB"
+	"display name" "Pug"
+	swizzle 0
+	color "governments: Pug"
+	"player reputation" -1000
+	"attitude toward"
+		"Drak" -.01
+		"Quarg" -.01
+		"Quarg (Hai)" -.01
+		"Quarg (Kor Efret)" -.01
+		"Quarg (Gegno)" -.01
+	"friendly hail" "friendly pug"
+	"friendly disabled hail" "friendly disabled pug"
+	"hostile hail" "hostile pug"
+	"hostile disabled hail" "hostile pug"
+
+fleet "PugA"
+	government "PugB"
+	names "pug"
+	cargo 1
+	personality
+		heroic
+	variant 
+		"Pug Arfecta" 2
+
+event "New Pug Outfits"
+	planet "Pugglemug"
+		outfitter "T3"

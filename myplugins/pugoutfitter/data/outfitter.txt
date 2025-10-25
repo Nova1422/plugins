@@ -1,0 +1,21 @@
+outfitter "T1"
+	"Pug Zapper"
+	"Pug Zapper Turret"
+	"Pug Seeker"
+	"Pug Anti-Missile"
+	"Pug Akfar Thruster"
+	"Pug Akfar Steering"
+	"Pug Cormet Thruster"
+	"Pug Cormet Steering"
+	"Pug Lohmar Thruster"
+	"Pug Lohmar Steering"
+	"Pug Biodefenses"
+	"Pug Peacekeeping Staff"
+
+outfitter "T3"
+	"Tier 3 Anti-Missile"
+	"Pug Gridfire Turret"
+
+planet "Pugglemug"
+	outfitter "T1"
+	
