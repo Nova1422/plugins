@@ -1,0 +1,5 @@
+name "Purchase Bactrian"
+version "1.0.1"
+about `Sells a license-free bactrian in the northern pirate planet "Haven"`
+authors 
+	"Nova."
