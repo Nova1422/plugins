@@ -308,13 +308,22 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/pugoutfitter/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/pugoutfitter.png">
 
-[pugoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-pugoutfitter/pugoutfitter.zip) | 148.26 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
+[pugoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | 148.71 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
 <br>
 >Adds T1 and T3 Pug Outfits at planet Pugglemug
+>PS- T3 Pug Outfits are locked behind a job board mission
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>To obtain T3 Pug outfits, You need to accept the job from job board "Invading Pug Warships", In which you have to fight off 2 Pug Arfectas and as a reward you can now purchase some new outfits.
+
+
+
+changelog
+
+1.0.1
+
+added readme
 </blockquote>
 </details>
 
