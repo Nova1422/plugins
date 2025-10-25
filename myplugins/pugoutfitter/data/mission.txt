@@ -6,8 +6,8 @@ mission "T1 pug outfits available"
 	on offer
 		conversation
 			`As you disembark on the former Pug capital, someone whom you assume to be in charge of the spaceport approaches you.`
-			`	“Captain <first>, due to your help in the war, We have decided to grant you access to the newly built outfitter, along with some scraps of Pug technology that may interest you.”`
-
+			`	"Captain <first>, due to your help in the war, We have decided to grant you access to the newly built outfitter, along with some scraps of Pug technology that may interest you."`
+			`	"There have also been some reports of bothersome Pug warships in a northern system, much more advanced than the ones we fought. We could use the retrieved data to develop some prototypes. The job has been posted on the job board."`
 
 mission "Pug Warship"
 	name "Invading Pug Warships"
