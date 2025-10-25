@@ -2,7 +2,7 @@ aberrant.kahet.outfitter|1.0.2
 bunrodeaoutfitter|1.0.0
 capture.archons|1.0.3
 jumpdrive.extended|1.0.1
-purchase.bactrian|1.0.0
+purchase.bactrian|1.0.1
 purchaseable.cloakingdevice|1.0.0
 quargoutfitter|1.0.0
 tributequarg|1.0.2
