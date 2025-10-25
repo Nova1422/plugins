@@ -4,6 +4,7 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-25 | update: purchase.bactrian<br>
 2025-10-24 | update: quargoutfitter<br>
 2025-10-23 | update: aberrant.kahet.outfitter<br>
 2025-10-23 | update: aberrant kahet outfitter<br>
@@ -13,7 +14,6 @@ For any suggestions, mistakes, or so, mention me in the games official discord s
 2025-10-22 | update: jumpdrive.extended<br>
 2025-10-21 | update: tributequarg<br>
 2025-10-19 | update: 1requiredcrew<br>
-2025-10-19 | update: capturingpower<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -307,9 +307,10 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/purchase.bactrian/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchase.bactrian.png">
 
-[purchase.bactrian.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchase.bactrian/purchase.bactrian.zip) | 95.66 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchase.bactrian/) <a href="res/imagemd/purchase.bactrian.md">view images</a> [1]<br>
+[purchase.bactrian.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-purchase.bactrian/purchase.bactrian.zip) | 375.52 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchase.bactrian/) <a href="res/imagemd/purchase.bactrian.md">view images</a> [2]<br>
 <br>
 >Sells a license-free bactrian in the northern pirate planet "Haven"
+
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>N/A</blockquote>
