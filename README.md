@@ -50,7 +50,7 @@ https://github.com/Nova1422/plugin-statistics/
 ### 1requiredcrew
 
 <img src="myplugins/1requiredcrew/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/1requiredcrew.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/1requiredcrew.png" width="130" height="20">
 
 [1requiredcrew.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-1requiredcrew/1requiredcrew.zip) | 48.45 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/1requiredcrew/) <a href="res/imagemd/1requiredcrew.md">view images</a> [1]<br>
 <br>
@@ -70,7 +70,7 @@ https://github.com/Nova1422/plugin-statistics/
 ### aberrant.kahet.outfitter
 
 <img src="myplugins/aberrant.kahet.outfitter/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/aberrant.kahet.outfitter.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/aberrant.kahet.outfitter.png" width="130" height="20">
 
 [aberrant.kahet.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-aberrant.kahet.outfitter/aberrant.kahet.outfitter.zip) | 96.86 kb | 2025-10-23 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/aberrant.kahet.outfitter/) <a href="res/imagemd/aberrant.kahet.outfitter.md">view images</a> [2]<br>
 <br>
@@ -162,7 +162,7 @@ nothing, simple repo tweaks
 ### bunrodeaoutfitter
 
 <img src="myplugins/bunrodeaoutfitter/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/bunrodeaoutfitter.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/bunrodeaoutfitter.png" width="130" height="20">
 
 [bunrodeaoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip) | 236.59 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/bunrodeaoutfitter/) <a href="res/imagemd/bunrodeaoutfitter.md">view images</a> [2]<br>
 <br>
@@ -181,7 +181,7 @@ nothing, simple repo tweaks
 ### capture.archons
 
 <img src="myplugins/capture.archons/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png" width="130" height="20">
 
 [capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
@@ -219,7 +219,7 @@ screenshots(click to enlarge):<br>
 ### capturingpower
 
 <img src="myplugins/capturingpower/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capturingpower.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capturingpower.png" width="130" height="20">
 
 [capturingpower.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capturingpower/capturingpower.zip) | 86.6 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capturingpower/) <a href="res/imagemd/capturingpower.md">view images</a> [5]<br>
 <br>
@@ -254,7 +254,7 @@ screenshots(click to enlarge):<br>
 ### jumpdrive.extended
 
 <img src="myplugins/jumpdrive.extended/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/jumpdrive.extended.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/jumpdrive.extended.png" width="130" height="20">
 
 [jumpdrive.extended.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-jumpdrive.extended/jumpdrive.extended.zip) | 719.9 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/jumpdrive.extended/) <a href="res/imagemd/jumpdrive.extended.md">view images</a> [6]<br>
 <br>
@@ -307,7 +307,7 @@ screenshots(click to enlarge):<br>
 ### pugoutfitter
 
 <img src="myplugins/pugoutfitter/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/pugoutfitter.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/pugoutfitter.png" width="130" height="20">
 
 [pugoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | 148.71 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
 <br>
@@ -336,7 +336,7 @@ added readme
 ### purchase.bactrian
 
 <img src="myplugins/purchase.bactrian/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchase.bactrian.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchase.bactrian.png" width="130" height="20">
 
 [purchase.bactrian.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-purchase.bactrian/purchase.bactrian.zip) | 375.52 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchase.bactrian/) <a href="res/imagemd/purchase.bactrian.md">view images</a> [2]<br>
 <br>
@@ -363,7 +363,7 @@ screenshots(click to enlarge):<br>
 ### purchaseable.cloakingdevice
 
 <img src="myplugins/purchaseable.cloakingdevice/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchaseable.cloakingdevice.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchaseable.cloakingdevice.png" width="130" height="20">
 
 [purchaseable.cloakingdevice.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.cloakingdevice/purchaseable.cloakingdevice.zip) | 4.66 kb | 2025-10-18 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchaseable.cloakingdevice/) <a href="res/imagemd/purchaseable.cloakingdevice.md">view images</a> [1]<br>
 <br>
@@ -393,7 +393,7 @@ screenshots(click to enlarge):<br>
 ### quargoutfitter
 
 <img src="myplugins/quargoutfitter/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/quargoutfitter.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/quargoutfitter.png" width="130" height="20">
 
 [quargoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-quargoutfitter/quargoutfitter.zip) | 105.86 kb | 2025-10-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/quargoutfitter/) <a href="res/imagemd/quargoutfitter.md">view images</a> [2]<br>
 <br>
@@ -422,7 +422,7 @@ screenshots(click to enlarge):<br>
 ### tributequarg
 
 <img src="myplugins/tributequarg/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/tributequarg.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/tributequarg.png" width="130" height="20">
 
 [tributequarg.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-tributequarg/tributequarg.zip) | 42.92 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/tributequarg/) <a href="res/imagemd/tributequarg.md">view images</a> [2]<br>
 <br>
@@ -460,7 +460,7 @@ screenshots(click to enlarge):<br>
 ### unlimited.dfc
 
 <img src="myplugins/unlimited.dfc/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlimited.dfc.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlimited.dfc.png" width="130" height="20">
 
 [unlimited.dfc.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlimited.dfc/unlimited.dfc.zip) | 100.79 kb | 2025-10-18 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlimited.dfc/) <a href="res/imagemd/unlimited.dfc.md">view images</a> [2]<br>
 <br>
