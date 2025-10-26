@@ -14,7 +14,7 @@ https://github.com/Nova1422/plugin-statistics/
 ### %name%
 
 %icon%
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/%name%.png"> width="130" height="20">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/%name%.png" width="130" height="20">
 
 [%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>
