@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-26 | update: gainpiraterep<br>
 2025-10-25 | update: pugoutfitter<br>
 2025-10-25 | update: purchase.bactrian<br>
 2025-10-24 | update: quargoutfitter<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-22 | update: tributequarg<br>
 2025-10-22 | update: capture.archons<br>
 2025-10-22 | update: jumpdrive.extended<br>
-2025-10-21 | update: tributequarg<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -29,8 +29,9 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#aberrantkahetoutfitter">aberrant.kahet.outfitter</a><br>
 <a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#gainpiraterep">gainpiraterep</a><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
@@ -245,6 +246,30 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### gainpiraterep
+
+
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/gainpiraterep.png" width="130" height="20">
+
+[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-gainpiraterep/gainpiraterep.zip) | 8.65 kb | 2025-10-26 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) N/A<br>
+<br>
+>Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>Adds a repeatable job board mission on every pirate planet, Which lets you bribe the local pirate overlord into ceasing hostility with you, At a low cost of 100k credit.
+
+
+
+There's a 50% chance of triggering the mission which effectively has you defend against an invading fleet and protect a pirate planet.
+</blockquote>
+</details>
 
 <br>
 
