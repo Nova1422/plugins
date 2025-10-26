@@ -37,7 +37,7 @@ mission "Gain Pirate Rep"
 			
 			label inquire
 			`You interrupt someone who you think is the overlord, But in this situation, He is no bigger than you`
-			`	"Look, If you don't know whats going on, Don't interrupt us, There is an Alpha fleet consisting of atleast 4 Navy Carriers and god knows what else ships they have, About to attack this planet in moments, You're a not a pirate right? Thats a good fleet you've got, If you defeat them, I promise you, The entire pirate faction will remember what you've done, Now, Leave."`
+			`	"Look, If you don't know what's going on, Don't interrupt us, There is an Alpha fleet consisting of at least 4 Navy Carriers and god knows what else ships they have, About to attack this planet in moments, You're a not a pirate right? That's a good fleet you've got, If you defeat them, I promise you, The entire pirate faction will remember what you've done, Now, Leave."`
 			choice
 				`	(Defend)`
 					launch
@@ -69,7 +69,7 @@ mission "Gain Pirate Rep"
 		conversation
 			`	As you descend, You hear countless cheers from everywhere, They are all celebrating your victory, The pirate overlord you previously inquired approaches you`	
 			`	"Captain, captain, As I promised, The pirate faction will remember your favour, From now on, You may land on our planets as you see fit, And my fellow pirates will no longer attack your ships, And Here’s a small token of my appreciation."`
-			`	<payment> have been trasnfered to your account`
+			`	<payment> have been transferred to your account`
 		payment 7000000
 		"reputation: Pirate" = 1000
 
