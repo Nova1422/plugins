@@ -1,5 +1,5 @@
 name "Obtain a Heron"
 version "1.0.0"
-about "Obtain the Superheavy heron ship throught a job board mission offered by any of the remnant planets."
+about "Obtain the Superheavy heron ship through a job board mission offered by any of the remnant planets."
 authors
 	"Nova."
