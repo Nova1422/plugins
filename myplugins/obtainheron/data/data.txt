@@ -1,0 +1,27 @@
+mission "Heron"
+	job
+	name "Derelict Ship"
+	description "A possibly derelict ship was reported in Vaticanus system, Recover it."
+	source 
+		government "Remnant"
+	npc assist
+		government "Remnant"
+		personality derelict mute pacifist
+		system "Vaticanus"
+		ship "Heron" "Eternal Fortress Awakened"
+		dialog
+			`You have taken a liking towards this ship, You wonder if they would let you keep it.`
+	
+	on enter "Vaticanus"
+		dialog
+			`The derelict ship oddly resemble a remant ship, But you've never seen this ship before.`
+		
+	on complete
+		conversation				
+			`Seeing the ship you brought, A remnant prefect rushes towards you, "Captain <last>, From where in the world did you obtain this ship`
+			choice
+				`"I found it derelict, so" 	Despite understanding that the ship you've acquired is very important, And being told this ship is Remnants last resort in case they are pushed to the brink of destruction, you still ask whether you can keep the ship.`
+			`"You’re asking for quite a lot, but I suppose we can grant you one under certain conditions."`
+			`	"Lend me the ship for a day; We must remove some things that would otherwise put us at risk, And examine how the ship ended up derelict in the first place."`
+		give ship "Heron" "Eternal Fortress Awakened" 
+			
