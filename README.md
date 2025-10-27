@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-27 | update: gainpiraterep<br>
 2025-10-27 | update: obtainheron<br>
 2025-10-26 | update: gainpiraterep<br>
 2025-10-25 | update: pugoutfitter<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-23 | update: aberrant kahet outfitter<br>
 2025-10-22 | update: bunrodeaoutfitter<br>
 2025-10-22 | update: tributequarg<br>
-2025-10-22 | update: capture.archons<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -255,10 +255,10 @@ screenshots(click to enlarge):<br>
 
 ### gainpiraterep
 
-
+<img src="myplugins/gainpiraterep/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/gainpiraterep.png" width="130" height="20">
 
-[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-gainpiraterep/gainpiraterep.zip) | 8.65 kb | 2025-10-26 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) N/A<br>
+[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-gainpiraterep/gainpiraterep.zip) | 8.66 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
 <br>
 >Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way.
 
@@ -269,6 +269,12 @@ screenshots(click to enlarge):<br>
 
 
 There's a 50% chance of triggering the mission which effectively has you defend against an invading fleet and protect a pirate planet.
+
+
+
+changelog 1.0.1
+
+fixed icon
 </blockquote>
 </details>
 

@@ -1,7 +1,7 @@
 aberrant.kahet.outfitter|1.0.2
 bunrodeaoutfitter|1.0.0
 capture.archons|1.0.3
-gainpiraterep|1.0.0
+gainpiraterep|1.0.1
 jumpdrive.extended|1.0.1
 obtainheron|1.0.2
 pugoutfitter|1.0.1
