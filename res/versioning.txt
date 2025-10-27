@@ -3,7 +3,7 @@ bunrodeaoutfitter|1.0.0
 capture.archons|1.0.3
 gainpiraterep|1.0.0
 jumpdrive.extended|1.0.1
-obtainheron|1.0.1
+obtainheron|1.0.2
 pugoutfitter|1.0.1
 purchase.bactrian|1.0.1
 purchaseable.cloakingdevice|1.0.0
