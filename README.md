@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-27 | update: unlimited.embertear<br>
 2025-10-27 | update: gainpiraterep<br>
 2025-10-27 | update: obtainheron<br>
 2025-10-26 | update: gainpiraterep<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-23 | update: aberrant.kahet.outfitter<br>
 2025-10-23 | update: aberrant kahet outfitter<br>
 2025-10-22 | update: bunrodeaoutfitter<br>
-2025-10-22 | update: tributequarg<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -41,6 +41,7 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#quargoutfitter">quargoutfitter</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
+<a href="README.md#unlimitedembertear">unlimited.embertear</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -255,10 +256,10 @@ screenshots(click to enlarge):<br>
 
 ### gainpiraterep
 
-<img src="myplugins/gainpiraterep/icon.png" height="100">
+
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/gainpiraterep.png" width="130" height="20">
 
-[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-gainpiraterep/gainpiraterep.zip) | 8.66 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
+[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-gainpiraterep/gainpiraterep.zip) | 8.66 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) N/A<br>
 <br>
 >Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way.
 
@@ -347,7 +348,18 @@ screenshots(click to enlarge):<br>
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
+<blockquote>changelog
+
+
+
+v1.0.1
+
+you also get 32 drones and 3 fighters alongside heron now, Which should been like this from the start
+
+
+
+also fixed icon@2x, which was previously named heron@2x
+</blockquote>
 </details>
 
 <br>
@@ -533,5 +545,24 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### unlimited.embertear
+
+<img src="myplugins/unlimited.embertear/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlimited.embertear.png" width="130" height="20">
+
+[unlimited.embertear.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlimited.embertear/unlimited.embertear.zip) | 133.75 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlimited.embertear/) <a href="res/imagemd/unlimited.embertear.md">view images</a> [2]<br>
+<br>
+>Lets you fire Ember Tear indefinitely by reducing firing fuel, heat, and energy to 0
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
 
 <br>
