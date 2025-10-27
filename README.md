@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-10-27 | update: obtainheron<br>
 2025-10-26 | update: gainpiraterep<br>
 2025-10-25 | update: pugoutfitter<br>
 2025-10-25 | update: purchase.bactrian<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-22 | update: bunrodeaoutfitter<br>
 2025-10-22 | update: tributequarg<br>
 2025-10-22 | update: capture.archons<br>
-2025-10-22 | update: jumpdrive.extended<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -33,6 +33,7 @@ https://github.com/Nova1422/plugin-statistics/
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#gainpiraterep">gainpiraterep</a><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<a href="README.md#obtainheron">obtainheron</a><br>
 <a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
@@ -323,6 +324,25 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### obtainheron
+
+<img src="myplugins/obtainheron/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/obtainheron.png" width="130" height="20">
+
+[obtainheron.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-obtainheron/obtainheron.zip) | 1.14 mb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/obtainheron/) <a href="res/imagemd/obtainheron.md">view images</a> [2]<br>
+<br>
+>Obtain the Superheavy heron ship through a job board mission offered by any of the remnant planets.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
 
 <br>
 
