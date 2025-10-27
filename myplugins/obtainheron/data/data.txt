@@ -17,11 +17,45 @@ mission "Heron"
 			`The derelict ship oddly resemble a remant ship, But you've never seen this ship before.`
 		
 	on complete
-		conversation				
+		conversation
 			`Seeing the ship you brought, A remnant prefect rushes towards you, "Captain <last>, From where in the world did you obtain this ship`
 			choice
 				`"I found it derelict, so" 	Despite understanding that the ship you've acquired is very important, And being told this ship is Remnants last resort in case they are pushed to the brink of destruction, you still ask whether you can keep the ship.`
 			`"You’re asking for quite a lot, but I suppose we can grant you one under certain conditions."`
 			`	"Lend me the ship for a day; We must remove some things that would otherwise put us at risk, And examine how the ship ended up derelict in the first place."`
-		give ship "Heron" "Eternal Fortress Awakened" 
-			
+		give ship "Heron" "Eternal Fortress Awakened"
+		give ship "Tern" "Bright Tower Restored"
+		give ship "Tern" "Shadow Dream Ended"
+		give ship "Tern" "Green Forest Reborn"
+		give ship "Tern" "Dusky Ocean Ascended"
+		give ship "Tern" "Ancient Spire Renewed"
+		give ship "Tern" "Frozen Road Found"
+		give ship "Tern" "Great Fortress Awakened"
+		give ship "Tern" "Red Mountain Preserved"
+		give ship "Tern" "Calm Sea Discovered"
+		give ship "Tern" "Gray Wind Resting"
+		give ship "Tern" "Starlit Journey Begun"
+		give ship "Tern" "Dark Holdfast Enduring"
+		give ship "Tern" "White Ember Everlasting"
+		give ship "Tern" "Long Thread Changed"
+		give ship "Tern" "Black Pillar Alive"
+		give ship "Tern" "Serene Lattice Persevering"
+		give ship "Tern" "Misty Sky Aglow"
+		give ship "Tern" "Tall Stronghold Reborn"
+		give ship "Tern" "Steadfast Memory Restored"
+		give ship "Tern" "Shadow Beam Ended"
+		give ship "Tern" "Ancient Hill Renewed"
+		give ship "Tern" "Bright Wonder Found"
+		give ship "Tern" "Elder Glen Ascending"
+		give ship "Tern" "Dread Fortress Resting"
+		give ship "Tern" "Far Season Awakened"
+		give ship "Tern" "Redoubt Dream Reborn"
+		give ship "Tern" "Wide Ocean Restored"
+		give ship "Tern" "Green City Enduring"
+		give ship "Tern" "Moonlit Tower Everlasting"
+		give ship "Tern" "Young Forest Discovered"
+		give ship "Tern" "Hidden Matrix Enduring"
+		give ship "Tern" "Moonlit Spire Ascending"
+		give ship "Petrel" "Great Mountain Enduring"
+		give ship "Petrel" "Frozen Mountain Soaring"
+		give ship "Petrel" "Ancient Sky Everlasting"
