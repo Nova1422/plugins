@@ -335,9 +335,9 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/obtainheron/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/obtainheron.png" width="130" height="20">
 
-[obtainheron.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-obtainheron/obtainheron.zip) | 1.14 mb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/obtainheron/) <a href="res/imagemd/obtainheron.md">view images</a> [2]<br>
+[obtainheron.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-obtainheron/obtainheron.zip) | 1.14 mb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/obtainheron/) <a href="res/imagemd/obtainheron.md">view images</a> [2]<br>
 <br>
->Obtain the Superheavy heron ship through a job board mission offered by any of the remnant planets.
+>Obtain the Superheavy Remnant ship, Heron, through a job board mission offered by any of the remnant planets.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
