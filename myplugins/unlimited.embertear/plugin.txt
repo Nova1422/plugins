@@ -1,0 +1,5 @@
+name "Unlimited Ember Tear"
+version "1.0.0"
+about "Lets you fire Ember Tear indefinitely by reducing firing fuel, heat, and energy to 0"
+authors
+	"Nova."

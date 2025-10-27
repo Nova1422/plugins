@@ -1,0 +1,5 @@
+outfit "Ember Tear"
+	weapon
+		"firing energy" 0
+		"firing fuel" 0
+		"firing heat" 0
