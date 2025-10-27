@@ -256,10 +256,10 @@ screenshots(click to enlarge):<br>
 
 ### gainpiraterep
 
-
+<img src="myplugins/gainpiraterep/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/gainpiraterep.png" width="130" height="20">
 
-[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-gainpiraterep/gainpiraterep.zip) | 8.66 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) N/A<br>
+[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-gainpiraterep/gainpiraterep.zip) | 8.66 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
 <br>
 >Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way.
 
@@ -342,7 +342,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/obtainheron/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/obtainheron.png" width="130" height="20">
 
-[obtainheron.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-obtainheron/obtainheron.zip) | 1.14 mb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/obtainheron/) <a href="res/imagemd/obtainheron.md">view images</a> [2]<br>
+[obtainheron.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-obtainheron/obtainheron.zip) | 1.14 mb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/obtainheron/) <a href="res/imagemd/obtainheron.md">view images</a> [2]<br>
 <br>
 >Obtain the Superheavy Remnant ship, Heron, through a job board mission offered by any of the remnant planets.
 
@@ -352,13 +352,14 @@ screenshots(click to enlarge):<br>
 
 
 
-v1.0.1
+v1.0.3
 
 you also get 32 drones and 3 fighters alongside heron now, Which should been like this from the start
 
 
 
 also fixed icon@2x, which was previously named heron@2x
+
 </blockquote>
 </details>
 
