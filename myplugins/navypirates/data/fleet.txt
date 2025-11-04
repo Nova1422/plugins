@@ -1,0 +1,116 @@
+fleet "Pirate SR"
+	government "Pirate"
+	names "pirate"
+	cargo 0
+	personality
+		plunders harvests getaway
+	variant 6
+		"Rainmaker" 2
+	variant 5
+		"Gunboat"
+		"Rainmaker"
+	variant 4
+		"Frigate"
+	variant 3
+		"Gunboat" 2
+	variant 1
+		"Rainmaker" 3
+	variant 6
+		"Gunboat"
+
+
+fleet "Pirate LR"
+	government "Pirate"
+	names "pirate"
+	fighters
+		names "republic fighter"
+	cargo 0
+	personality
+		plunders harvests getaway
+	variant 5
+		"Frigate" 2
+		"Rainmaker"
+		"Gunboat"
+	variant 3
+		"Cruiser"
+		"Combat Drone" 4
+	variant 3
+		"Cruiser"
+		"Combat Drone" 4
+		"Frigate"
+		"Rainmaker"
+	variant 2
+		"Carrier"
+		"Lance" 8
+		"Combat Drone" 6
+	variant 1
+		"Carrier"
+		"Lance" 8
+		"Combat Drone" 6
+		"Cruiser"
+		"Combat Drone" 4
+		"Frigate" 2
+		"Rainmaker" 2
+		"Gunboat" 2
+	variant 1
+		"Cruiser"
+		"Combat Drone" 4
+		"Frigate" 2
+	variant 1
+		"Frigate"
+		"Rainmaker" 2
+		"Gunboat"
+
+
+fleet "Pirate RL"
+	government "Pirate"
+	names "pirate"
+	fighters
+		names "republic fighter"
+	cargo 3
+	personality
+		plunders harvests getaway
+	variant 19
+		"Auxiliary"
+		"Dropship" 2
+		"Lance" 2
+		"Cruiser"
+		"Combat Drone" 4
+		"Frigate"
+		"Gunboat" 2
+	variant 19
+		"Auxiliary (Cargo)"
+		"Dropship" 2
+		"Lance" 2
+		"Cruiser"
+		"Combat Drone" 4
+		"Frigate"
+		"Gunboat" 2
+	variant 19
+		"Auxiliary (Transport)"
+		"Dropship" 2
+		"Lance" 2
+		"Cruiser"
+		"Combat Drone" 4
+		"Frigate"
+		"Gunboat" 2
+	variant 1
+		"Auxiliary (Cargo)" 3
+		"Dropship" 3
+		"Lance" 9
+		"Cruiser" 2
+		"Combat Drone" 8
+	variant 1
+		"Auxiliary (Transport)"
+		"Auxiliary (Cargo)"
+		"Auxiliary"
+		"Dropship" 6
+		"Lance" 6
+		"Cruiser" 2
+		"Combat Drone" 8
+	variant 1
+		"Auxiliary (Transport)" 3
+		"Dropship" 9
+		"Lance" 3
+		"Cruiser" 2
+		"Combat Drone" 8
