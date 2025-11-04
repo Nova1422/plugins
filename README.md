@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-04 | update: obtainheron<br>
 2025-10-28 | update: gainpiraterep<br>
 2025-10-27 | update: unlimited.embertear<br>
 2025-10-27 | update: gainpiraterep<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-25 | update: purchase.bactrian<br>
 2025-10-24 | update: quargoutfitter<br>
 2025-10-23 | update: aberrant.kahet.outfitter<br>
-2025-10-23 | update: aberrant kahet outfitter<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -350,13 +350,19 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/obtainheron/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/obtainheron.png" width="130" height="20">
 
-[obtainheron.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-obtainheron/obtainheron.zip) | 1.14 mb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/obtainheron/) <a href="res/imagemd/obtainheron.md">view images</a> [2]<br>
+[obtainheron.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.4-obtainheron/obtainheron.zip) | 101.21 kb | 2025-11-04 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/obtainheron/) <a href="res/imagemd/obtainheron.md">view images</a> [1]<br>
 <br>
 >Obtain the Superheavy Remnant ship, Heron, through a job board mission offered by any of the remnant planets.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>changelog
+
+
+
+v1.0.4
+
+changed the icon
 
 
 
