@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-04 | update: navypirates<br>
 2025-11-04 | update: obtainheron<br>
 2025-10-28 | update: gainpiraterep<br>
 2025-10-27 | update: unlimited.embertear<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-25 | update: pugoutfitter<br>
 2025-10-25 | update: purchase.bactrian<br>
 2025-10-24 | update: quargoutfitter<br>
-2025-10-23 | update: aberrant.kahet.outfitter<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -30,9 +30,10 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#gainpiraterep">gainpiraterep</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<a href="README.md#navypirates">navypirates</a><br>
 <a href="README.md#obtainheron">obtainheron</a><br>
 <a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
@@ -339,6 +340,25 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### navypirates
+
+<img src="myplugins/navypirates/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/navypirates.png" width="130" height="20">
+
+[navypirates.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-navypirates/navypirates.zip) | 321.84 kb | 2025-11-04 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/navypirates/) <a href="res/imagemd/navypirates.md">view images</a> [2]<br>
+<br>
+>Adds Navy ships into pirate fleets.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
 
 <br>
 
