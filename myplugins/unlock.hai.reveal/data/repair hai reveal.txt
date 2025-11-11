@@ -61,9 +61,11 @@ mission "Fix: Hai Rescue: Yeertle Hint"
 		has "Hai Leaks Response 6: active"
 		has "event: slightly lost"
 		not "Fix: Hai Rescue: Yeertle Family: offered"
+		not "Hai Rescue: Yeertle Family: offered"
 		not "event: hai-human treaty signed"
 		random < 50
 	on offer
+		set "Hai Rescue: Yeertle Hint: offered"
 		conversation
 			`As you come in to land at the spaceport, you listen to the usual chatter of captains coming and going. Often this contains useful tidbits, such as which merchants are ticked off at the moment and whether you should expect to wait a while for refueling. Today, though, you overhear a captain telling an acquaintance a remarkable tale.`
 			`	Apparently, there is a man-beast on <planet>, and when the other captain laughs at the idea of a modern "werewolf," the first one is quick to clarify that it's more like a meter and a half tall "were-squirrel." There seems to be some confused discussion about the mythology of such beasts being revealed when caught staring at bright lights until a third captain, listening in the same as you, butts in to inform them that one of them stole that from a popular show a few years back.`
@@ -73,6 +75,8 @@ mission "Fix: Hai Rescue: Yeertle Hint"
 		has "Fix: Hai Rescue: Yeertle Family: offered"
 	to fail
 		has "event: hai-human treaty signed"
+	on fail
+		set "Hai Rescue: Yeertle Hint: offered"
 
 
 mission "Fix: Hai Rescue: Yeertle Family"
@@ -94,7 +98,7 @@ mission "Fix: Hai Rescue: Yeertle Family"
 	on offer
 		conversation
 			branch "nohint"
-				not "Fix: Hai Rescue: Yeertle Hint: offered"
+				not "Hai Rescue: Yeertle Hint: offered"
 			`Wandering around after dark you find yourself down an alley near the spaceport, huddled in an alcove against the drizzle while you keep an eye out for anything suspicious, apparently last rumored to be around here. After a while, a few dozen meters ahead, you see a short man with a strange necklace. As he walks past a power transfer unit, the man shimmers and you see faintly-visible, squirrel-like features. It seems the necklace is a projector of a human hologram concealing a Hai. He is sticking to the shadows, trying to avoid being seen.`
 				goto start
 			label "nohint"
@@ -168,6 +172,7 @@ mission "Fix: Hai Rescue: Yeertle Family"
 	on accept
 		dialog `It appears some unsavory types have followed you into orbit in pursuit of the Yeertle family. You could fight them, but they don't look equipped to make the journey back to Hai space successfully; so you could also probably outrun them if you prefer.`
 	on complete
+		set "Hai Rescue: Yeertle Family: done"
 		log `Found a Hai family that had been locked up by some crooked merchants meant to be providing transport. A lively bunch, returned them to <planet>.`
 		log "Minor People" "Duniip Yeertle" `A holographer from <planet>, he was able to cobble together five holoprojectors from scrap parts while hiding in little more than a cave in order to protect his family.`
 		payment 350000
@@ -193,18 +198,24 @@ mission "Fix: Hai Rescue: Ooonem Hint"
 		has "Hai Leaks Response 6: active"
 		has "event: slightly lost"
 		not "Fix: Hai Rescue: Ooonem: offered"
+		not "Hai Rescue: Ooonem: offered"
 		not "Hai Reveal [B01-A] The Blockade Goes Up: offered"
 		random < 30
 	on offer
+		set "Hai Rescue: Ooonem Hint: offered"
 		conversation
 			`As you come in to land at the spaceport, you listen to the usual chatter of captains coming and going. To your surprise, on one of the lower, less obvious bands, you hear a pair of captains talking about the pirate world of <planet>. Apparently these two have enough connections to profit off the occasional trip there, but one of them is warning the other not to go by at the moment.`
 			`	You listen in carefully as the speaker relays that there's some kind of hunt going on there. All the ships are being searched before departure, and there's a lot of paranoid goons with weapons hot. A merchant has been killed on his own ship, while it was parked in the spaceport, and random people keep getting into firefights with a short, hooded, "angel of death" in dark alleyways. So far, no one claims to know what's going on.`
 			`	It's really hard to say what this could be, but it might be worth checking out.`
 				accept
 	to complete
-		has "Fix: Hai Rescue: Ooonem: offered"
+		or
+			has "Fix: Hai Rescue: Ooonem: offered"
+			has "Hai Rescue: Ooonem: offered"
 	to fail
 		has "Hai Reveal [B01-A] The Blockade Goes Up: offered"
+	on fail
+		set "Hai Rescue: Ooonem Hint: failed"
 
 
 mission "Fix: Hai Rescue: Ooonem" ##The entirety of this mission was re added because I couldn't digest the plugin lacking changes of punctuation
@@ -228,7 +239,7 @@ mission "Fix: Hai Rescue: Ooonem" ##The entirety of this mission was re added be
 				has "Ooonem Transmitter"
 			branch "no hint"
 				and
-					not "Fix: Hai Rescue: Ooonem Hint: offered"
+					not "Hai Rescue: Ooonem Hint: offered"
 					not "Hai Rescue: Ooonem (defer count)"
 			`Following reports of the last time the "angel of death" was sighted, you end up loitering in a twisting street parallel to a main thoroughfare. The few people using it hurry by quickly, and rarely seem to travel any great distance down this street. One very surly looking individual gives you a sour glare on his way past, a collection of weapons on full display. He looks a lot like you'd expect a bounty hunter to look, and as he moves out of sight you observe a shadow, previously motionless, detach from a spot on a wall and head back your direction, laser rifle pointed in the direction of the departing individual. As the shadow approaches, you see there's a lot of hair sticking out from their hood. They might be a Hai. Do you want to talk to them?`
 				goto start
@@ -306,6 +317,7 @@ mission "Fix: Hai Rescue: Ooonem" ##The entirety of this mission was re added be
 	on accept
 		dialog `Those pursuing Ooonem have caught on quickly and followed you into orbit. You'll probably have to fight them, but they're only Core pirates and don't look equipped to make the journey back to Hai space successfully. If you're fast enough, you could probably attempt to simply dodge them instead.`
 	on complete
+		set "Hai Rescue: Ooonem: done"
 		log `Rescued a kidnapped Hai researcher, Ooonem, from Stormhold and returned her to Makerplace. She was tricked into leaving Hai space for a fake business deal, and the merchant who agreed to take her there kidnapped her instead. Men have been hunting her since she escaped. She doesn't know the real identities of the kidnappers.`
 		log "Minor People" "Ooonem" `A Hai researcher with a remarkable talent for stealth and laser rifles. Also a predilection for shooting first and not taking prisoners. She escaped kidnapping and survived independently on <origin> for a remarkable length of time where she acquired the moniker "angel of death." She's also quite the capitalist.`
 		payment 225000
