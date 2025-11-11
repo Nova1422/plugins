@@ -611,19 +611,17 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/unlock.hai.reveal/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlock.hai.reveal.png" width="130" height="20">
 
-[unlock.hai.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlock.hai.reveal/unlock.hai.reveal.zip) | 39.21 kb | 2025-11-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlock.hai.reveal/) <a href="res/imagemd/unlock.hai.reveal.md">view images</a> [1]<br>
+[unlock.hai.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-unlock.hai.reveal/unlock.hai.reveal.zip) | 39.21 kb | 2025-11-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlock.hai.reveal/) <a href="res/imagemd/unlock.hai.reveal.md">view images</a> [1]<br>
 <br>
 >Re-enables the blocked Hai Reveal storyline
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>In 0.10.0 HR was disabled, and restricted to just the intro, in 0.10.1, Two starting missions for HR, that is, Hai Leaks Response 1 and 2, were removed, That meant HR could no longer be triggered at more
+<blockquote>In 0.10.0 HR was disabled, and restricted to just the intro, in 0.10.1, Two starting missions for HR, that is, Hai Leaks Response 1 and 2, were removed, That meant HR could no longer be triggered any more
 
 
 
 this plugin adds Hai Leaks Response 1 and 2, and re enables the disabled mission, letting you play the HR line
-
-
 
 
 
