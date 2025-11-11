@@ -207,7 +207,7 @@ mission "Fix: Hai Rescue: Ooonem Hint"
 		has "Hai Reveal [B01-A] The Blockade Goes Up: offered"
 
 
-mission "Fix: Hai Rescue: Ooonem" ##The entirety of this mission was re added because i couldnt digest the plugin lacking changes of punctuation
+mission "Fix: Hai Rescue: Ooonem" ##The entirety of this mission was re added because I couldn't digest the plugin lacking changes of punctuation
 	name "Return Ooonem"
 	description "Transport the Hai you rescued to <destination>. Payment is <payment>."
 	source "Stormhold"

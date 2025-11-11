@@ -32,7 +32,7 @@ mission "Hai Leaks Response 1"
 	to offer
 		has "event: hr: exploration period"
 
-#	to offer ##the below mentioned events no longer exist, ill need to add them later, or i can skip over them, because they were removed afterall, better be kept simple because #		there wont be a guide on this thing
+#	to offer ##the below mentioned events no longer exist, ill need to add them later, or i can skip over them, because they were removed after all, better be kept simple because there won't be a guide on this thing
 #		or
 #			has "Hai Tour [5] Tour Ends: done"
 #			has "ZZ Event Hai Secret Leaks: RSHU: done"
