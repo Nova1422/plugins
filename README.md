@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-11 | update: unlock.hai.reveal<br>
 2025-11-04 | update: navypirates<br>
 2025-11-04 | update: obtainheron<br>
 2025-10-28 | update: gainpiraterep<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-26 | update: gainpiraterep<br>
 2025-10-25 | update: pugoutfitter<br>
 2025-10-25 | update: purchase.bactrian<br>
-2025-10-24 | update: quargoutfitter<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -37,12 +37,13 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#obtainheron">obtainheron</a><br>
 <a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#quargoutfitter">quargoutfitter</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <a href="README.md#unlimitedembertear">unlimited.embertear</a><br>
+<a href="README.md#unlockhaireveal">unlock.hai.reveal</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -598,6 +599,48 @@ screenshots(click to enlarge):<br>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### unlock.hai.reveal
+
+
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlock.hai.reveal.png" width="130" height="20">
+
+[unlock.hai.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlock.hai.reveal/unlock.hai.reveal.zip) | 22.05 kb | 2025-11-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlock.hai.reveal/) <a href="res/imagemd/unlock.hai.reveal.md">view images</a> [1]<br>
+<br>
+>Re-enables the blocked Hai Reveal storyline
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>In 0.10.0 HR was disabled, and restricted to just the intro, in 0.10.1, Two starting missions for HR, that is, Hai Leaks Response 1 and 2, were removed, That meant HR could no longer be triggered at more
+
+
+
+this plugin adds Hai Leaks Response 1 and 2, and re enables the disabled mission, letting you play the HR line
+
+
+
+
+
+
+
+
+
+Rightful credits to SomeTroglodyte and everyone involved in discussion #9161 for providing me the framework to understand and make this plugin
+
+
+
+repair hai reveal.txt(and the icon.png) was originally made by SomeTroglodyte for version 0.10.2, it was highly edited by me, which involved deleting the pre existing missions, and updating the added mission as per the latest release
+
+
+
+the fix was, as they stated, incomplete, that is, the condition "Hai Leaks Response 2: done" was impossible to get, this was fixed by me in tweaks.txt
+</blockquote>
 </details>
 
 <br>
