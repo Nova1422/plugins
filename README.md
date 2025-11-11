@@ -611,7 +611,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/unlock.hai.reveal/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlock.hai.reveal.png" width="130" height="20">
 
-[unlock.hai.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-unlock.hai.reveal/unlock.hai.reveal.zip) | 39.21 kb | 2025-11-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlock.hai.reveal/) <a href="res/imagemd/unlock.hai.reveal.md">view images</a> [1]<br>
+[unlock.hai.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlock.hai.reveal/unlock.hai.reveal.zip) | 39.27 kb | 2025-11-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlock.hai.reveal/) <a href="res/imagemd/unlock.hai.reveal.md">view images</a> [1]<br>
 <br>
 >Re-enables the blocked Hai Reveal storyline
 
