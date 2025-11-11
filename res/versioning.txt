@@ -12,4 +12,4 @@ quargoutfitter|1.0.0
 tributequarg|1.0.2
 unlimited.dfc|1.0.0
 unlimited.embertear|1.0.0
-unlock.hai.reveal|1.0.0
+unlock.hai.reveal|1.0.1
