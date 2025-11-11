@@ -1,0 +1,5 @@
+name "Unlocked Hai Reveal"
+version "1.0.0"
+about "Re-enables the blocked Hai Reveal storyline"
+authors
+	"Nova."
