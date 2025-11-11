@@ -1,7 +1,6 @@
-In 0.10.0 HR was disabled, and restricted to just the intro, in 0.10.1, Two starting missions for HR, that is, Hai Leaks Response 1 and 2, were removed, That meant HR could no longer be triggered at more
+In 0.10.0 HR was disabled, and restricted to just the intro, in 0.10.1, Two starting missions for HR, that is, Hai Leaks Response 1 and 2, were removed, That meant HR could no longer be triggered any more
 
 this plugin adds Hai Leaks Response 1 and 2, and re enables the disabled mission, letting you play the HR line
-
 
 
 
