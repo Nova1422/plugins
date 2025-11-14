@@ -5,6 +5,8 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-14 | update: capture.archons<br>
+2025-11-14 | update: capturingpower<br>
 2025-11-11 | update: unlock.hai.reveal<br>
 2025-11-04 | update: navypirates<br>
 2025-11-04 | update: obtainheron<br>
@@ -13,8 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-27 | update: gainpiraterep<br>
 2025-10-27 | update: obtainheron<br>
 2025-10-26 | update: gainpiraterep<br>
-2025-10-25 | update: pugoutfitter<br>
-2025-10-25 | update: purchase.bactrian<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -188,19 +188,25 @@ nothing, simple repo tweaks
 <img src="myplugins/capture.archons/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png" width="130" height="20">
 
-[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
+[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.4-capture.archons/capture.archons.zip) | 49.54 kb | 2025-11-14 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
->spawns capturable archon ships in the system "Persitar"
+>spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>spawns capturable Archon ships in the system "Persitar" every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
+<blockquote>spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
 
 
 
 Changelog
 
-v 1.0.3
+v1.0.4
+
+Added a new system instead
+
+
+
+v1.0.3
 
 Apprantly its Capturable not captureable, added plugin.txt and removed some bloat
 </blockquote>
@@ -226,7 +232,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/capturingpower/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capturingpower.png" width="130" height="20">
 
-[capturingpower.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capturingpower/capturingpower.zip) | 86.6 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capturingpower/) <a href="res/imagemd/capturingpower.md">view images</a> [5]<br>
+[capturingpower.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-capturingpower/capturingpower.zip) | 86.87 kb | 2025-11-14 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capturingpower/) <a href="res/imagemd/capturingpower.md">view images</a> [5]<br>
 <br>
 >adds two purchasable h2h with 100k attack and defense each, on the planet "Pugglemug"
 

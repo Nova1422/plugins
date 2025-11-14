@@ -1,3 +1,5 @@
+2025-11-14 | update: capture.archons
+2025-11-14 | update: capturingpower
 2025-11-11 | update: unlock.hai.reveal
 2025-11-04 | update: navypirates
 2025-11-04 | update: obtainheron
