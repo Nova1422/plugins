@@ -2,8 +2,30 @@ government "Drak (C)"
 	"display name" "Drak"
 	swizzle 0
 
-
-system "Persitar"
+system Hallownest
+	pos 110 -509
+	haze _menu/haze-blackbody
+	arrival 3000
+	object
+		sprite star/nova
+		period 1000
+		offset 260
+	object
+		sprite star/nova-core
+		period 1000
+		offset 260
+	object
+		sprite planet/rock13-b
+		distance 1507.181
+		period 300.901
+	object
+		sprite planet/lava1-b
+		distance 780.258
+		period 280.5369
+	object
+		sprite planet/lava5
+		distance 1025.017
+		period 134.050
 	government "Drak (C)"
 	fleet "ArchonF" 36000
 
@@ -18,9 +40,9 @@ fleet "ArchonF"
 		staying
 		vindictive
 	variant 1
-		"ArchonC"
+		"Archon (C)"
 
-ship "Archon" "ArchonC"
+ship "Archon" "Archon (C)"
 	noun "entity"
 	name "Archon"
 	sprite "ship/archon"
