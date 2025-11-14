@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-14 | update: capture.archons<br>
 2025-11-14 | update: capturingpower<br>
 2025-11-11 | update: unlock.hai.reveal<br>
 2025-11-04 | update: navypirates<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-27 | update: gainpiraterep<br>
 2025-10-27 | update: obtainheron<br>
 2025-10-26 | update: gainpiraterep<br>
-2025-10-25 | update: pugoutfitter<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -188,7 +188,7 @@ nothing, simple repo tweaks
 <img src="myplugins/capture.archons/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png" width="130" height="20">
 
-[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.3-capture.archons/capture.archons.zip) | 49.35 kb | 2025-10-22 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
+[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.4-capture.archons/capture.archons.zip) | 49.54 kb | 2025-11-14 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
 >spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes.
 
