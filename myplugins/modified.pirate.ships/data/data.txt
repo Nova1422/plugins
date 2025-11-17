@@ -1,0 +1,34 @@
+shipyard "Core Pirates"
+	"Bulwark"	
+	"Cutthroat"
+	"Mammoth"
+	"Nighthawk"
+	"Scrapper"
+	"Valkyrie"
+
+fleet "Pirate modified"
+	government "Pirate"
+	names "pirate"
+	cargo 1
+	personality
+		plunders harvests getaway
+	variant 1
+		"Bulwark"
+	variant 1
+		"Cutthroat"
+	variant 2
+		"Mammoth"
+	variant 1
+		"Nighthawk"
+	variant 1
+		"Scrapper"
+	variant 1
+		"Valkyrie"
+
+system "Arneb"
+	add fleet "Pirate modified" 180
+
+system "Almaaz"
+	add fleet "Pirate modified" 180
+
+

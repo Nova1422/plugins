@@ -1,0 +1,6 @@
+name "Modified Pirate ships"
+version "1.0.0"
+about "Lets you capture or purchase rare modified pirate ships like Bulwark, Cutthroat, Mammoth, Nighthawk, Scrapper, Valkyrie."
+about `The aforementioned ships spawn in the system "Arneb" or "Almaaz"`
+authors
+	"Nova."
