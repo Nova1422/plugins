@@ -188,7 +188,7 @@ nothing, simple repo tweaks
 <img src="myplugins/capture.archons/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png" width="130" height="20">
 
-[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.1.0-capture.archons/capture.archons.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
+[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.1.0-capture.archons/capture.archons.zip) | 49.36 kb | 2025-11-17 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
 >Allows you to capture Archons.
 
