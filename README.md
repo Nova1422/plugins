@@ -188,17 +188,23 @@ nothing, simple repo tweaks
 <img src="myplugins/capture.archons/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png" width="130" height="20">
 
-[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.4-capture.archons/capture.archons.zip) | 49.54 kb | 2025-11-14 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
+[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.1.0-capture.archons/capture.archons.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
->spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes.
+>Allows you to capture Archons.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
+<blockquote>Lets you capture pre existing Archon ships, Also spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
 
 
 
 Changelog
+
+v1.1.0
+
+Removed any limitations
+
+
 
 v1.0.4
 
@@ -215,7 +221,7 @@ Apprantly its Capturable not captureable, added plugin.txt and removed some bloa
 screenshots(click to enlarge):<br>
 <table>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons01.JPG" width="200"></td>
+		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons01.PNG" width="200"></td>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons02.JPG" width="200"></td>
 		<td><img src="https://raw.githubusercontent.com/Nova1422/plugins/master/screenshots/capture.archons03.JPG" width="200"></td>
 	</tr>
