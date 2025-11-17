@@ -1,5 +1,5 @@
 name "Capturable Archons"
-about `spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes.`
-version "1.0.4"
+about `Allows you to capture Archons.`
+version "1.1.0"
 authors
 	"Nova."

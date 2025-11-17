@@ -1,0 +1,80 @@
+disable mission "Drak guarding Korath space"
+disable mission "Drak guarding Sayaiban"
+disable mission "Drak guarding Void Sprites"
+disable mission "Drak guarding Incipias space"
+
+mission "Archon Personality Compatibility Patch (C)"
+	invisible
+	landing
+	on offer
+		fail "Drak guarding Korath space"
+		fail "Drak guarding Sayaiban"
+		fail "Drak guarding Void Sprites"
+		fail "Drak guarding Incipias space"
+		fail
+
+mission "Drak guarding Korath space (C)"
+	invisible
+	landing
+	repeat
+	to offer
+		not "Drak guarding Korath space: active"
+	to complete
+		never
+	npc save
+		government Drak
+		personality heroic vindictive staying frugal forbearing
+		system Fasitopfar
+		ship "Archon (C)" "Kasiliri's Folly"
+	npc save
+		government Drak
+		personality heroic vindictive staying frugal forbearing
+		system Kasikfar
+		ship "Archon (C)" "Sword of Eden"
+	npc save
+		government Drak
+		personality heroic vindictive staying frugal forbearing
+		system Peresedersi
+		ship "Archon (C)" "Snows of Far Door Nai"
+
+mission "Drak guarding Sayaiban (C)"
+	invisible
+	landing
+	repeat
+	to offer
+		not "Drak guarding Sayaiban (C) active"
+	to complete
+		never
+	npc save
+		government Drak
+		personality heroic vindictive staying frugal forbearing
+		system Sayaiban
+		ship "Archon (C)" "Watchful Gravetender"
+	
+mission "Drak guarding Void Sprites (C)"
+	invisible
+	landing
+	repeat
+	to offer
+		not "Drak guarding Void Sprites (C): active"
+	to complete
+		never
+	npc save
+		government Drak
+		personality heroic vindictive staying frugal
+		system Nenia
+		ship "Archon (C)" "Sleeping Dragon"
+
+mission "Drak guarding Incipias space (C)"
+	invisible
+	landing
+	repeat
+	to offer
+		not "Drak guarding Incipias space (C): active"
+	to complete
+		never
+	npc save
+		government "Drak (Incipias)"
+		personality staying forbearing frugal heroic vindictive
+		system Il'le
+		ship "Archon (C)" "Guardian of Spring"
