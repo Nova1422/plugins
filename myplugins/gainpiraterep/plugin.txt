@@ -1,5 +1,0 @@
-name "Gain Pirate Rep"
-version "1.0.2"
-about "Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way."
-authors
-	"Nova."
