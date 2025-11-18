@@ -30,20 +30,17 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
-<a href="README.md#gainpiraterep">gainpiraterep</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="README.md#modifiedpirateships">modified.pirate.ships</a><br>
 <a href="README.md#navypirates">navypirates</a><br>
 <a href="README.md#obtainheron">obtainheron</a><br>
-<a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <a href="README.md#quargoutfitter">quargoutfitter</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
-<a href="README.md#unlimitedembertear">unlimited.embertear</a><br>
 <a href="README.md#unlockhaireveal">unlock.hai.reveal</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
@@ -269,44 +266,6 @@ screenshots(click to enlarge):<br>
 
 ---
 
-### gainpiraterep
-
-<img src="myplugins/gainpiraterep/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/gainpiraterep.png" width="130" height="20">
-
-[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-gainpiraterep/gainpiraterep.zip) | 20.41 kb | 2025-10-28 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
-<br>
->Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way.
-
-<details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>Adds a repeatable job board mission on every pirate planet, Which lets you bribe the local pirate overlord into ceasing hostility with you, At a low cost of 100k credit.
-
-
-
-There's a 50% chance of triggering the mission which effectively has you defend against an invading fleet and protect a pirate planet.
-
-
-
-
-
-changelog 1.0.2
-
-actually fixed icon
-
-
-
-changelog 1.0.1
-
-fixed icon
-</blockquote>
-</details>
-
-<br>
-
-
----
-
 ### jumpdrive.extended
 
 <img src="myplugins/jumpdrive.extended/icon.png" height="100">
@@ -433,35 +392,6 @@ you also get 32 drones and 3 fighters alongside heron now, Which should been lik
 
 also fixed icon@2x, which was previously named heron@2x
 
-</blockquote>
-</details>
-
-<br>
-
-
----
-
-### pugoutfitter
-
-<img src="myplugins/pugoutfitter/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/pugoutfitter.png" width="130" height="20">
-
-[pugoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | 148.71 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
-<br>
->Adds T1 and T3 Pug Outfits at planet Pugglemug
->PS- T3 Pug Outfits are locked behind a job board mission
-
-<details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>To obtain T3 Pug outfits, You need to accept the job from job board "Invading Pug Warships", In which you have to fight off 2 Pug Arfectas and as a reward you can now purchase some new outfits.
-
-
-
-changelog
-
-1.0.1
-
-added readme
 </blockquote>
 </details>
 
@@ -619,25 +549,6 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
-
-<br>
-
-
----
-
-### unlimited.embertear
-
-<img src="myplugins/unlimited.embertear/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlimited.embertear.png" width="130" height="20">
-
-[unlimited.embertear.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlimited.embertear/unlimited.embertear.zip) | 133.75 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlimited.embertear/) <a href="res/imagemd/unlimited.embertear.md">view images</a> [2]<br>
-<br>
->Lets you fire Ember Tear indefinitely by reducing firing fuel, heat, and energy to 0
-
-<details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
-</details>
 
 <br>
 
