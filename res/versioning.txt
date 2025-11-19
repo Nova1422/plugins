@@ -1,6 +1,6 @@
 aberrant.kahet.outfitter|1.0.2
 bunrodeaoutfitter|1.0.0
-capture.archons|1.1.0
+capture.archons|1.0.4
 capturingpower|1.0.1
 jumpdrive.extended|1.0.1
 modified.pirate.ships|1.0.0
