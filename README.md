@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-20 | update: capture.archons<br>
 2025-11-17 | update: modified.pirate.ships<br>
 2025-11-14 | update: capture.archons<br>
 2025-11-14 | update: capturingpower<br>
@@ -14,7 +15,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-10-28 | update: gainpiraterep<br>
 2025-10-27 | update: unlimited.embertear<br>
 2025-10-27 | update: gainpiraterep<br>
-2025-10-27 | update: obtainheron<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -186,17 +186,32 @@ nothing, simple repo tweaks
 <img src="myplugins/capture.archons/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.archons.png" width="130" height="20">
 
-[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.4-capture.archons/capture.archons.zip) | 49.54 kb | 2025-11-14 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
+[capture.archons.zip](https://github.com/Nova1422/plugins/releases/download/v1.1.1-capture.archons/capture.archons.zip) | 50.35 kb | 2025-11-20 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.archons/) <a href="res/imagemd/capture.archons.md">view images</a> [1]<br>
 <br>
 >Allows you to capture Archons.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
+<blockquote>Lets you capture pre existing Archon ships, Also spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes, PS- capturing the Archons will not be any easier
 
 
 
 Changelog
+
+v1.1.1
+
+updated the README, also fixed the bugs in 1.1.0, in case you had that version, updating the plugin will fix it, fixed by patch.txt
+
+
+
+credits to GrayCubeT for pointing that bug out
+
+
+
+v1.1.0
+
+Removed any limitations
+
 
 
 v1.0.4
