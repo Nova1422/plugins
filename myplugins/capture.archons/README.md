@@ -2,7 +2,7 @@ Lets you capture pre existing Archon ships, Also spawns capturable Archon ships 
 
 Changelog
 v1.1.1
-updated the README, also fixed the bugs in 1.1.0, incase you had that version, updating the plugin will fix it, fixed by patch.txt
+updated the README, also fixed the bugs in 1.1.0, in case you had that version, updating the plugin will fix it, fixed by patch.txt
 
 credits to GrayCubeT for pointing that bug out
 
