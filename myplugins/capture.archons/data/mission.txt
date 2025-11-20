@@ -18,7 +18,7 @@ mission "Drak guarding Korath space (C)"
 	landing
 	repeat
 	to offer
-		not "Drak guarding Korath space: active"
+		not "Drak guarding Korath space (C): active"
 	to complete
 		never
 	npc save
@@ -42,7 +42,7 @@ mission "Drak guarding Sayaiban (C)"
 	landing
 	repeat
 	to offer
-		not "Drak guarding Sayaiban (C) active"
+		not "Drak guarding Sayaiban (C): active"
 	to complete
 		never
 	npc save

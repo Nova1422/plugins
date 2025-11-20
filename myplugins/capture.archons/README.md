@@ -1,6 +1,11 @@
-Lets you capture pre existing Archon ships, Also spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
+Lets you capture pre existing Archon ships, Also spawns capturable Archon ships in the system "Hallownest" near the hai system every 10 minutes, PS- capturing the Archons will not be any easier
 
 Changelog
+v1.1.1
+updated the README, also fixed the bugs in 1.1.0, incase you had that version, updating the plugin will fix it, fixed by patch.txt
+
+credits to GrayCubeT for pointing that bug out
+
 v1.1.0
 Removed any limitations
 

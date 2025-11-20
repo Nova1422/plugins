@@ -1,0 +1,18 @@
+version 1.1.0 was messy, if you never had it, you can delete this
+
+
+mission "Archon Personality Compatibility Patch (D)"
+	invisible
+	landing
+	on offer
+		fail "Drak guarding Sayaiban (C)"
+		fail "Drak guarding Korath space (C)"
+		fail
+
+mission "Archon Personality Compatibility Patch (E)" #idk why but had to do this twice
+	invisible
+	landing
+	on offer
+		fail "Drak guarding Sayaiban (C)"
+		fail "Drak guarding Korath space (C)"
+		fail
