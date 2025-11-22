@@ -1,6 +1,8 @@
 For any suggestions, mistakes, or so, mention me in the games [official discord server^](https://discord.com/invite/ZeuASSx)
 
 https://github.com/Nova1422/plugin-statistics/
+
+[some plugins which are not added here](https://github.com/Nova1422/additional-plugins)
 %news%
 
 ## Plugin List:<br>
