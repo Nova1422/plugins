@@ -1,0 +1,2 @@
+outfitter "Remnant"
+	"NDR-114 Android"

@@ -1,0 +1,5 @@
+name "Purchaseable Androids"
+version "1.0.0"
+about `Lets you purchase the functional unique "NDR-114 Android", on any remnant planets.`
+authors
+	"Nova."
