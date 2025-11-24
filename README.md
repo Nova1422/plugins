@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-24 | update: purchaseable.peregrine<br>
 2025-11-24 | update: purchaseable.androids<br>
 2025-11-24 | update: capture.augen<br>
 2025-11-20 | update: capture.archons<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-11 | update: unlock.hai.reveal<br>
 2025-11-04 | update: navypirates<br>
 2025-11-04 | update: obtainheron<br>
-2025-10-28 | update: gainpiraterep<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -39,8 +39,9 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#obtainheron">obtainheron</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
 <a href="README.md#purchaseableandroids">purchaseable.androids</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#purchaseableperegrine">purchaseable.peregrine</a><br>
 <a href="README.md#quargoutfitter">quargoutfitter</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
@@ -477,6 +478,25 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### purchaseable.peregrine
+
+<img src="myplugins/purchaseable.peregrine/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchaseable.peregrine.png" width="130" height="20">
+
+[purchaseable.peregrine.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.peregrine/purchaseable.peregrine.zip) | 38.51 kb | 2025-11-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchaseable.peregrine/) <a href="res/imagemd/purchaseable.peregrine.md">view images</a> [1]<br>
+<br>
+>Makes Peregrine available for sale.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
 
 <br>
 
