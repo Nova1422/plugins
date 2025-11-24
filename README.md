@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-24 | update: purchaseable.androids<br>
 2025-11-24 | update: capture.augen<br>
 2025-11-20 | update: capture.archons<br>
 2025-11-17 | update: modified.pirate.ships<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-04 | update: navypirates<br>
 2025-11-04 | update: obtainheron<br>
 2025-10-28 | update: gainpiraterep<br>
-2025-10-27 | update: unlimited.embertear<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -32,12 +32,13 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
 <a href="README.md#captureaugen">capture.augen</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="README.md#navypirates">navypirates</a><br>
 <a href="README.md#obtainheron">obtainheron</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
+<a href="README.md#purchaseableandroids">purchaseable.androids</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <a href="README.md#quargoutfitter">quargoutfitter</a><br>
@@ -427,6 +428,25 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### purchaseable.androids
+
+<img src="myplugins/purchaseable.androids/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchaseable.androids.png" width="130" height="20">
+
+[purchaseable.androids.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.androids/purchaseable.androids.zip) | 18.13 kb | 2025-11-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchaseable.androids/) <a href="res/imagemd/purchaseable.androids.md">view images</a> [1]<br>
+<br>
+>Lets you purchase the functional unique "NDR-114 Android", on any remnant planet.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
 
 <br>
 
