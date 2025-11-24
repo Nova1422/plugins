@@ -23,15 +23,15 @@ mission "Gegno rep reset"
 	to offer
 		has "augen capped"
 	on offer
-		reputation "Gegno" = 1
-		reputation "Gegno Scin" = 1
-		reputation "Gegno Scin (Combative)" = 1
-		reputation "Gegno Scin (Neutral)" = 1
-		reputation "Gegno Vi" = 1
-		reputation "Gegno Vi (Combative)" = 1
-		reputation "Gegno Vi (Duelist A)" = 1
-		reputation "Gegno Vi (Duelist B)" = 1
-		reputation "Gegno Vi (Neutral)" = 1
+		"reputation: Gegno" = 1
+		"reputation: Gegno Scin" = 1
+		"reputation: Gegno Scin (Combative)" = 1
+		"reputation: Gegno Scin (Neutral)" = 1
+		"reputation: Gegno Vi" = 1
+		"reputation: Gegno Vi (Combative)" = 1
+		"reputation: Gegno Vi (Duelist A)" = 1
+		"reputation: Gegno Vi (Duelist B)" = 1
+		"reputation: Gegno Vi (Neutral)" = 1
 		fail
 
 
