@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-24 | update: capture.augen<br>
 2025-11-20 | update: capture.archons<br>
 2025-11-17 | update: modified.pirate.ships<br>
 2025-11-14 | update: capture.archons<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-04 | update: obtainheron<br>
 2025-10-28 | update: gainpiraterep<br>
 2025-10-27 | update: unlimited.embertear<br>
-2025-10-27 | update: gainpiraterep<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -31,10 +31,10 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#aberrantkahetoutfitter">aberrant.kahet.outfitter</a><br>
 <a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
 <a href="README.md#capturearchons">capture.archons</a><br>
-<a href="README.md#capturingpower">capturingpower</a><br>
+<a href="README.md#captureaugen">capture.augen</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#capturingpower">capturingpower</a><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
-<a href="README.md#modifiedpirateships">modified.pirate.ships</a><br>
 <a href="README.md#navypirates">navypirates</a><br>
 <a href="README.md#obtainheron">obtainheron</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
@@ -243,6 +243,25 @@ screenshots(click to enlarge):<br>
 
 ---
 
+### capture.augen
+
+<img src="myplugins/capture.augen/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.augen.png" width="130" height="20">
+
+[capture.augen.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capture.augen/capture.augen.zip) | 73.02 kb | 2025-11-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.augen/) <a href="res/imagemd/capture.augen.md">view images</a> [1]<br>
+<br>
+>Lets you capture the gegno ship "Augen" without consequences.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
 ### capturingpower
 
 <img src="myplugins/capturingpower/icon.png" height="100">
@@ -325,31 +344,6 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
-
-<br>
-
-
----
-
-### modified.pirate.ships
-
-<img src="myplugins/modified.pirate.ships/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/modified.pirate.ships.png" width="130" height="20">
-
-[modified.pirate.ships.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-modified.pirate.ships/modified.pirate.ships.zip) | 65.71 kb | 2025-11-17 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/modified.pirate.ships/) <a href="res/imagemd/modified.pirate.ships.md">view images</a> [1]<br>
-<br>
->Lets you capture or purchase rare modified pirate ships like Bulwark, Cutthroat, Mammoth, Nighthawk, Scrapper, Valkyrie.
->The aforementioned ships spawn in the system "Arneb" or "Almaaz"
-
-<details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>Lets you capture or purchase rare modified pirate ships like Bulwark, Cutthroat, Mammoth, Nighthawk, Scrapper, Valkyrie.
-
-
-
-The aforementioned ships spawn in the system Arneb and Almaaz, one of the six ships spawn every 3 minutes.
-</blockquote>
-</details>
 
 <br>
 
