@@ -1,0 +1,4 @@
+name "Purchase Peregrine"
+about "Makes Peregrine available for sale."
+authors
+	"Nova."
