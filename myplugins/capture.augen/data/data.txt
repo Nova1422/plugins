@@ -1,0 +1,38 @@
+disable mission 
+	"Vi Augen"
+
+mission "Vi Augen (C)"
+	invisible
+	landing
+	on offer
+		fail "Stationed Augen"
+		fail "Vi Augen"
+	npc save
+		on kill
+			set "augen capped"
+		government "Gegno Vi"
+		personality heroic vindictive staying
+		system "Kiluit"
+		ship "Augen" "Vytii Yrrlausei"
+	to complete
+		never
+
+mission "Gegno rep reset"
+	invisible
+	landing
+	to offer
+		has "augen capped"
+	on offer
+		reputation "Gegno" = 1
+		reputation "Gegno Scin" = 1
+		reputation "Gegno Scin (Combative)" = 1
+		reputation "Gegno Scin (Neutral)" = 1
+		reputation "Gegno Vi" = 1
+		reputation "Gegno Vi (Combative)" = 1
+		reputation "Gegno Vi (Duelist A)" = 1
+		reputation "Gegno Vi (Duelist B)" = 1
+		reputation "Gegno Vi (Neutral)" = 1
+		fail
+
+
+	
