@@ -16,3 +16,4 @@ quargoutfitter|1.0.0
 tributequarg|1.0.2
 unlimited.dfc|1.0.0
 unlock.hai.reveal|1.0.0
+zoom.extension|1.0.0
