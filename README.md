@@ -644,10 +644,10 @@ the fix was, as they stated, incomplete, that is, the condition "Hai Leaks Respo
 
 ### zoom.extension
 
-
+<img src="myplugins/zoom.extension/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/zoom.extension.png" width="130" height="20">
 
-[zoom.extension.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-zoom.extension/zoom.extension.zip) | 1.41 kb | 2025-11-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/zoom.extension/) N/A<br>
+[zoom.extension.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-zoom.extension/zoom.extension.zip) | 4.71 kb | 2025-11-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/zoom.extension/) <a href="res/imagemd/zoom.extension.md">view images</a> [1]<br>
 <br>
 >Lets you zoom out more.
 
