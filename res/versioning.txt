@@ -1,3 +1,4 @@
+
 aberrant.kahet.outfitter|1.0.2
 bunrodeaoutfitter|1.0.0
 capture.archons|1.1.1
@@ -15,4 +16,4 @@ quargoutfitter|1.0.0
 tributequarg|1.0.2
 unlimited.dfc|1.0.0
 unlock.hai.reveal|1.0.0
-
+zoom.extension|1.0.0
