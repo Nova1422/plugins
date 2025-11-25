@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-25 | update: zoom.extension<br>
 2025-11-24 | update: purchaseable.peregrine<br>
 2025-11-24 | update: purchaseable.androids<br>
 2025-11-24 | update: capture.augen<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-14 | update: capturingpower<br>
 2025-11-11 | update: unlock.hai.reveal<br>
 2025-11-04 | update: navypirates<br>
-2025-11-04 | update: obtainheron<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -46,6 +46,7 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <a href="README.md#unlockhaireveal">unlock.hai.reveal</a><br>
+<a href="README.md#zoomextension">zoom.extension</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -634,6 +635,25 @@ repair hai reveal.txt(and the icon.png) was originally made by SomeTroglodyte fo
 
 the fix was, as they stated, incomplete, that is, the condition "Hai Leaks Response 2: done" was impossible to get, this was fixed by me in tweaks.txt
 </blockquote>
+</details>
+
+<br>
+
+
+---
+
+### zoom.extension
+
+
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/zoom.extension.png" width="130" height="20">
+
+[zoom.extension.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-zoom.extension/zoom.extension.zip) | 1.41 kb | 2025-11-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/zoom.extension/) N/A<br>
+<br>
+>Lets you zoom out more.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote></blockquote>
 </details>
 
 <br>
