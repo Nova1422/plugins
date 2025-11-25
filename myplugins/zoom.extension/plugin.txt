@@ -1,0 +1,5 @@
+name "Zoom Extension"
+version "1.0.0"
+about "Lets you zoom out more."
+authors
+	"Nova."
