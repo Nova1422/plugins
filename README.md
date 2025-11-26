@@ -252,7 +252,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/capture.augen/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.augen.png" width="130" height="20">
 
-[capture.augen.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-capture.augen/capture.augen.zip) | 73.03 kb | 2025-11-26 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.augen/) <a href="res/imagemd/capture.augen.md">view images</a> [1]<br>
+[capture.augen.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capture.augen/capture.augen.zip) | 73.03 kb | 2025-11-26 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.augen/) <a href="res/imagemd/capture.augen.md">view images</a> [1]<br>
 <br>
 >Lets you capture the Super Heavy gegno ship "Augen" without consequences.
 
