@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-26 | update: capture.augen<br>
 2025-11-26 | update: reduce.requiredcrew<br>
 2025-11-25 | update: zoom.extension<br>
 2025-11-24 | update: purchaseable.peregrine<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-17 | update: modified.pirate.ships<br>
 2025-11-14 | update: capture.archons<br>
 2025-11-14 | update: capturingpower<br>
-2025-11-11 | update: unlock.hai.reveal<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -252,7 +252,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/capture.augen/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/capture.augen.png" width="130" height="20">
 
-[capture.augen.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-capture.augen/capture.augen.zip) | 73.02 kb | 2025-11-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.augen/) <a href="res/imagemd/capture.augen.md">view images</a> [1]<br>
+[capture.augen.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-capture.augen/capture.augen.zip) | 73.02 kb | 2025-11-26 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/capture.augen/) <a href="res/imagemd/capture.augen.md">view images</a> [1]<br>
 <br>
 >Lets you capture the gegno ship "Augen" without consequences.
 

@@ -1,3 +1,4 @@
+2025-11-26 | update: capture.augen
 2025-11-26 | update: reduce.requiredcrew
 2025-11-25 | update: zoom.extension
 2025-11-24 | update: purchaseable.peregrine
