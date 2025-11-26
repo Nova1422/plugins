@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-26 | update: reduce.requiredcrew<br>
 2025-11-25 | update: zoom.extension<br>
 2025-11-24 | update: purchaseable.peregrine<br>
 2025-11-24 | update: purchaseable.androids<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-14 | update: capture.archons<br>
 2025-11-14 | update: capturingpower<br>
 2025-11-11 | update: unlock.hai.reveal<br>
-2025-11-04 | update: navypirates<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -33,16 +33,17 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="README.md#capturearchons">capture.archons</a><br>
 <a href="README.md#captureaugen">capture.augen</a><br>
 <a href="README.md#capturingpower">capturingpower</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#navypirates">navypirates</a><br>
 <a href="README.md#obtainheron">obtainheron</a><br>
 <a href="README.md#purchasebactrian">purchase.bactrian</a><br>
 <a href="README.md#purchaseableandroids">purchaseable.androids</a><br>
 <a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#purchaseableperegrine">purchaseable.peregrine</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#quargoutfitter">quargoutfitter</a><br>
+<a href="README.md#reducerequiredcrew">reduce.requiredcrew</a><br>
 <a href="README.md#tributequarg">tributequarg</a><br>
 <a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
 <a href="README.md#unlockhaireveal">unlock.hai.reveal</a><br>
@@ -527,6 +528,25 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### reduce.requiredcrew
+
+<img src="myplugins/reduce.requiredcrew/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/reduce.requiredcrew.png" width="130" height="20">
+
+[reduce.requiredcrew.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-reduce.requiredcrew/reduce.requiredcrew.zip) | 2.86 kb | 2025-11-26 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/reduce.requiredcrew/) <a href="res/imagemd/reduce.requiredcrew.md">view images</a> [1]<br>
+<br>
+>Adds an free outfit which lets you reduce the required crew by 1.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
 
 <br>
 

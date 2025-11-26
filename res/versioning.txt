@@ -13,6 +13,7 @@ purchaseable.androids|1.0.0
 purchaseable.cloakingdevice|1.0.0
 purchaseable.peregrine|1.0.0
 quargoutfitter|1.0.0
+reduce.requiredcrew|1.0.0
 tributequarg|1.0.2
 unlimited.dfc|1.0.0
 unlock.hai.reveal|1.0.0
