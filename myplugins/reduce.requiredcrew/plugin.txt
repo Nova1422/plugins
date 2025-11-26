@@ -1,0 +1,5 @@
+name "Reduce Crew"
+version "1.0.0"
+about "Adds an free outfit which lets you reduce the required crew by 1."
+authors
+	"Nova."

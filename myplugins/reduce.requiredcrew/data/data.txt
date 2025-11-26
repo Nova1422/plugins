@@ -1,0 +1,9 @@
+outfit "Reduce Crew"
+	category "Special"
+	"required crew" -1
+
+outfitter "reducecrew"
+	location
+		attributes "outfitter"
+	"Reduce Crew"
+
