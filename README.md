@@ -27,27 +27,27 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr valign="top">
 <td><img width="294" height="1"><br>
-<a href="README.md#1requiredcrew">1requiredcrew</a><br>
-<a href="README.md#aberrantkahetoutfitter">aberrant.kahet.outfitter</a><br>
-<a href="README.md#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
-<a href="README.md#capturearchons">capture.archons</a><br>
-<a href="README.md#captureaugen">capture.augen</a><br>
-<a href="README.md#capturingpower">capturingpower</a><br>
-<a href="README.md#jumpdriveextended">jumpdrive.extended</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#1requiredcrew">1requiredcrew</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#aberrantkahetoutfitter">aberrant.kahet.outfitter</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturearchons">capture.archons</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#captureaugen">capture.augen</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturingpower">capturingpower</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#jumpdriveextended">jumpdrive.extended</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#navypirates">navypirates</a><br>
-<a href="README.md#obtainheron">obtainheron</a><br>
-<a href="README.md#purchasebactrian">purchase.bactrian</a><br>
-<a href="README.md#purchaseableandroids">purchaseable.androids</a><br>
-<a href="README.md#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
-<a href="README.md#purchaseableperegrine">purchaseable.peregrine</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#navypirates">navypirates</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#obtainheron">obtainheron</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchasebactrian">purchase.bactrian</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseableandroids">purchaseable.androids</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseableperegrine">purchaseable.peregrine</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#quargoutfitter">quargoutfitter</a><br>
-<a href="README.md#reducerequiredcrew">reduce.requiredcrew</a><br>
-<a href="README.md#tributequarg">tributequarg</a><br>
-<a href="README.md#unlimiteddfc">unlimited.dfc</a><br>
-<a href="README.md#unlockhaireveal">unlock.hai.reveal</a><br>
-<a href="README.md#zoomextension">zoom.extension</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#quargoutfitter">quargoutfitter</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#reducerequiredcrew">reduce.requiredcrew</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#tributequarg">tributequarg</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unlimiteddfc">unlimited.dfc</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unlockhaireveal">unlock.hai.reveal</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#zoomextension">zoom.extension</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
