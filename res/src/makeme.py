@@ -114,15 +114,14 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 	column = amount//3
 	remainder = amount%3
 	index = 0
-        for entry in entries:
-            index += 1
-            anchor = entry.replace('.', '')  # anchor used after # in the link
+	for entry in entries:
+    	index += 1
+    	pluginlist += (
+        	'<a href="https://github.com/' + current_repo +
+        	'?tab=readme-ov-file#' + entry.replace('.', '') +
+        	'">' + entry + '</a><br>\n'
+    	)
 
-            pluginlist += (
-                '<a href="https://github.com/' + current_repo +
-                '?tab=readme-ov-file#' + anchor + '">' +
-                entry + '</a><br>\n'
-            )
 		if remainder == 0:
 			if index  == column or index == 2*column:
 				pluginlist += '<img width="294" height="1"><br></td><td><img width="294" height="1"><br>\n'
