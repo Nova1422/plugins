@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-01 | update: reduce.requiredcrew<br>
 2025-11-26 | update: capture.augen<br>
 2025-11-26 | update: reduce.requiredcrew<br>
 2025-11-25 | update: zoom.extension<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-20 | update: capture.archons<br>
 2025-11-17 | update: modified.pirate.ships<br>
 2025-11-14 | update: capture.archons<br>
-2025-11-14 | update: capturingpower<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -29,18 +29,18 @@ https://github.com/Nova1422/plugin-statistics/
 <td><img width="294" height="1"><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#1requiredcrew">1requiredcrew</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#aberrantkahetoutfitter">aberrant.kahet.outfitter</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#avgioutfitter">avgi.outfitter</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#bunrodeaoutfitter">bunrodeaoutfitter</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturearchons">capture.archons</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#captureaugen">capture.augen</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturingpower">capturingpower</a><br>
-<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#jumpdriveextended">jumpdrive.extended</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#navypirates">navypirates</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#obtainheron">obtainheron</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchasebactrian">purchase.bactrian</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseableandroids">purchaseable.androids</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
-<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseableperegrine">purchaseable.peregrine</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#quargoutfitter">quargoutfitter</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#reducerequiredcrew">reduce.requiredcrew</a><br>
@@ -160,6 +160,126 @@ changelog
 
 
 nothing, simple repo tweaks
+</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### avgi.outfitter
+
+<img src="myplugins/avgi.outfitter/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/avgi.outfitter.png" width="130" height="20">
+
+[avgi.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-avgi.outfitter/avgi.outfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/avgi.outfitter/) <a href="res/imagemd/avgi.outfitter.md">view images</a> [1]<br>
+<br>
+>Adds all available Avgi outfits to the planet "Albatross"
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>Includes the following outfits
+
+
+
+	`"Nettle" KKV`
+
+	`"Ophrys" Nuclear Torpedo`
+
+	`"Orchid" Nuclear Missile`
+
+	"Blue Optical Laser"
+
+	"Green Optical Laser"
+
+	"Concealment Lamina"
+
+	"Concentrating Solar Array"
+
+	"Concentrating Solar Cell"
+
+	"Cryogenic Deuterium Tank"
+
+	"Deuterium Slush Tank"
+
+	"Diffuse Deflector"
+
+	"External Launch Rail"
+
+	"External Launch Tube"
+
+	"Heatsink Partition"
+
+	"Inductive Extractor"
+
+	"Lancet Adamant"
+
+	"Lantern Fission Core"
+
+	"Magnetoplasma Drive"
+
+	"Small VLS"
+
+	"Tiny VLS"
+
+	"Medium VLS"
+
+	"Multispectral Scanner"
+
+	"Ophrys Stockpile"
+
+	"Optical Laser Rifle"
+
+	"Optical Lasing Generator"
+
+	"Photoelectric Lamina"
+
+	"R-180 RCS Thrusters"
+
+	"R-360 RCS Thrusters"
+
+	"R-720 RCS Thrusters"
+
+	"Radiative Lamina"
+
+	"Remass Injector"
+
+	"Speck Magazine"
+
+	"Speck Round"
+
+	"Speckle Coilgun"
+
+	"Speckle Turret"
+
+	"Spectrometer Array"
+
+	"Specular Deflector"
+
+	"Ultracapacitor Bank"
+
+	"Ultracapacitor Cell"
+
+	`Z-333 "Spark" Fusion Torch`
+
+	`Z-666 "Zap" Fusion Torch`
+
+	`Z-999 "Arc" Fusion Torch`
+
+	`Z-3600 "Beam" Amat Torch`
+
+	"Vapor Nuclear Rocket"
+
+	"Magnetic Scoop"
+
+	"Plasmadyne Scoop"
+
+	"Orchid Magazine"
+
+	"Nettle Magazine"
+
+	"UREB Turret"
 </blockquote>
 </details>
 
@@ -486,25 +606,6 @@ screenshots(click to enlarge):<br>
 
 ---
 
-### purchaseable.peregrine
-
-<img src="myplugins/purchaseable.peregrine/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/purchaseable.peregrine.png" width="130" height="20">
-
-[purchaseable.peregrine.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.peregrine/purchaseable.peregrine.zip) | 38.51 kb | 2025-11-24 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/purchaseable.peregrine/) <a href="res/imagemd/purchaseable.peregrine.md">view images</a> [1]<br>
-<br>
->Makes Peregrine available for sale.
-
-<details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
-</details>
-
-<br>
-
-
----
-
 ### quargoutfitter
 
 <img src="myplugins/quargoutfitter/icon.png" height="100">
@@ -539,9 +640,9 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/reduce.requiredcrew/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/reduce.requiredcrew.png" width="130" height="20">
 
-[reduce.requiredcrew.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-reduce.requiredcrew/reduce.requiredcrew.zip) | 2.86 kb | 2025-11-26 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/reduce.requiredcrew/) <a href="res/imagemd/reduce.requiredcrew.md">view images</a> [1]<br>
+[reduce.requiredcrew.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-reduce.requiredcrew/reduce.requiredcrew.zip) | 3.17 kb | 2025-12-01 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/reduce.requiredcrew/) <a href="res/imagemd/reduce.requiredcrew.md">view images</a> [1]<br>
 <br>
->Adds an free outfit which lets you reduce the required crew by 1.
+>Adds two free outfits which let you reduce your required crew.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
