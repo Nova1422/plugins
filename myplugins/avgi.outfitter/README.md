@@ -1,0 +1,51 @@
+Includes the following outfits
+
+	`"Nettle" KKV`
+	`"Ophrys" Nuclear Torpedo`
+	`"Orchid" Nuclear Missile`
+	"Blue Optical Laser"
+	"Green Optical Laser"
+	"Concealment Lamina"
+	"Concentrating Solar Array"
+	"Concentrating Solar Cell"
+	"Cryogenic Deuterium Tank"
+	"Deuterium Slush Tank"
+	"Diffuse Deflector"
+	"External Launch Rail"
+	"External Launch Tube"
+	"Heatsink Partition"
+	"Inductive Extractor"
+	"Lancet Adamant"
+	"Lantern Fission Core"
+	"Magnetoplasma Drive"
+	"Small VLS"
+	"Tiny VLS"
+	"Medium VLS"
+	"Multispectral Scanner"
+	"Ophrys Stockpile"
+	"Optical Laser Rifle"
+	"Optical Lasing Generator"
+	"Photoelectric Lamina"
+	"R-180 RCS Thrusters"
+	"R-360 RCS Thrusters"
+	"R-720 RCS Thrusters"
+	"Radiative Lamina"
+	"Remass Injector"
+	"Speck Magazine"
+	"Speck Round"
+	"Speckle Coilgun"
+	"Speckle Turret"
+	"Spectrometer Array"
+	"Specular Deflector"
+	"Ultracapacitor Bank"
+	"Ultracapacitor Cell"
+	`Z-333 "Spark" Fusion Torch`
+	`Z-666 "Zap" Fusion Torch`
+	`Z-999 "Arc" Fusion Torch`
+	`Z-3600 "Beam" Amat Torch`
+	"Vapor Nuclear Rocket"
+	"Magnetic Scoop"
+	"Plasmadyne Scoop"
+	"Orchid Magazine"
+	"Nettle Magazine"
+	"UREB Turrents"

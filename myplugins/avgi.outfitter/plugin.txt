@@ -1,0 +1,5 @@
+name `Avgi Outfitter`
+version "1.0.0"
+about `Adds all available Avgi outfits to the planet "Albatross"`
+authors
+	"Nova."

@@ -1,0 +1,17 @@
+mission "Avgi licenses"
+	invisible
+	landing
+	source "Albatross"
+	to offer
+		or
+			not "license: Avgi Atomics"
+			not "license: Avgi Torch"
+			not "license: Twilight Guard"
+	on offer
+		conversation
+			`A strange creature forcefully hands you some licenses.`
+				decline
+	on decline
+		set "license: Avgi Atomics"
+		set "license: Avgi Torch"
+		set "license:  Twilight Guard"
