@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-01 | update: avgi.outfitter<br>
 2025-12-01 | update: reduce.requiredcrew<br>
 2025-11-26 | update: capture.augen<br>
 2025-11-26 | update: reduce.requiredcrew<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-24 | update: capture.augen<br>
 2025-11-20 | update: capture.archons<br>
 2025-11-17 | update: modified.pirate.ships<br>
-2025-11-14 | update: capture.archons<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -173,7 +173,7 @@ nothing, simple repo tweaks
 <img src="myplugins/avgi.outfitter/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/avgi.outfitter.png" width="130" height="20">
 
-[avgi.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-avgi.outfitter/avgi.outfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/avgi.outfitter/) <a href="res/imagemd/avgi.outfitter.md">view images</a> [1]<br>
+[avgi.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-avgi.outfitter/avgi.outfitter.zip) | 77.92 kb | 2025-12-01 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/avgi.outfitter/) <a href="res/imagemd/avgi.outfitter.md">view images</a> [1]<br>
 <br>
 >Adds all available Avgi outfits to the planet "Albatross"
 
