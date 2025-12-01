@@ -2,8 +2,15 @@ outfit "Reduce Crew"
 	category "Special"
 	"required crew" -1
 
+outfit "Automate"
+	category "Special"
+	"automaton" 1
+
 outfitter "reducecrew"
 	location
 		attributes "outfitter"
 	"Reduce Crew"
+	"Automate"
+
+
 

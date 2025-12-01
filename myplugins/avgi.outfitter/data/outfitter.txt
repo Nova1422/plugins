@@ -50,5 +50,5 @@ outfitter "avgi.outfitter"
 	"Plasmadyne Scoop"
 	"Orchid Magazine"
 	"Nettle Magazine"
-	"UREB Turrents"
+	"UREB Turret"
 

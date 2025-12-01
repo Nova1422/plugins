@@ -48,4 +48,4 @@ Includes the following outfits
 	"Plasmadyne Scoop"
 	"Orchid Magazine"
 	"Nettle Magazine"
-	"UREB Turrents"
+	"UREB Turret"
