@@ -1,5 +1,4 @@
 aberrant.kahet.outfitter|1.0.2
-avgi.outfitter|1.0.0
 bunrodeaoutfitter|1.0.0
 capture.archons|1.1.1
 capture.augen|1.0.0
