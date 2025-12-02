@@ -14,4 +14,4 @@ mission "Avgi licenses"
 	on decline
 		set "license: Avgi Atomics"
 		set "license: Avgi Torch"
-		set "license:  Twilight Guard"
+		set "license: Twilight Guard"
