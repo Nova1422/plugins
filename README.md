@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-04 | update: disable.aberrant.blockade<br>
 2025-12-04 | update: navypirates<br>
 2025-12-02 | update: avgi.outfitter<br>
 2025-12-01 | update: avgi.outfitter<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-25 | update: zoom.extension<br>
 2025-11-24 | update: purchaseable.peregrine<br>
 2025-11-24 | update: purchaseable.androids<br>
-2025-11-24 | update: capture.augen<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -428,7 +428,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/disable.aberrant.blockade/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/disable.aberrant.blockade.png" width="130" height="20">
 
-[disable.aberrant.blockade.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-disable.aberrant.blockade/disable.aberrant.blockade.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/disable.aberrant.blockade/) <a href="res/imagemd/disable.aberrant.blockade.md">view images</a> [1]<br>
+[disable.aberrant.blockade.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-disable.aberrant.blockade/disable.aberrant.blockade.zip) | 52.93 kb | 2025-12-04 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/disable.aberrant.blockade/) <a href="res/imagemd/disable.aberrant.blockade.md">view images</a> [1]<br>
 <br>
 >Disables Aberrant Blockades on Avgi planets.
 
