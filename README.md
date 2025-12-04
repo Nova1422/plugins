@@ -36,7 +36,7 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturingpower">capturingpower</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#disableaberrantblockade">disable.aberrant.blockade</a><br>
-<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#groundassault">ground.assault</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#easiergroundassault">easier.ground.assault</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#navypirates">navypirates</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#obtainheron">obtainheron</a><br>
@@ -428,7 +428,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/disable.aberrant.blockade/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/disable.aberrant.blockade.png" width="130" height="20">
 
-[disable.aberrant.blockade.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-disable.aberrant.blockade/disable.aberrant.blockade.zip) | 52.93 kb | 2025-12-04 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/disable.aberrant.blockade/) <a href="res/imagemd/disable.aberrant.blockade.md">view images</a> [1]<br>
+[disable.aberrant.blockade.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-disable.aberrant.blockade/disable.aberrant.blockade.zip) | 52.93 kb | 2025-12-04 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/disable.aberrant.blockade/) <a href="res/imagemd/disable.aberrant.blockade.md">view images</a> [1]<br>
 <br>
 >Disables Aberrant Blockades on Avgi planets.
 
@@ -442,12 +442,12 @@ screenshots(click to enlarge):<br>
 
 ---
 
-### ground.assault
+### easier.ground.assault
 
-<img src="myplugins/ground.assault/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/ground.assault.png" width="130" height="20">
+<img src="myplugins/easier.ground.assault/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/easier.ground.assault.png" width="130" height="20">
 
-[ground.assault.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-ground.assault/ground.assault.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/ground.assault/) <a href="res/imagemd/ground.assault.md">view images</a> [1]<br>
+[easier.ground.assault.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-easier.ground.assault/easier.ground.assault.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/easier.ground.assault/) <a href="res/imagemd/easier.ground.assault.md">view images</a> [1]<br>
 <br>
 >Removes the offer requirement for ground assault Rano'erek's job.
 >The job will now be available on any remnant planet, ignoring the 5% offer rate and independent of your story progression.
