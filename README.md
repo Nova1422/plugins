@@ -7,6 +7,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-04 | update: navypirates<br>
 2025-12-02 | update: avgi.outfitter<br>
 2025-12-01 | update: avgi.outfitter<br>
 2025-12-01 | update: reduce.requiredcrew<br>
@@ -16,7 +17,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-24 | update: purchaseable.peregrine<br>
 2025-11-24 | update: purchaseable.androids<br>
 2025-11-24 | update: capture.augen<br>
-2025-11-20 | update: capture.archons<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -35,13 +35,15 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#captureaugen">capture.augen</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturingpower">capturingpower</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#disableaberrantblockade">disable.aberrant.blockade</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#groundassault">ground.assault</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#jumpdriveextended">jumpdrive.extended</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#navypirates">navypirates</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#obtainheron">obtainheron</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchasebactrian">purchase.bactrian</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseableandroids">purchaseable.androids</a><br>
-<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#quargoutfitter">quargoutfitter</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#reducerequiredcrew">reduce.requiredcrew</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#tributequarg">tributequarg</a><br>
@@ -421,6 +423,45 @@ screenshots(click to enlarge):<br>
 
 ---
 
+### disable.aberrant.blockade
+
+<img src="myplugins/disable.aberrant.blockade/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/disable.aberrant.blockade.png" width="130" height="20">
+
+[disable.aberrant.blockade.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-disable.aberrant.blockade/disable.aberrant.blockade.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/disable.aberrant.blockade/) <a href="res/imagemd/disable.aberrant.blockade.md">view images</a> [1]<br>
+<br>
+>Disables Aberrant Blockades on Avgi planets.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### ground.assault
+
+<img src="myplugins/ground.assault/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/ground.assault.png" width="130" height="20">
+
+[ground.assault.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-ground.assault/ground.assault.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/ground.assault/) <a href="res/imagemd/ground.assault.md">view images</a> [1]<br>
+<br>
+>Removes the offer requirement for ground assault Rano'erek's job.
+>The job will now be available on any remnant planet, ignoring the 5% offer rate and independent of your story progression.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
 ### jumpdrive.extended
 
 <img src="myplugins/jumpdrive.extended/icon.png" height="100">
@@ -479,13 +520,26 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/navypirates/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/navypirates.png" width="130" height="20">
 
-[navypirates.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-navypirates/navypirates.zip) | 321.84 kb | 2025-11-04 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/navypirates/) <a href="res/imagemd/navypirates.md">view images</a> [2]<br>
+[navypirates.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-navypirates/navypirates.zip) | 322.04 kb | 2025-12-04 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/navypirates/) <a href="res/imagemd/navypirates.md">view images</a> [2]<br>
 <br>
 >Adds Navy ships into pirate fleets.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
+<blockquote>Adds pirate government republic fleets
+
+
+
+
+
+Changelog
+
+
+
+1.0.1
+
+balance, bugs, consistency
+</blockquote>
 </details>
 
 <br>
