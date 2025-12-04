@@ -1,0 +1,5 @@
+name `Disable Aberrant Blockade`
+version "1.0.0"
+about `Disables Aberrant Blockades on Avgi planets.`
+authors
+	"Nova."
