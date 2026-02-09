@@ -1,0 +1,182 @@
+mission "Untangle the shroud"
+	job
+	repeat
+	description `Untangle the shroud?`
+	to offer
+		not "event: Untangle"
+	on accept
+		conversation
+			`Untangled Shroud.`
+			action
+				event "Untangle"
+				clear "event: Tangle"
+				fail
+
+mission "Tangle shroud?"
+	job
+	repeat
+	description `Tangle the shroud?`
+	to offer
+		has "event: Untangle"
+	on accept
+		conversation
+			`Tangled Shroud.`
+			action
+				event "Tangle"
+				clear "event: Untangle"
+				fail
+
+
+event "Untangle"
+	system "Khasola-Ryuit"
+		remove shrouded
+	system "Mavra-Ijsola"
+		remove shrouded
+	system "Kasii-Cavaasa"
+		remove shrouded
+	system "Avasaa-Novaa"
+		remove shrouded
+	system "Kiiraj-Luue"
+		remove shrouded
+	system "Kasi-Vasa-Novaa"
+		remove shrouded
+	system "Uuoru-Sossa"
+		remove shrouded
+	system "Vasa-Oorua"
+		remove shrouded
+	system "Kasii-Sola"
+		remove shrouded
+	system "Ar-40"
+		remove shrouded
+	system "As-75"
+		remove shrouded
+	system "B-11"
+		remove shrouded
+	system "Be-9"
+		remove shrouded
+	system "Br-80"
+		remove shrouded
+	system "C-12"
+		remove shrouded
+	system "Ca-40"
+		remove shrouded
+	system "Cl-35"
+		remove shrouded
+	system "Demilude"
+		remove shrouded
+	system "Ensemble"
+		remove shrouded
+	system "F-19"
+		remove shrouded
+	system "Ge-73"
+		remove shrouded
+	system "H-1"
+		remove shrouded
+	system "He-4"
+		remove shrouded
+	system "Interlude"
+		remove shrouded
+	system "K-39"
+		remove shrouded 
+	system "Kr-84"
+		remove shrouded
+	system "Li-7"
+		remove shrouded
+	system "Mg-24"
+		remove shrouded
+	system "N-14"
+		remove shrouded
+	system "Na-23"
+		remove shrouded
+	system "Ne-20"
+		remove shrouded
+	system "O-16"
+		remove shrouded
+	system "P-31"
+		remove shrouded
+	system "Postlude"
+		remove shrouded
+	system "Prelude"
+		remove shrouded
+	system "S-32"
+		remove shrouded
+	system "Si-28"
+		remove shrouded
+
+
+event "Tangle"
+	system "Khasola-Ryuit"
+		shrouded
+	system "Mavra-Ijsola"
+		shrouded
+	system "Kasii-Cavaasa"
+		shrouded
+	system "Avasaa-Novaa"
+		shrouded
+	system "Kiiraj-Luue"
+		shrouded
+	system "Kasi-Vasa-Novaa"
+		shrouded
+	system "Uuoru-Sossa"
+		shrouded
+	system "Vasa-Oorua"
+		shrouded
+	system "Kasii-Sola"
+		shrouded
+	system "Ar-40"
+		shrouded
+	system "As-75"
+		shrouded
+	system "B-11"
+		shrouded
+	system "Be-9"
+		shrouded
+	system "Br-80"
+		shrouded
+	system "C-12"
+		shrouded
+	system "Ca-40"
+		shrouded
+	system "Cl-35"
+		shrouded
+	system "Demilude"
+		shrouded
+	system "Ensemble"
+		shrouded
+	system "F-19"
+		shrouded
+	system "Ge-73"
+		shrouded
+	system "H-1"
+		shrouded
+	system "He-4"
+		shrouded
+	system "Interlude"
+		shrouded
+	system "K-39"
+		shrouded 
+	system "Kr-84"
+		shrouded
+	system "Li-7"
+		shrouded
+	system "Mg-24"
+		shrouded
+	system "N-14"
+		shrouded
+	system "Na-23"
+		shrouded
+	system "Ne-20"
+		shrouded
+	system "O-16"
+		shrouded
+	system "P-31"
+		shrouded
+	system "Postlude"
+		shrouded
+	system "Prelude"
+		shrouded
+	system "S-32"
+		shrouded
+	system "Si-28"
+		shrouded
+
