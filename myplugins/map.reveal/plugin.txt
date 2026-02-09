@@ -1,0 +1,5 @@
+name `Map Reveal`
+version "1.0.0"
+about `Adds a Job Board mission that permanently reveals the map.`
+authors
+	"Nova."
