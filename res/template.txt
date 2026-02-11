@@ -3,6 +3,8 @@ For any suggestions, mistakes, or so, mention me in the games [official discord 
 https://github.com/Nova1422/plugin-statistics/
 
 [some plugins which are not added here](https://github.com/Nova1422/additional-plugins)
+
+todo - release 1requiredcrew, and hr unlock
 %news%
 
 ## Plugin List:<br>
