@@ -14,7 +14,7 @@ ship "Aerie"
 
 ship "Albatross"
 	attributes
-		"required crew" 1
+		"required crew" 1f
 
 ship "Anomalocaris"
 	attributes
@@ -253,10 +253,6 @@ ship "Frigate"
 		"required crew" 1
 
 ship "Geocoris"
-	attributes
-		"required crew" 1
-
-ship "Geodesic Geocoris"
 	attributes
 		"required crew" 1
 
