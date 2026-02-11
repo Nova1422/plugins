@@ -14,7 +14,7 @@ ship "Aerie"
 
 ship "Albatross"
 	attributes
-		"required crew" 1f
+		"required crew" 1
 
 ship "Anomalocaris"
 	attributes
