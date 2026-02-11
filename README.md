@@ -9,6 +9,7 @@ todo - release 1requiredcrew, and hr unlock
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-02-11 | update: unshrouded<br>
 2026-02-11 | update: map.reveal<br>
 2025-12-04 | update: easier.ground.assault<br>
 2025-12-04 | update: disable.aberrant.blockade<br>
@@ -18,7 +19,6 @@ todo - release 1requiredcrew, and hr unlock
 2025-12-01 | update: reduce.requiredcrew<br>
 2025-11-26 | update: capture.augen<br>
 2025-11-26 | update: reduce.requiredcrew<br>
-2025-11-25 | update: zoom.extension<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -803,7 +803,7 @@ screenshots(click to enlarge):<br>
 <img src="myplugins/unshrouded/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unshrouded.png" width="130" height="20">
 
-[unshrouded.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-unshrouded/unshrouded.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unshrouded/) <a href="res/imagemd/unshrouded.md">view images</a> [1]<br>
+[unshrouded.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unshrouded/unshrouded.zip) | 64.1 kb | 2026-02-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unshrouded/) <a href="res/imagemd/unshrouded.md">view images</a> [1]<br>
 <br>
 >Lets you Untangle the Shroud.
 
