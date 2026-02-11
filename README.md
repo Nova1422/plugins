@@ -3,10 +3,13 @@ For any suggestions, mistakes, or so, mention me in the games [official discord 
 https://github.com/Nova1422/plugin-statistics/
 
 [some plugins which are not added here](https://github.com/Nova1422/additional-plugins)
+
+todo - release 1requiredcrew, and hr unlock
 ## Latest News:
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-02-11 | update: map.reveal<br>
 2025-12-04 | update: easier.ground.assault<br>
 2025-12-04 | update: disable.aberrant.blockade<br>
 2025-12-04 | update: navypirates<br>
@@ -16,7 +19,6 @@ https://github.com/Nova1422/plugin-statistics/
 2025-11-26 | update: capture.augen<br>
 2025-11-26 | update: reduce.requiredcrew<br>
 2025-11-25 | update: zoom.extension<br>
-2025-11-24 | update: purchaseable.peregrine<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -34,10 +36,11 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturearchons">capture.archons</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#captureaugen">capture.augen</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#capturingpower">capturingpower</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#disableaberrantblockade">disable.aberrant.blockade</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#easiergroundassault">easier.ground.assault</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#jumpdriveextended">jumpdrive.extended</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#mapreveal">map.reveal</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#navypirates">navypirates</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#obtainheron">obtainheron</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchasebactrian">purchase.bactrian</a><br>
@@ -48,7 +51,7 @@ https://github.com/Nova1422/plugin-statistics/
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#reducerequiredcrew">reduce.requiredcrew</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#tributequarg">tributequarg</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unlimiteddfc">unlimited.dfc</a><br>
-<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unlockhaireveal">unlock.hai.reveal</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unshrouded">unshrouded</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#zoomextension">zoom.extension</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
@@ -66,8 +69,7 @@ https://github.com/Nova1422/plugin-statistics/
 [1requiredcrew.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-1requiredcrew/1requiredcrew.zip) | 48.45 kb | 2025-10-19 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/1requiredcrew/) <a href="res/imagemd/1requiredcrew.md">view images</a> [1]<br>
 <br>
 >Reduces required crew of non pre existing ships to one. PS- Due to limitations, the ships you already own, will still have their original crew req, and ships you acquire with this plugin enabled, with retain the low crew requirement, ever after the plugin is disabled, best recommended for new saves or for specific captures
->
->Author: Nova.
+
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>N/A</blockquote>
@@ -515,6 +517,25 @@ screenshots(click to enlarge):<br>
 
 ---
 
+### map.reveal
+
+
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/map.reveal.png" width="130" height="20">
+
+[map.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-map.reveal/map.reveal.zip) | 24.44 kb | 2026-02-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/map.reveal/) <a href="res/imagemd/map.reveal.md">view images</a> [1]<br>
+<br>
+>Adds a Job Board mission that permanently reveals the map.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
 ### navypirates
 
 <img src="myplugins/navypirates/icon.png" height="100">
@@ -777,39 +798,18 @@ screenshots(click to enlarge):<br>
 
 ---
 
-### unlock.hai.reveal
+### unshrouded
 
-<img src="myplugins/unlock.hai.reveal/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlock.hai.reveal.png" width="130" height="20">
+<img src="myplugins/unshrouded/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unshrouded.png" width="130" height="20">
 
-[unlock.hai.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlock.hai.reveal/unlock.hai.reveal.zip) | 39.27 kb | 2025-11-11 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlock.hai.reveal/) <a href="res/imagemd/unlock.hai.reveal.md">view images</a> [1]<br>
+[unshrouded.zip](https://github.com/Nova1422/plugins/releases/download/v1.0-unshrouded/unshrouded.zip) | N/A | N/A | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unshrouded/) <a href="res/imagemd/unshrouded.md">view images</a> [1]<br>
 <br>
->Re-enables the blocked Hai Reveal storyline
+>Lets you Untangle the Shroud.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>In 0.10.0 HR was disabled, and restricted to just the intro, in 0.10.1, Two starting missions for HR, that is, Hai Leaks Response 1 and 2, were removed, That meant HR could no longer be triggered any more
-
-
-
-this plugin adds Hai Leaks Response 1 and 2, and re enables the disabled mission, letting you play the HR line
-
-
-
-
-
-
-
-Rightful credits to SomeTroglodyte and everyone involved in discussion #9161 for providing me the framework to understand and make this plugin
-
-
-
-repair hai reveal.txt(and the icon.png) was originally made by SomeTroglodyte for version 0.10.2, it was highly edited by me, which involved deleting the pre existing missions, and updating the added mission as per the latest release
-
-
-
-the fix was, as they stated, incomplete, that is, the condition "Hai Leaks Response 2: done" was impossible to get, this was fixed by me in tweaks.txt
-</blockquote>
+<blockquote>N/A</blockquote>
 </details>
 
 <br>
