@@ -1,3 +1,4 @@
+2026-10-14 | update: avgi.outfitter
 2026-02-11 | update: unshrouded
 2026-02-11 | update: map.reveal
 2025-12-04 | update: easier.ground.assault

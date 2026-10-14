@@ -9,6 +9,7 @@ todo - release 1requiredcrew, and hr unlock
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-14 | update: avgi.outfitter<br>
 2026-02-11 | update: unshrouded<br>
 2026-02-11 | update: map.reveal<br>
 2025-12-04 | update: easier.ground.assault<br>
@@ -18,7 +19,6 @@ todo - release 1requiredcrew, and hr unlock
 2025-12-01 | update: avgi.outfitter<br>
 2025-12-01 | update: reduce.requiredcrew<br>
 2025-11-26 | update: capture.augen<br>
-2025-11-26 | update: reduce.requiredcrew<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -177,67 +177,55 @@ nothing, simple repo tweaks
 <img src="myplugins/avgi.outfitter/icon.png" height="100">
 <img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/avgi.outfitter.png" width="130" height="20">
 
-[avgi.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-avgi.outfitter/avgi.outfitter.zip) | 77.92 kb | 2025-12-02 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/avgi.outfitter/) <a href="res/imagemd/avgi.outfitter.md">view images</a> [1]<br>
+[avgi.outfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-avgi.outfitter/avgi.outfitter.zip) | 78.24 kb | 2026-10-14 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/avgi.outfitter/) <a href="res/imagemd/avgi.outfitter.md">view images</a> [1]<br>
 <br>
->Adds all available Avgi outfits to the planet "Albatross"
+>Adds all Avgi outfits to the planet "Albatross"
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>Includes the following outfits
 
-
-
-	`"Nettle" KKV`
-
-	`"Ophrys" Nuclear Torpedo`
-
-	`"Orchid" Nuclear Missile`
-
-	"Blue Optical Laser"
-
-	"Green Optical Laser"
+	"Radiative Lamina"
 
 	"Concealment Lamina"
 
-	"Concentrating Solar Array"
+	"Magnetic Scoop"
 
-	"Concentrating Solar Cell"
-
-	"Cryogenic Deuterium Tank"
+	"Plasmadyne Scoop"
 
 	"Deuterium Slush Tank"
 
-	"Diffuse Deflector"
-
-	"External Launch Rail"
-
-	"External Launch Tube"
+	"Cryogenic Deuterium Tank"
 
 	"Heatsink Partition"
 
-	"Inductive Extractor"
+	"Multispectral Scanner"
 
-	"Lancet Adamant"
+	"Spectrometer Array"
+
+	"Diffuse Deflector"
+
+	"Specular Deflector"
+
+	"Concentrating Solar Cell"
+
+	"Concentrating Solar Array"
+
+	"Photoelectric Lamina"
 
 	"Lantern Fission Core"
 
+	"Ultracapacitor Cell"
+
+	"Ultracapacitor Bank"
+
 	"Magnetoplasma Drive"
 
-	"Small VLS"
+	"Vapor Nuclear Rocket"
 
-	"Tiny VLS"
+	"Remass Injector"
 
-	"Medium VLS"
-
-	"Multispectral Scanner"
-
-	"Ophrys Stockpile"
-
-	"Optical Laser Rifle"
-
-	"Optical Lasing Generator"
-
-	"Photoelectric Lamina"
+	"Inductive Extractor"
 
 	"R-180 RCS Thrusters"
 
@@ -245,25 +233,79 @@ nothing, simple repo tweaks
 
 	"R-720 RCS Thrusters"
 
-	"Radiative Lamina"
+	"Optical Laser Rifle"
 
-	"Remass Injector"
+	"Trefoil Board"
 
-	"Speck Magazine"
+	"Damselflyman"
+
+	"Lancet Adamant"
+
+	"Twilight Guard License"
+
+	"Avgi Torch License"
+
+	"Avgi Atomics License"
 
 	"Speck Round"
+
+	"Speck Magazine"
 
 	"Speckle Coilgun"
 
 	"Speckle Turret"
 
-	"Spectrometer Array"
+	"Speck"
 
-	"Specular Deflector"
+	"Optical Lasing Generator"
 
-	"Ultracapacitor Bank"
+	"Green Optical Laser"
 
-	"Ultracapacitor Cell"
+	"Blue Optical Laser"
+
+	"Ultraviolet Excimer Laser"
+
+	"Ultrarelativistic Electron Beam"
+
+	"TeV Electron Bunch"
+
+	"UREB Turret"
+
+	"GeV Electron Bunch"
+
+	"External Launch Rail"
+
+	"External Launch Tube"
+
+	"Tiny VLS"
+
+	"Small VLS"
+
+	"Medium VLS"
+
+	"Nettle Active"
+
+	"Nettle Flecks"
+
+	"Orchid Active"
+
+	"Orchid Boost"
+
+	"Orchid Coast"
+
+	"Orchid Divert"
+
+	"Orchid Terminal"
+
+	"Orchid Boost Stage Expended"
+
+	"Orchid Divert Stage Expended"
+
+	"Ophrys Stockpile"
+
+	"Ophrys Terminal"
+
+	`A-3600 "Beam" Amat Drive`
 
 	`Z-333 "Spark" Fusion Torch`
 
@@ -271,19 +313,22 @@ nothing, simple repo tweaks
 
 	`Z-999 "Arc" Fusion Torch`
 
-	`Z-3600 "Beam" Amat Torch`
+	`"Nettle" KKV`
 
-	"Vapor Nuclear Rocket"
+	`"Orchid" Nuclear Missile`
 
-	"Magnetic Scoop"
+	`"Ophrys" Nuclear Torpedo`
 
-	"Plasmadyne Scoop"
+
+
+	#deprecated things
+
+	`Z-3600 "Beam" Amat Torch` 
 
 	"Orchid Magazine"
 
 	"Nettle Magazine"
 
-	"UREB Turret"
 </blockquote>
 </details>
 
