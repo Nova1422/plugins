@@ -1,8 +1,0 @@
-disable mission "HR Removed"
-
-mission "hai home rep."
-	landing
-	invisible
-	non-blocking
-	on offer
-		"reputation: Hai" = 260

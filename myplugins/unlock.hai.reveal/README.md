@@ -1,5 +1,0 @@
-Starting in 0.11.0 Hai Reveal no longer exists, this plugin restores the now deleted hai storyline, to the best of its capabilities. 
-
-This plugin salvages most of the removed content in 12092, however some things werent completely removed, this includes some small mission text mentions and such, these are not required for the plugin to be functional, but they can be brought back as well in a less promising form through the overwrite function added in 0.11.0, it may conflict with the base game, hence its not on by default, except for government override.txt, which was neccesary. Can be enabled by pasting the overwrites folder in the data folder.
-
-For contribution to this storyline and information about the development can be found at the [original writers repo](https://github.com/MasterOfGrey/Hai-Reveal-Plugin).

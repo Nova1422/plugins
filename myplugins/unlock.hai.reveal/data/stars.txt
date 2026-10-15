@@ -1,4 +1,0 @@
-# Rogue planet with unusual properties
-star "planet/rogue-radiating"
-	power .2
-	wind .6

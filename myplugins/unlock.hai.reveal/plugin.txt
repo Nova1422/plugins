@@ -1,5 +1,0 @@
-name "Unlocked Hai Reveal"
-version "2.0.0-alpha"
-about "Brings back the deleted hai storyline."
-authors
-	"Nova. / Amane"
