@@ -1,0 +1,5 @@
+name `Credits`
+version "1.0.0"
+about `Adds a job board mission which lets you cheat in money.`
+authors
+	"Nova."

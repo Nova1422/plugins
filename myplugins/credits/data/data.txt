@@ -1,0 +1,484 @@
+mission "Credits"
+	description `Get Credits?`
+	job
+	repeat
+	on accept
+		conversation
+			`How much?`
+			choice
+				`thousands`
+					goto thousands
+				`millions`
+					goto mil
+				`billions`
+					goto bil
+				`trillions`
+					goto tril
+				`quadrillions`
+					goto quad
+				`quintillions`
+					goto quint
+			label thousands
+			choice
+				`	500k`
+					goto 500k
+				`	200k`
+					goto 200k
+				`	100k`
+					goto 100k
+				`	50k`
+					goto 50k
+				`	20k`
+					goto 20k
+				`	10k`
+					goto 10k
+				`	5k`
+					goto 5k
+				`	2k`
+					goto 2k
+				`	1k`
+					goto 1k
+
+			label mil
+			choice
+				`	500m`
+					goto 500m
+				`	200m`
+					goto 200m
+				`	100m`
+					goto 100m
+				`	50m`
+					goto 50m
+				`	20m`
+					goto 20m
+				`	10m`
+					goto 10m
+				`	5m`
+					goto 5m
+				`	2m`
+					goto 2m
+				`	1m`
+					goto 1m
+
+			label bil
+			choice
+				`	500b`
+					goto 500b
+				`	200b`
+					goto 200b
+				`	100b`
+					goto 100b
+				`	50b`
+					goto 50b
+				`	20b`
+					goto 20b
+				`	10b`
+					goto 10b
+				`	5b`
+					goto 5b
+				`	2b`
+					goto 2b
+				`	1b`
+					goto 1b
+
+			label tril
+			choice
+				`	500t`
+					goto 500t
+				`	200t`
+					goto 200t
+				`	100t`
+					goto 100t
+				`	50t`
+					goto 50t
+				`	20t`
+					goto 20t
+				`	10t`
+					goto 10t
+				`	5t`
+					goto 5t
+				`	2t`
+					goto 2t
+				`	1t`
+					goto 1t
+
+			label quad
+			choice
+				`	500q`
+					goto 500q
+				`	200q`
+					goto 200q
+				`	100q`
+					goto 100q
+				`	50q`
+					goto 50q
+				`	20q`
+					goto 20q
+				`	10q`
+					goto 10q
+				`	5q`
+					goto 5q
+				`	2q`
+					goto 2q
+				`	1q`
+					goto 1q
+
+			label quint
+			choice
+				`	500qu`
+					goto 500qu
+				`	200qu`
+					goto 200qu
+				`	100qu`
+					goto 100qu
+				`	50qu`
+					goto 50qu
+				`	20qu`
+					goto 20qu
+				`	10qu`
+					goto 10qu
+				`	5qu`
+					goto 5qu
+				`	2qu`
+					goto 2qu
+				`	1qu`
+					goto 1qu
+
+			# THOUSANDS
+			label 1k
+			action
+			`added`
+				payment 1000
+				decline
+
+			label 2k
+			`added`
+			action
+				payment 2000
+				decline
+
+			label 5k
+			`added`
+			action
+				payment 5000
+				decline
+
+			label 10k
+			`added`
+			action
+				payment 10000
+				decline
+
+			label 20k
+			`added`
+			action
+				payment 20000
+				decline
+
+			label 50k
+			`added`
+			action
+				payment 50000
+				decline
+
+			label 100k
+			`added`
+			action
+				payment 100000
+				decline
+
+			label 200k
+			`added`
+			action
+				payment 200000
+				decline
+
+			label 500k
+			`added`
+			action
+				payment 500000
+				decline
+
+
+			# MILLIONS
+			label 1m
+			`added`
+			action
+				payment 1000000
+				decline
+
+			label 2m
+			`added`
+			action
+				payment 2000000
+				decline
+
+			label 5m
+			`added`
+			action
+				payment 5000000
+				decline
+
+			label 10m
+			`added`
+			action
+				payment 10000000
+				decline
+
+			label 20m
+			`added`
+			action
+				payment 20000000
+				decline
+
+			label 50m
+			`added`
+			action
+				payment 50000000
+				decline
+
+			label 100m
+			`added`
+			action
+				payment 100000000
+				decline
+
+			label 200m
+			`added`
+			action
+				payment 200000000
+				decline
+
+			label 500m
+			`added`
+			action
+				payment 500000000
+				decline
+
+
+			# BILLIONS
+			label 1b
+			`added`
+			action
+				payment 1000000000
+				decline
+
+			label 2b
+			`added`
+			action
+				payment 2000000000
+				decline
+
+			label 5b
+			`added`
+			action
+				payment 5000000000
+				decline
+
+			label 10b
+			`added`
+			action
+				payment 10000000000
+				decline
+
+			label 20b
+			`added`
+			action
+				payment 20000000000
+				decline
+
+			label 50b
+			`added`
+			action
+				payment 50000000000
+				decline
+
+			label 100b
+			`added`
+			action
+				payment 100000000000
+				decline
+
+			label 200b
+			`added`
+			action
+				payment 200000000000
+				decline
+
+			label 500b
+			`added`
+			action
+				payment 500000000000
+				decline
+
+
+			# TRILLIONS
+			label 1t
+			`added`
+			action
+				payment 1000000000000
+				decline
+
+			label 2t
+			`added`
+			action
+				payment 2000000000000
+				decline
+
+			label 5t
+			`added`
+			action
+				payment 5000000000000
+				decline
+
+			label 10t
+			`added`
+			action
+				payment 10000000000000
+				decline
+
+			label 20t
+			`added`
+			action
+				payment 20000000000000
+				decline
+
+			label 50t
+			`added`
+			action
+				payment 50000000000000
+				decline
+
+			label 100t
+			`added`
+			action
+				payment 100000000000000
+				decline
+
+			label 200t
+			`added`
+			action
+				payment 200000000000000
+				decline
+
+			label 500t
+			`added`
+			action
+				payment 500000000000000
+				decline
+
+
+			# QUADRILLIONS
+			label 1q
+			`added`
+			action
+				payment 1000000000000000
+				decline
+
+			label 2q
+			`added`
+			action
+				payment 2000000000000000
+				decline
+
+			label 5q
+			`added`
+			action
+				payment 5000000000000000
+				decline
+
+			label 10q
+			`added`
+			action
+				payment 10000000000000000
+				decline
+
+			label 20q
+			`added`
+			action
+				payment 20000000000000000
+				decline
+
+			label 50q
+			`added`
+			action
+				payment 50000000000000000
+				decline
+
+			label 100q
+			`added`
+			action
+				payment 100000000000000000
+				decline
+
+			label 200q
+			`added`
+			action
+				payment 200000000000000000
+				decline
+
+			label 500q
+			`added`
+			action
+				payment 500000000000000000
+				decline
+
+
+			# QUINTILLIONS
+			label 1qu
+			`added`
+			action
+				payment 1000000000000000000
+				decline
+
+			label 2qu
+			`added`
+			action
+				payment 2000000000000000000
+				decline
+
+			label 5qu
+			`added`
+			action
+				payment 5000000000000000000
+				decline
+
+			label 10qu
+			`added`
+			action
+				payment 10000000000000000000
+				decline
+
+			label 20qu
+			`added`
+			action
+				payment 20000000000000000000
+				decline
+
+			label 50qu
+			`added`
+			action
+				payment 50000000000000000000
+				decline
+
+			label 100qu
+			`added`
+			action
+				payment 100000000000000000000
+				decline
+
+			label 200qu
+			`added`
+			action
+				payment 200000000000000000000
+				decline
+
+			label 500qu
+			`added`
+			action
+				payment 500000000000000000000
+				decline
+
+
+
+
