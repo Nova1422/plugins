@@ -1,0 +1,169 @@
+government "Bounty Hunter that Won't Enter Hai Space"
+	"display name" "Bounty Hunter"
+	swizzle 6
+	color "governments: Pirate"
+
+	"player reputation" -1000
+	"bribe" .2
+	"fine" 0
+	"hostile hail" "hostile bounty hunter"
+	"hostile disabled hail" "hostile disabled"
+	
+government "Elenctic Commune"
+	swizzle 0
+	color "governments: Neutral"
+
+	"player reputation" 1000
+	"attitude toward"
+		"Hai" .1
+		"Hai (Friendly Unfettered)" .1
+		"Pirate" -.2
+		"Pirate (Devil-Run Gang)" -.2
+		"Smuggler (Hai Trafficker)" -.2
+	"bribe" .05
+
+government "Forest (Prey)"
+	"display name" "Forest"
+
+	# Nothing you do permanently angers indigenous creatures, because they are
+	# not sentient and do not remember you as an individual.
+	"player reputation" 1
+	"penalty for"
+		assist 0
+		disable 0
+		board 0
+		capture 0
+		destroy 0
+		atrocity 0
+
+government "Free Worlds that won't enter wormhole"
+	"display name" "Free Worlds"
+	swizzle 2
+	color "governments: Free"
+
+	"player reputation" 1
+	"attitude toward"
+		"Free Worlds" 1
+		"Merchant" .3
+		"Militia" .3
+		"Pirate" -.4
+		"Pirate (Devil-Run Gang)" -.4
+		"Smuggler (Hai Trafficker)" .05
+		"Neutral" .1
+	"bribe" .1
+	"friendly hail" "friendly free worlds"
+	"friendly disabled hail" "friendly disabled"
+	"hostile hail" "hostile free worlds"
+	"hostile disabled hail" "hostile disabled"
+	raid "pirate raid"
+
+government "Hai (Friendly Unfettered)"
+	swizzle 4
+	color "governments: Hai (Unfettered)"
+	"display name" "Hai (Unfettered)"
+
+	"player reputation" 100
+	"attitude toward"
+		"Pirate" -.01
+		"Pirate (Devil-Run Gang)" -.01
+		"Korath" -.01
+		"Hai" .01
+		"Hai (Wormhole Access)" .01
+		"Hai (Unfettered)" 1
+		"Elenctic Commune" .01
+	"foreign penalties for"
+		"Hai (Unfettered)"
+	"bribe" .02
+	"fine" 0
+	"friendly hail" "friendly unfettered"
+	"friendly disabled hail" "friendly disabled unfettered"
+	"hostile hail" "hostile unfettered"
+	"hostile disabled hail" "hostile disabled unfettered"
+
+government "Pirate (Devil-Run Gang)"
+	swizzle 6
+	color "governments: Pirate"
+	"display name" "Pirate"
+
+	"player reputation" -1000
+	"attitude toward"
+		"Author" -.001
+		"Hai" -.001
+		"Hai (Wormhole Access)" -.001
+		"Korath" -.001
+		"Merchant" -.001
+		"Syndicate" -.001
+		"Hai (Friendly Unfettered)" -.001
+		"Forest (Prey)" -.001
+	"bribe" .05
+	"fine" 0
+	"friendly hail" "friendly pirate"
+	"friendly disabled hail" "friendly disabled pirate"
+	"hostile hail" "hostile pirate"
+	"hostile disabled hail" "hostile disabled pirate"
+
+government "Republic that won't enter wormhole"
+	"display name" Republic
+	swizzle 0
+	color "governments: Republic"
+	"crew attack" 1.2
+	"crew defense" 2.2
+	
+	"player reputation" 2
+	"attitude toward"
+		"Alpha" -.3
+		"Merchant" .25
+		"Militia" .1
+		"Pirate" -.3
+		"Pirate (Devil-Run Gang)" -.3
+		"Republic" 1
+		"Smuggler (Hai Trafficker)" .05
+		"Navy Intelligence" 1
+		"Republic Intelligence" 1
+		"Navy (Oathkeeper)" 1
+		"Neutral" .1
+	"friendly hail" "friendly navy"
+	"friendly disabled hail" "friendly disabled"
+	"hostile hail" "hostile navy"
+	"hostile disabled hail" "hostile disabled"
+	"ship bribe rejection hail" "ship bribe rejection navy"
+	raid "pirate raid"
+
+government "Republic Intelligence"
+	swizzle 0
+	"crew attack" 1.2
+	"crew defense" 2.2
+	"attitude toward"
+		"Pirate" -.3
+	"friendly disabled hail" "friendly disabled"
+	"hostile disabled hail" "hostile disabled"
+	"ship bribe rejection hail" "ship bribe rejection navy"
+
+
+government "Smuggler (Hai Trafficker)"
+	swizzle 5
+	"display name" "Smuggler"
+
+	"bribe" .1
+	"fine" 0
+	"friendly hail" "friendly civilian"
+	"friendly disabled hail" "friendly disabled"
+	"hostile hail" "hostile pirate"
+	"hostile disabled hail" "hostile disabled"
+
+	# They just want to pass through the system alive, so they
+	# won't attack anyone unless they have to.
+	"player reputation" 1
+	"penalty for"
+		assist 0
+		disable 0
+		board 0
+		capture 0
+		destroy 0
+		atrocity 0
+
+# For space objects of unknown origin, to ensure the player can't land:
+government "Unknown"
+	swizzle 1
+	color "governments: Ungoverned"
+	"player reputation" -1000
