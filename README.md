@@ -9,6 +9,7 @@ todo - release 1requiredcrew, and hr unlock
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-11-01 | update: unlock.hai.reveal<br>
 2026-10-14 | update: avgi.outfitter<br>
 2026-02-11 | update: unshrouded<br>
 2026-02-11 | update: map.reveal<br>
@@ -18,7 +19,6 @@ todo - release 1requiredcrew, and hr unlock
 2025-12-02 | update: avgi.outfitter<br>
 2025-12-01 | update: avgi.outfitter<br>
 2025-12-01 | update: reduce.requiredcrew<br>
-2025-11-26 | update: capture.augen<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -45,12 +45,13 @@ todo - release 1requiredcrew, and hr unlock
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#obtainheron">obtainheron</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchasebactrian">purchase.bactrian</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseableandroids">purchaseable.androids</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#purchaseablecloakingdevice">purchaseable.cloakingdevice</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#quargoutfitter">quargoutfitter</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#reducerequiredcrew">reduce.requiredcrew</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#tributequarg">tributequarg</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unlimiteddfc">unlimited.dfc</a><br>
+<a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unlockhaireveal">unlock.hai.reveal</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#unshrouded">unshrouded</a><br>
 <a href="https://github.com/Nova1422/plugins?tab=readme-ov-file#zoomextension">zoom.extension</a><br>
 <img width="294" height="1"><br></td></tr></table>
@@ -837,6 +838,30 @@ screenshots(click to enlarge):<br>
 	</tr>
 </table>
 <br>
+
+<br>
+
+
+---
+
+### unlock.hai.reveal
+
+<img src="myplugins/unlock.hai.reveal/icon.png" height="100">
+<img src="https://raw.githubusercontent.com/Nova1422/plugin-statistics/main/pics/unlock.hai.reveal.png" width="130" height="20">
+
+[unlock.hai.reveal.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-unlock.hai.reveal/unlock.hai.reveal.zip) | 3.15 mb | 2026-11-01 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlock.hai.reveal/) <a href="res/imagemd/unlock.hai.reveal.md">view images</a> [62]<br>
+<br>
+>Brings back the deleted hai storyline.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>Starting in 0.11.0 Hai Reveal no longer exists, this plugin restores the now deleted hai storyline, to the best of its capabilities. 
+
+
+
+This plugin salvages most of the removed content in 12092, however some things werent completely removed, this includes some small mission text mentions and such, these are not required for the plugin to be functional, but they can be brought back as well in a less promising form through the overwrite function added in 0.11.0, it may conflict with the base game, hence its not on by default, except for government override.txt, which was neccesary. Can be enabled by pasting the overwrites folder in the data folder.
+</blockquote>
+</details>
 
 <br>
 
